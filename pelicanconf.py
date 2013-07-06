@@ -39,5 +39,3 @@ PLUGIN_PATH = 'plugins'
 
 THEME = 'themes/tuxlite_tbs'
 STATIC_PATHS = ["images", ]
-
-TWITTER_USERNAME = 'footballissex'
