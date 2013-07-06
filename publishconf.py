@@ -23,5 +23,5 @@ PLUGINS = ['gzip_cache', ]
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
+DISQUS_SITENAME = "footballissexbaby"
 #GOOGLE_ANALYTICS = ""

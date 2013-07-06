@@ -17,16 +17,15 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+LINKS = (('Sideline Reporter', 'http://sidelinereporter.wordpress.com/'),
+         ('Hard Count', 'http://hardcount.wordpress.com/'),
+         ('Der andere Football Blog', 'http://deranderefootballblog.wordpress.com/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/footballissex'),
           ('Facebook', 'https://www.facebook.com/FootballIsSexBaby'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
