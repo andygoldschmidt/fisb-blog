@@ -33,5 +33,5 @@ aber vielleicht erleben wir ja doch eine Überraschung :)
 
  
 
-  [Result]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/06/result1.png
+  [Result]: http://footballissexbaby.de/wp-content/uploads/2011/06/result1.png
     "result.png"

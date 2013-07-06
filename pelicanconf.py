@@ -16,14 +16,6 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-ARTICLE_URL = u'{date:%Y}/{date:%m}/{slug}.html'
-ARTICLE_SAVE_AS = u'{date:%Y}/{date:%m}/{slug}.html'
-
-THEME = 'themes/tuxlite_tbs'
-STATIC_PATHS = ["images", ]
-
-TWITTER_USERNAME = 'footballissex'
-
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),
@@ -38,3 +30,14 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# My custom settings
+ARTICLE_URL = u'{date:%Y}/{date:%m}/{slug}.html'
+ARTICLE_SAVE_AS = u'{date:%Y}/{date:%m}/{slug}.html'
+
+PLUGIN_PATH = 'plugins'
+
+THEME = 'themes/tuxlite_tbs'
+STATIC_PATHS = ["images", ]
+
+TWITTER_USERNAME = 'footballissex'

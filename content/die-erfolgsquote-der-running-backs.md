@@ -702,5 +702,5 @@ Doch auch wenn Adrian Peterson in der Success Rate nur Mittelmaß ist,
 besteht wohl kein Zweifel daran, dass er zurecht als derzeit bester
 Running Back in der NFL gesehen wird.
 
-  [Der derzeit zweifellos beste Running Back der NFL.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/05/ap-300x200.jpg
+  [Der derzeit zweifellos beste Running Back der NFL.]: http://footballissexbaby.de/wp-content/uploads/2013/05/ap-300x200.jpg
   [Football Outsiders]: http://www.footballoutsiders.com/stat-analysis/2004/introducing-running-back-success-rate

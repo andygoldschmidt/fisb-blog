@@ -23,11 +23,11 @@ ausdrücklich eine Leseempfehlung ausgesprochen sei:
 </center>
 </p>
 
-  [DVOA gegen Koko, den Affen]: http://footballissexbaby.de/wordpress/2012/07/dvoa-gegen-koko-den-affen/
+  [DVOA gegen Koko, den Affen]: http://footballissexbaby.de/2012/07/dvoa-gegen-koko-den-affen/
     "DVOA gegen Koko, den Affen"
   [FootballOutsiders]: http://www.footballoutsiders.com
   [Sideline Reporter]: http://sidelinereporter.wordpress.com
-  [pythagoräische Erwartung nach Saison 2011]: http://footballissexbaby.de/wordpress/2012/07/die-einfachst-mogliche-nfl-prognose/
+  [pythagoräische Erwartung nach Saison 2011]: http://footballissexbaby.de/2012/07/die-einfachst-mogliche-nfl-prognose/
     "Die einfachst mögliche NFL-Prognose"
   [Sunny gegen Koko, Pythagoras gegen Lebensgefährtin]: http://sidelinereporter.wordpress.com/2013/01/03/sunny-gegen-koko-pythagoras-gegen-lebensgefahrtin-wer-ist-denn-nun-gescheiter-als-die-affen-oder-ist-uberhaupt-jemand-gescheitert-als-die-affen/
     "Sunny gegen Koko, Pythagoras gegen Lebensgefährtin"

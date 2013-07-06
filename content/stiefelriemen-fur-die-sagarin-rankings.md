@@ -123,13 +123,13 @@ Nach dem Spieltag werde ich mich der Vorhersagekraft nochmal annehmen.
 
 Einen schönen Footballsonntag allen zusammen!
 
-  [Nyg 100]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/nyg_1002.png
+  [Nyg 100]: http://footballissexbaby.de/wp-content/uploads/2011/10/nyg_1002.png
     "nyg_100.png"
-  [Nyg 1000]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/nyg_10002.png
+  [Nyg 1000]: http://footballissexbaby.de/wp-content/uploads/2011/10/nyg_10002.png
     "nyg_1000.png"
-  [Nyg 10000]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/nyg_100002.png
+  [Nyg 10000]: http://footballissexbaby.de/wp-content/uploads/2011/10/nyg_100002.png
     "nyg_10000.png"
-  [Nyg 100000]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/nyg_1000002.png
+  [Nyg 100000]: http://footballissexbaby.de/wp-content/uploads/2011/10/nyg_1000002.png
     "nyg_100000.png"
-  [Ratings]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/ratings.png
+  [Ratings]: http://footballissexbaby.de/wp-content/uploads/2011/10/ratings.png
     "ratings.png"

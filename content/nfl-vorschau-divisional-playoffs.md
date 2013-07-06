@@ -184,7 +184,7 @@ Atlanta.
 </div>
 </div>
 
-  [an anderer Stelle bereits Stellung bezogen habe]: http://footballissexbaby.de/wordpress/2013/01/die-nfl-und-die-verletzungen/
+  [an anderer Stelle bereits Stellung bezogen habe]: http://footballissexbaby.de/2013/01/die-nfl-und-die-verletzungen/
     "Die NFL und die Verletzungen"
   [Baltimore Ravens @ Denver Broncos]: #
   [Flo Zielbauer auf seinem Blog]: http://hardcount.wordpress.com/2013/01/11/wie-konnen-die-49ers-aaron-rodgers-stoppen/

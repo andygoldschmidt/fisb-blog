@@ -56,10 +56,10 @@ einem ungeheuren Spaß bringt. Man muss eben nur etwas dafür tun, immer
 und immer wieder. Und irgendwann stolpert man über die Stellenanzeige,
 hinter der sich der persönliche Traumjob verbirgt!
 
-  [die unverhersagbare Bezahlung von Free Agents]: http://footballissexbaby.de/wordpress/2013/03/die-unvorhersagbare-free-agency/
+  [die unverhersagbare Bezahlung von Free Agents]: http://footballissexbaby.de/2013/03/die-unvorhersagbare-free-agency/
     "Die unvorhersagbare Free Agency"
-  [die Success Rate von Running Backs]: http://footballissexbaby.de/wordpress/2013/05/die-erfolgsquote-der-running-backs/
+  [die Success Rate von Running Backs]: http://footballissexbaby.de/2013/05/die-erfolgsquote-der-running-backs/
     "Die Erfolgsquote der Running Backs"
-  [jimdo\_logo]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/05/jimdo_logo-300x108.jpg
+  [jimdo\_logo]: http://footballissexbaby.de/wp-content/uploads/2013/05/jimdo_logo-300x108.jpg
   [![jimdo\_logo][]]: http://www.jimdo.de
-  [footballissexbaby.de]: http://www.footballissexbaby.de/wordpress
+  [footballissexbaby.de]: http://www.footballissexbaby.de

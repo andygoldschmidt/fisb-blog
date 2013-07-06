@@ -134,7 +134,7 @@ Dieses Spiel kann alles werden: von spannend bis zur letzten Sekunde bis
 hin zu langweilig ab dem 2. Quarter.
 
   [Bill Belichick mit dem größten Gefühlsausbruch seit
-  Highschool-Zeiten.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/01/nfl_g_brady_belichick_580-300x168.jpg
+  Highschool-Zeiten.]: http://footballissexbaby.de/wp-content/uploads/2013/01/nfl_g_brady_belichick_580-300x168.jpg
   [hat Chris Brown in einem sehr lesenswerten Grantland-Artikel
   erläutert]: http://www.grantland.com/story/_/id/8849439/how-terminology-erhardt-perkins-system-helped-maintain-dominance-tom-brady-patriots
   [ProFootballFocus.com]: http://www.profootballfocus.com

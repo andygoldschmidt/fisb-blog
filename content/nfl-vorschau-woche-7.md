@@ -250,5 +250,5 @@ auf heimischen Feld zu besiegen.
 </div>
 
   [Tennessee Titans @ Buffalo Bills:]: #
-  [Der Hauptgrund, Quarterback Robert Griffin III]: http://footballissexbaby.de/wordpress/2012/10/rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison/
+  [Der Hauptgrund, Quarterback Robert Griffin III]: http://footballissexbaby.de/2012/10/rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison/
     "RG3 oder Cam Newton: Wer hat die bessere Rookie-Saison?"

@@ -44,5 +44,5 @@ Ich bin am Sonntag übrigens in Kiel und werde dort "meine" Monarchs
 anfeuern. Wenn einer von euch auch vor Ort sein sollte, kann er ja einen
 kurzen Kommentar hinterlassen!
 
-  [auf das Playoff-Szenario vor dem Viertelfinale]: http://footballissexbaby.de/wordpress/2012/09/gfl-playoffs-wer-wird-am-ende-in-berlin-jubeln/
+  [auf das Playoff-Szenario vor dem Viertelfinale]: http://footballissexbaby.de/2012/09/gfl-playoffs-wer-wird-am-ende-in-berlin-jubeln/
     "GFL-Playoffs: Wer wird am Ende in Berlin jubeln?"

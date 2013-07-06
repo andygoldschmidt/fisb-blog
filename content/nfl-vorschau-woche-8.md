@@ -263,5 +263,5 @@ solides Spiel sollte zum Erfolg schon genügen.
 
   [den Recap von korsakoff bei Sideline Reporter]: http://sidelinereporter.wordpress.com/2012/10/26/recap-vikings-vs-buccaneers/
   [Carolina Panthers @ Chicago Bears:]: #
-  [in der Review von Woche 7 geschrieben]: http://footballissexbaby.de/wordpress/2012/10/die-nfl-in-zahlen-woche-7/
+  [in der Review von Woche 7 geschrieben]: http://footballissexbaby.de/2012/10/die-nfl-in-zahlen-woche-7/
     "Die NFL in Zahlen: Woche 7"

@@ -33,8 +33,8 @@ Eurosport**gucken! Das Spiel wird ganz sicher sehenswert!
 
  
 
-  [Gb team]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/gb_team.png
+  [Gb team]: http://footballissexbaby.de/wp-content/uploads/2011/10/gb_team.png
     "gb_team.png"
-  [Gb rating]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/gb_rating.png
+  [Gb rating]: http://footballissexbaby.de/wp-content/uploads/2011/10/gb_rating.png
     "gb_rating.png"
   [ich mag Unicorns-QB Aaron Boehme]: https://footballissexbaby.wordpress.com/2011/06/21/aaron-boehme-ein-geschenk-fur-die-gfl/

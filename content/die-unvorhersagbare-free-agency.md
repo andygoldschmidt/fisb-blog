@@ -174,22 +174,22 @@ angewendet werden, darüber hinaus werden aber individuelle Faktoren zu
 bedeutend und umfassend als das man das in ein sinnvolles, anwendbares
 Modell gießen könnte.
 
-  [Mike Wallace: Der Hauptpreis der diesjährigen Free Agency.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/mike-wallace-300x239.jpg
-  [**Wieviel sollte Joe Flacco den Ravens wert sein?**]: http://footballissexbaby.de/wordpress/2013/02/wieviel-sollte-joe-flacco-den-ravens-wert-sein/
+  [Mike Wallace: Der Hauptpreis der diesjährigen Free Agency.]: http://footballissexbaby.de/wp-content/uploads/2013/03/mike-wallace-300x239.jpg
+  [**Wieviel sollte Joe Flacco den Ravens wert sein?**]: http://footballissexbaby.de/2013/02/wieviel-sollte-joe-flacco-den-ravens-wert-sein/
     "Wieviel sollte Joe Flacco den Ravens wert sein?"
-  [**Ein genauerer Blick auf Flaccos Vertrag**]: http://footballissexbaby.de/wordpress/2013/03/ein-genauerer-blick-auf-flaccos-vertrag/
+  [**Ein genauerer Blick auf Flaccos Vertrag**]: http://footballissexbaby.de/2013/03/ein-genauerer-blick-auf-flaccos-vertrag/
     "Ein genauerer Blick auf Flaccos Vertrag"
   [ProFootballFocus.com]: https://www.profootballfocus.com
   [Advanced NFL Stats]: http://www.advancednflstats.com
   [Spotrac]: http://www.spotrac.com
-  [cb]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/cb-300x218.png
-  [![cb][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/cb.png
-  [wr]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/wr-300x218.png
-  [![wr][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/wr.png
-  [s]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/s-300x218.png
-  [![s][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/s.png
-  [dt]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/dt-300x218.png
-  [![dt][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/dt.png
+  [cb]: http://footballissexbaby.de/wp-content/uploads/2013/03/cb-300x218.png
+  [![cb][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/cb.png
+  [wr]: http://footballissexbaby.de/wp-content/uploads/2013/03/wr-300x218.png
+  [![wr][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/wr.png
+  [s]: http://footballissexbaby.de/wp-content/uploads/2013/03/s-300x218.png
+  [![s][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/s.png
+  [dt]: http://footballissexbaby.de/wp-content/uploads/2013/03/dt-300x218.png
+  [![dt][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/dt.png
   [Jared Cook hat vom Wettbieten zwischen Rams und Dolphins
-  profitiert.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/jared-cook-300x225.jpg
+  profitiert.]: http://footballissexbaby.de/wp-content/uploads/2013/03/jared-cook-300x225.jpg
   [für einzelne Spieler recht gut Vorhersagen machen]: http://www.spotrac.com/premium/research/nfl/contract-prediction-mike-wallace-v2.0-290/

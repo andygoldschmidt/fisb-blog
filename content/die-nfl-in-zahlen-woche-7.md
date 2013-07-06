@@ -132,5 +132,5 @@ immer noch eine verheerende Defense haben, in ihren Shootouts aber in
 den letzten Wochen immer die Nase knapp vorn hatten und nicht mehr wie
 zu Saisonbeginn eine knappe Niederlage nach der nächsten einheimsen.
 
-  [wie Redskins-QB Robert Griffin III die ganze Offense belebt]: http://footballissexbaby.de/wordpress/2012/10/rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison/
+  [wie Redskins-QB Robert Griffin III die ganze Offense belebt]: http://footballissexbaby.de/2012/10/rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison/
     "RG3 oder Cam Newton: Wer hat die bessere Rookie-Saison?"

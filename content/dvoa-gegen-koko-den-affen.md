@@ -314,9 +314,9 @@ doch mit den vielen großartigen Statheads, wie z.B. [Brian Burke][],
 Jahren grandiose Arbeit leisten, sie kostenfrei und oftmals auch offen
 zur Verfügung stellen.
 
-  [letzten Artikel]: http://footballissexbaby.de/wordpress/2012/07/die-vorhersagekraft-der-pythagoraischen-erwartung/
+  [letzten Artikel]: http://footballissexbaby.de/2012/07/die-vorhersagekraft-der-pythagoraischen-erwartung/
     "Die Vorhersagekraft der pythagoräischen Erwartung"
-  [Kommentaren]: http://footballissexbaby.de/wordpress/2012/07/die-vorhersagekraft-der-pythagoraischen-erwartung/#comment-142
+  [Kommentaren]: http://footballissexbaby.de/2012/07/die-vorhersagekraft-der-pythagoraischen-erwartung/#comment-142
   [korsakoff]: http://sidelinereporter.wordpress.com
   [Football Outsiders]: http://www.footballoutsiders.com
   [DVOA]: http://en.wikipedia.org/wiki/Football_Outsiders#Key_Metrics

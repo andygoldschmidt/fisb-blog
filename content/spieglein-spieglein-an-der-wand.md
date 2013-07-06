@@ -74,6 +74,6 @@ dennoch ist es interessant zu sehen, welche Teams sich gleichen und
 welche grundverschieden sind. Viel Spaß beim Rumspielen!
 
   [die hervorragende Arbeit von Brian Burke zurück]: http://www.advancednflstats.com/2009/01/how-model-works-detailed-example.html
-  [Ravens Team Similarity]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/01/ravens.tiff
-  [49ers Team Similarity]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/01/49ers.tiff
-  [habe ich hier veröffentlicht]: http://footballissexbaby.de/wordpress/team-similarity/
+  [Ravens Team Similarity]: http://footballissexbaby.de/wp-content/uploads/2013/01/ravens.tiff
+  [49ers Team Similarity]: http://footballissexbaby.de/wp-content/uploads/2013/01/49ers.tiff
+  [habe ich hier veröffentlicht]: http://footballissexbaby.de/team-similarity/

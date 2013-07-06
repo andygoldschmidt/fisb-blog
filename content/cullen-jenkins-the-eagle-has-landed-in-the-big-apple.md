@@ -59,8 +59,8 @@ geschoben. Da man davon ausgehen darf, dass die Giants sicher noch einen
 DT in der Free Agency oder dem Draft verpflichten, wird es eine harte
 Nuss für Kuhn, auch 2013 wieder den 53-Mann-Kader zu erreichen.
 
-  [Cullen Jenkins jubelt demnächst in blau.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/jenkins-300x225.jpg
-  [![Cullen Jenkins jubelt demnächst in blau.][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/jenkins.jpg
+  [Cullen Jenkins jubelt demnächst in blau.]: http://footballissexbaby.de/wp-content/uploads/2013/03/jenkins-300x225.jpg
+  [![Cullen Jenkins jubelt demnächst in blau.][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/jenkins.jpg
   [ProFootballFocus]: https://www.profootballfocus.com/
-  [PFF-Bewertungen für Cullen Jenkins von 2009-2012]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/cullen_jenkins_pff-300x218.png
-  [![PFF-Bewertungen für Cullen Jenkins von 2009-2012][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/cullen_jenkins_pff.png
+  [PFF-Bewertungen für Cullen Jenkins von 2009-2012]: http://footballissexbaby.de/wp-content/uploads/2013/03/cullen_jenkins_pff-300x218.png
+  [![PFF-Bewertungen für Cullen Jenkins von 2009-2012][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/cullen_jenkins_pff.png

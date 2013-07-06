@@ -124,11 +124,11 @@ Erfolgreiche Modelle gibt es zuhauf, es braucht nur mutige Coaches, die
 auch auf die Vorhersage vertrauen und sich nicht von Rückschlägen
 entmutigen lassen!
 
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/08/320px-Steelers_Chiefs_goal_line.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/08/320px-Steelers_Chiefs_goal_line.jpg
     "320px-Steelers_Chiefs_goal_line"
-  [durchschnittliche Verhältnis von Pass zu Lauf ist ungefähr 1.2]: http://footballissexbaby.de/wordpress/2011/06/wann-wurde-die-nfl-zur-passing-league/
+  [durchschnittliche Verhältnis von Pass zu Lauf ist ungefähr 1.2]: http://footballissexbaby.de/2011/06/wann-wurde-die-nfl-zur-passing-league/
     "Wann wurde die NFL zur Passing league?"
-  [Verteilung von 2-Pt-Conversion nach Quarter]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/08/2ptconv_qtr-300x188.png
+  [Verteilung von 2-Pt-Conversion nach Quarter]: http://footballissexbaby.de/wp-content/uploads/2012/08/2ptconv_qtr-300x188.png
     "2ptconv_qtr"
-  [![Verteilung von 2-Pt-Conversion nach Quarter][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/08/2ptconv_qtr.png
+  [![Verteilung von 2-Pt-Conversion nach Quarter][]]: http://footballissexbaby.de/wp-content/uploads/2012/08/2ptconv_qtr.png
   [die Mathematik seine Entscheidungen untermauere]: http://www.advancednflstats.com/2011/11/falcons-4th-down-in-ot.html

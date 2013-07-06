@@ -50,11 +50,11 @@ dass die Falcons die reguläre Saison ungeschlagen beenden. Wer die
 Spiele gegen die Carolina Panthers und die Oakland Raiders gesehen hat,
 wird sich dieser Einschätzung sicherlich anschließen.
 
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/11/Matt-Ryan-Atlanta-Falcons-300x168.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/11/Matt-Ryan-Atlanta-Falcons-300x168.jpg
     "Matt-Ryan-Mike-Smith"
-  [mehr]: http://footballissexbaby.de/wordpress/2012/08/yet-another-ranking-system/
+  [mehr]: http://footballissexbaby.de/2012/08/yet-another-ranking-system/
     "Yet Another Ranking System"
-  [wenig einfach]: http://footballissexbaby.de/wordpress/2012/08/herr-elo-und-der-rasenschach/
+  [wenig einfach]: http://footballissexbaby.de/2012/08/herr-elo-und-der-rasenschach/
     "Herr Elo und der Rasenschach"
-  [die aktuellen Ratings gibt es hier]: http://footballissexbaby.de/wordpress/2012/11/die-nfl-in-zahlen-woche-8/
+  [die aktuellen Ratings gibt es hier]: http://footballissexbaby.de/2012/11/die-nfl-in-zahlen-woche-8/
     "Die NFL in Zahlen: Woche 8"

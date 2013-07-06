@@ -44,7 +44,7 @@ NFC
   **Seattle Seahawks**      59.12%   28.5%     13.85%     6.23%
   **Washington Redskins**   40.88%   15.87%    6.37%      2.53%
 
-  [Vorschau auf alle vier Wildcard-Spiele]: http://footballissexbaby.de/wordpress/2013/01/nfl-vorschau-wildcard/
+  [Vorschau auf alle vier Wildcard-Spiele]: http://footballissexbaby.de/2013/01/nfl-vorschau-wildcard/
     "NFL-Vorschau: Wildcard-Wochenende"
-  [Siegwahrscheinlichkeit aus dem Max-L Ranking]: http://footballissexbaby.de/wordpress/2012/08/yet-another-ranking-system/
+  [Siegwahrscheinlichkeit aus dem Max-L Ranking]: http://footballissexbaby.de/2012/08/yet-another-ranking-system/
     "Yet Another Ranking System"

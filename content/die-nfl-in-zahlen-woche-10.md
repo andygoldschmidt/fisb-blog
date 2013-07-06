@@ -108,7 +108,7 @@ mehr einem Punkt; typisch ist ein Wert von etwa 3. Das ist umso
 erstaunlicher, da die Quote an Heimsiegen mit 58.2% sogar leicht über
 dem Mittel der letzten 5 Jahre liegt (56.8%).
 
-  [in der ganzen Saison in Führung]: http://footballissexbaby.de/wordpress/2012/11/wie-schlecht-sind-die-chiefs-diese-saison-wirklich/
+  [in der ganzen Saison in Führung]: http://footballissexbaby.de/2012/11/wie-schlecht-sind-die-chiefs-diese-saison-wirklich/
     "Wie schlecht sind die Chiefs diese Saison wirklich?"
-  [Niederlage gegen die New Orleans Saints]: http://footballissexbaby.de/wordpress/2012/11/warum-die-falcons-uber-die-saints-stolperten/
+  [Niederlage gegen die New Orleans Saints]: http://footballissexbaby.de/2012/11/warum-die-falcons-uber-die-saints-stolperten/
     "Warum die Falcons über die Saints stolperten"

@@ -48,6 +48,6 @@ Und im Süden:
 Doch gerade wenn es um soviel geht, ist Football immer für eine
 Überraschung gut. Wir dürfen gespannt sein!
 
-  [aus meinen Ratings Siegwahrscheinlichkeiten zu berechnen]: http://footballissexbaby.de/wordpress/2012/08/herr-elo-und-der-rasenschach/
+  [aus meinen Ratings Siegwahrscheinlichkeiten zu berechnen]: http://footballissexbaby.de/2012/08/herr-elo-und-der-rasenschach/
     "Herr Elo und der Rasenschach"
   [hier zu finden]: http://www.facebook.com/notes/gfl-internet-tv-radio/clinching-scenarios-week-18/468264539860707

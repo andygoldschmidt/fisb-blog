@@ -131,11 +131,11 @@ vornehmen können, passiert ihnen in ähnlicher Form dasselbe.
 Die Wahrscheinlichkeit Ende der Saison einen großen Umbau bei den Kansas
 City Chiefs zu erleben, wird von Woche zu Woche größer.
 
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/11/Kansas-City-Chiefs-take-on-AFC-West-rivals-San-Diego-Chargers-in-Week-9-NFL-Preview-198259-300x199.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/11/Kansas-City-Chiefs-take-on-AFC-West-rivals-San-Diego-Chargers-in-Week-9-NFL-Preview-198259-300x199.jpg
     "Kansas-City-Chiefs-take-on-AFC-West-rivals-San-Diego-Chargers-in-Week-9-NFL-Preview-198259"
-  [mittlerweile in allen Rankings Schlusslicht]: http://footballissexbaby.de/wordpress/2012/11/die-nfl-in-zahlen-woche-8/
+  [mittlerweile in allen Rankings Schlusslicht]: http://footballissexbaby.de/2012/11/die-nfl-in-zahlen-woche-8/
     "Die NFL in Zahlen: Woche 8"
-  [pythagoräischer Erwartung]: http://footballissexbaby.de/wordpress/2011/10/sag-mir-deine-punkte-und-ich-sag-dir-wie-oft-du-gewinnst/
+  [pythagoräischer Erwartung]: http://footballissexbaby.de/2011/10/sag-mir-deine-punkte-und-ich-sag-dir-wie-oft-du-gewinnst/
     "Sag’ mir deine Punkte und ich sag’ dir wie oft du gewinnst!"
   [Team Game Finder]: http://www.pro-football-reference.com/play-index/tgl_finder.cgi
   [pro-football-reference.com]: http://www.pro-football-reference.com

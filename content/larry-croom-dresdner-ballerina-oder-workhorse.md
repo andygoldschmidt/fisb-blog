@@ -104,6 +104,6 @@ Das nächste Mal gibt's dann den 2. Teil der Sagarin-Rankings ;)
 
 [twitter-follow screen\_name='footballissex']
 
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/06/45d6af85-f4f2-4935-b20f-18db3faa93930.jpg
-  [1]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/06/7ccf1808-d01e-4e15-8760-5f1f9acc93d30.jpg
-  [2]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/06/c7585b24-f5fc-4ad0-8b24-465e598a67161.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2011/06/45d6af85-f4f2-4935-b20f-18db3faa93930.jpg
+  [1]: http://footballissexbaby.de/wp-content/uploads/2011/06/7ccf1808-d01e-4e15-8760-5f1f9acc93d30.jpg
+  [2]: http://footballissexbaby.de/wp-content/uploads/2011/06/c7585b24-f5fc-4ad0-8b24-465e598a67161.jpg

@@ -365,13 +365,13 @@ immer so spielen, wie in der vergangenen Postseason.
 
 Die ganze Ravens-Organisation wird darauf hoffen, dass er es schafft.
 
-  [einen Blick auf die Vetragssituation geworfen]: http://footballissexbaby.de/wordpress/2013/02/wieviel-sollte-joe-flacco-den-ravens-wert-sein/
+  [einen Blick auf die Vetragssituation geworfen]: http://footballissexbaby.de/2013/02/wieviel-sollte-joe-flacco-den-ravens-wert-sein/
     "Wieviel sollte Joe Flacco den Ravens wert sein?"
   [Spotrac]: http://www.spotrac.com/nfl/baltimore-ravens/joe-flacco/
-  [Joe Flaccos Cap Hit für die Baltimore Ravens.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/flacco_cap_hit-300x200.png
-  [![Joe Flaccos Cap Hit für die Baltimore Ravens.][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/flacco_cap_hit.png
+  [Joe Flaccos Cap Hit für die Baltimore Ravens.]: http://footballissexbaby.de/wp-content/uploads/2013/03/flacco_cap_hit-300x200.png
+  [![Joe Flaccos Cap Hit für die Baltimore Ravens.][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/flacco_cap_hit.png
   [nicht ungewöhnlich]: http://www.spotrac.com/top-salaries/nfl/cap-hit/quarterback/
-  [Cap Hit und Dead Money für Joe Flacco]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/flacco_dead_money-300x200.png
-  [![Cap Hit und Dead Money für Joe Flacco][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/flacco_dead_money.png
-  [Durchschnittsgehalt in Abhängigkeit von EPA/P.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/epa_vs_salary-300x218.png
-  [![Durchschnittsgehalt in Abhängigkeit von EPA/P.][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/03/epa_vs_salary.png
+  [Cap Hit und Dead Money für Joe Flacco]: http://footballissexbaby.de/wp-content/uploads/2013/03/flacco_dead_money-300x200.png
+  [![Cap Hit und Dead Money für Joe Flacco][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/flacco_dead_money.png
+  [Durchschnittsgehalt in Abhängigkeit von EPA/P.]: http://footballissexbaby.de/wp-content/uploads/2013/03/epa_vs_salary-300x218.png
+  [![Durchschnittsgehalt in Abhängigkeit von EPA/P.][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/epa_vs_salary.png

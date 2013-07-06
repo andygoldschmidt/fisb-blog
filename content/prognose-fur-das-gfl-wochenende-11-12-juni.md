@@ -37,5 +37,5 @@ Mercenaries - Cowboys: *Mercenaries +23*
 Ups, da hatte ich doch glatt ein Spiel vergessen, Kiel gegen Düsseldorf
 ist jetzt hinzugefügt!
 
-  [Result]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/06/result.png
+  [Result]: http://footballissexbaby.de/wp-content/uploads/2011/06/result.png
     "result.png"

@@ -109,10 +109,10 @@ richtig. Vielleicht sollte ich in Zukunft lieber [Koko, den Affen][],
 nach seiner Meinung fragen.
 
   [eine Beobachtung die ähnlich auch andere bereits gemacht haben]: http://codeandfootball.wordpress.com/2012/09/25/nfl-season-2012-week-3/
-  [in der Preview]: http://footballissexbaby.de/wordpress/2012/09/nfl-vorschau-woche-3/
+  [in der Preview]: http://footballissexbaby.de/2012/09/nfl-vorschau-woche-3/
     "NFL-Vorschau: Woche 3"
   [nach einer chaotischen Schlussphase]: http://www.nfl.com/news/story/0ap1000000065153/article/ref-grants-49ers-harbaugh-two-challenges-despite-no-timeouts
-  [Simple Ranking System]: http://footballissexbaby.de/wordpress/2012/09/simple-ranking-system-einfach-aber-gut/
+  [Simple Ranking System]: http://footballissexbaby.de/2012/09/simple-ranking-system-einfach-aber-gut/
     "Simple Ranking System – einfach aber gut"
-  [Koko, den Affen]: http://footballissexbaby.de/wordpress/2012/07/dvoa-gegen-koko-den-affen/
+  [Koko, den Affen]: http://footballissexbaby.de/2012/07/dvoa-gegen-koko-den-affen/
     "DVOA gegen Koko, den Affen"

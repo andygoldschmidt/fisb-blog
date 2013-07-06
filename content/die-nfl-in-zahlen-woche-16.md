@@ -89,5 +89,5 @@ Grund, warum sie im FISB nur auf Platz 26 gerankt sind und damit sogar
 noch hinter den Arizona Cardinals.
 
   [Andrew Luck]: http://www.welt.de/sport/article112067165/Ein-deutscher-Quarterback-begeistert-Amerika.html
-  [Da hilft auch kein Bootstrapping]: http://footballissexbaby.de/wordpress/2011/10/stiefelriemen-fur-die-sagarin-rankings/
+  [Da hilft auch kein Bootstrapping]: http://footballissexbaby.de/2011/10/stiefelriemen-fur-die-sagarin-rankings/
     "Stiefelriemen für die Sagarin-Rankings"

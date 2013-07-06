@@ -94,9 +94,9 @@ schon einige glückliche Siege eingefahren hat (Cleveland Browns).
 
  
 
-  [Pythagorean Expectation]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/pythexp.png
+  [Pythagorean Expectation]: http://footballissexbaby.de/wp-content/uploads/2011/10/pythexp.png
     "PythExp.png"
   [etwas genauer angenommen]: http://codeandfootball.wordpress.com/2011/04/22/the-pythagorean-expectation-in-football/
   [hier]: http://www.pro-football-reference.com/blog/?p=337
-  [PythExp2011]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/pythexp2011.png
+  [PythExp2011]: http://footballissexbaby.de/wp-content/uploads/2011/10/pythexp2011.png
     "PythExp2011.png"

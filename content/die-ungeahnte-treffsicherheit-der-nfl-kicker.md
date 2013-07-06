@@ -114,18 +114,18 @@ liegen lässt. Es könnte also durchaus sein, dass Kicker in den nächsten
 Jahren etwas aus dem Schattendasein treten und eine wichtigere Rolle
 spielen werden.
 
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/12/greg_zuerlein-300x200.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/12/greg_zuerlein-300x200.jpg
     "greg_zuerlein"
   [Play-by-Play Daten]: http://www.advancednflstats.com/2010/04/play-by-play-data.html
-  [1]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/12/fg-durchschschnitt-300x212.png
+  [1]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg-durchschschnitt-300x212.png
     "fg-durchschschnitt"
-  [![][1]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/12/fg-durchschschnitt.png
-  [2]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/12/fg-3yrs-300x212.png
+  [![][1]]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg-durchschschnitt.png
+  [2]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg-3yrs-300x212.png
     "fg-3yrs"
-  [![][2]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/12/fg-3yrs.png
-  [3]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/12/fg_45-55-300x213.png
+  [![][2]]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg-3yrs.png
+  [3]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg_45-55-300x213.png
     "fg_45-55"
-  [![][3]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/12/fg_45-55.png
-  [4]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/12/fg_55-60-300x213.png
+  [![][3]]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg_45-55.png
+  [4]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg_55-60-300x213.png
     "fg_55-60"
-  [![][4]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/12/fg_55-60.png
+  [![][4]]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg_55-60.png

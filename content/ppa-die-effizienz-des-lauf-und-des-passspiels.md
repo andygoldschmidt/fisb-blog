@@ -120,7 +120,7 @@ Playoff-Teams sowohl im PassPPA als auch im RushPPA positive Werte
 haben, also sowohl Pass- als auch Laufspiel überdurchschnittlich
 erfolgreich sind.
 
-  [ersten Artikel zu PPA]: http://footballissexbaby.de/wordpress/2013/01/ppa-wie-gut-ist-eine-offense/
+  [ersten Artikel zu PPA]: http://footballissexbaby.de/2013/01/ppa-wie-gut-ist-eine-offense/
     "PPA: Wie gut ist eine Offense?"
-  [pass\_vs\_rush\_ppa]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/01/pass_vs_rush_ppa-1024x744.png
-  [![pass\_vs\_rush\_ppa][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/01/pass_vs_rush_ppa.png
+  [pass\_vs\_rush\_ppa]: http://footballissexbaby.de/wp-content/uploads/2013/01/pass_vs_rush_ppa-1024x744.png
+  [![pass\_vs\_rush\_ppa][]]: http://footballissexbaby.de/wp-content/uploads/2013/01/pass_vs_rush_ppa.png

@@ -118,9 +118,9 @@ recht große Anzahl an Spielen auch im SRS raus. Im FISB wird durch einen
 [Bootstrap-Algorithmus][] dafür gesorgt, dass Ausreißer hier sowieso
 weniger stark ins Gewicht fallen.
 
-  [geschafft ungeschlagen zu bleiben]: http://footballissexbaby.de/wordpress/2012/11/die-chancen-der-falcons-auf-eine-perfekte-saison/
+  [geschafft ungeschlagen zu bleiben]: http://footballissexbaby.de/2012/11/die-chancen-der-falcons-auf-eine-perfekte-saison/
     "Die Chancen der Falcons auf eine perfekte Saison"
-  [ein weiteres schlechtes Spiel gezeigt haben]: http://footballissexbaby.de/wordpress/2012/11/wie-schlecht-sind-die-chiefs-diese-saison-wirklich/
+  [ein weiteres schlechtes Spiel gezeigt haben]: http://footballissexbaby.de/2012/11/wie-schlecht-sind-die-chiefs-diese-saison-wirklich/
     "Wie schlecht sind die Chiefs diese Saison wirklich?"
-  [Bootstrap-Algorithmus]: http://footballissexbaby.de/wordpress/2011/10/stiefelriemen-fur-die-sagarin-rankings/
+  [Bootstrap-Algorithmus]: http://footballissexbaby.de/2011/10/stiefelriemen-fur-die-sagarin-rankings/
     "Stiefelriemen für die Sagarin-Rankings"

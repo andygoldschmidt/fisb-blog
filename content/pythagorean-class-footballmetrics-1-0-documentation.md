@@ -100,19 +100,19 @@ $('#searchbox').show(0);<br />
     "Permalink to this definition"
   [3]: #pythagoreans.Pythagorean.getOptimalFitParams
     "Permalink to this definition"
-  [The Pythagoreans module]: http://footballissexbaby.de/wordpress/?page_id=471
+  [The Pythagoreans module]: http://footballissexbaby.de/?page_id=471
     "previous chapter"
-  [PythagoreanExpectation class]: http://footballissexbaby.de/wordpress/?page_id=465
+  [PythagoreanExpectation class]: http://footballissexbaby.de/?page_id=465
     "next chapter"
   [Show Source]: _sources/PythagoreanClass.txt
-  [index]: http://footballissexbaby.de/wordpress/?page_id=468
+  [index]: http://footballissexbaby.de/?page_id=468
     "General Index"
-  [modules]: http://footballissexbaby.de/wordpress/?page_id=470
+  [modules]: http://footballissexbaby.de/?page_id=470
     "Python Module Index"
-  [next]: http://footballissexbaby.de/wordpress/?page_id=465
+  [next]: http://footballissexbaby.de/?page_id=465
     "PythagoreanExpectation class"
-  [previous]: http://footballissexbaby.de/wordpress/?page_id=471
+  [previous]: http://footballissexbaby.de/?page_id=471
     "The Pythagoreans module"
-  [Footballmetrics 1.0 documentation]: http://footballissexbaby.de/wordpress/?page_id=469
-  [4]: http://footballissexbaby.de/wordpress/?page_id=471
+  [Footballmetrics 1.0 documentation]: http://footballissexbaby.de/?page_id=469
+  [4]: http://footballissexbaby.de/?page_id=471
   [Sphinx]: http://sphinx.pocoo.org/

@@ -293,5 +293,5 @@ verwendeten Maximum-Likelihood Ranking-Systems mit meinem Point
 Spread-System vergleichen und gegebenenfalls einen Wechsel vornehmen.
 
   [Arizona Cardinals @ St. Louis Rams:]: #
-  [meinem Rückblick schon geschrieben]: http://footballissexbaby.de/wordpress/2012/10/die-nfl-in-zahlen-woche-4/
+  [meinem Rückblick schon geschrieben]: http://footballissexbaby.de/2012/10/die-nfl-in-zahlen-woche-4/
     "Die NFL in Zahlen: Woche 4"

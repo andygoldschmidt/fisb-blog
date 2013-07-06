@@ -27,7 +27,7 @@ Hoffen wir, dass die Spiele dennoch spannend werden!
 *P.S. Nächste Woche gibt es dann wieder neue Artikel, die dann nicht nur
 Rankings beinhalten* ;)
 
-  [Halbfinale rating]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/09/halbfinale-rating.png
+  [Halbfinale rating]: http://footballissexbaby.de/wp-content/uploads/2011/09/halbfinale-rating.png
     "halbfinale-rating.png"
-  [Halbfinale prognose]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/09/halbfinale-prognose.png
+  [Halbfinale prognose]: http://footballissexbaby.de/wp-content/uploads/2011/09/halbfinale-prognose.png
     "halbfinale-prognose.png"

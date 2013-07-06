@@ -150,8 +150,8 @@ Die Redskins hatten nach ihrem Touchdown eine Siegwahrscheinlichkeit von
 91%, doch mit 1:27 auf der Uhr reicht das eben manchmal nicht gegen Eli
 Manning's *fourth quarter magic*.
 
-  [was für eine gute Rookie-Saison er spielt]: http://footballissexbaby.de/wordpress/2012/10/rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison/
+  [was für eine gute Rookie-Saison er spielt]: http://footballissexbaby.de/2012/10/rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison/
     "RG3 oder Cam Newton: Wer hat die bessere Rookie-Saison?"
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/elirgiii-300x211.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/10/elirgiii-300x211.jpg
     "RG3_Eli"
   [Brian Burke's 4th Down Calculator]: http://wp.advancednflstats.com/4thdncalc1.php

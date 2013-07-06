@@ -124,14 +124,14 @@ aussagekräftiges System, an dem man sehr schnell ablesen kann, wie gut
 ein Team ist und ob es nur so gut ist, weil es gegen schwache Gegner
 gespielt hat.
 
-  [auf den Punktdifferenzen aller Spiele basiert]: http://footballissexbaby.de/wordpress/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
+  [auf den Punktdifferenzen aller Spiele basiert]: http://footballissexbaby.de/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
     "Hausgemachte Sport-Rankings nach Sagarin-Art, Teil 1"
-  [lediglich Siege und Niederlagen in Betracht zieht]: http://footballissexbaby.de/wordpress/2012/08/yet-another-ranking-system/
+  [lediglich Siege und Niederlagen in Betracht zieht]: http://footballissexbaby.de/2012/08/yet-another-ranking-system/
     "Yet Another Ranking System"
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/rodgers-brees-300x181.png
+  []: http://footballissexbaby.de/wp-content/uploads/2012/09/rodgers-brees-300x181.png
     "rodgers-brees"
-  [![][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/rodgers-brees.png
-  [Strength of schedule]: http://footballissexbaby.de/wordpress/2012/07/strength-of-schedule-theorie-und-praxis/
+  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/09/rodgers-brees.png
+  [Strength of schedule]: http://footballissexbaby.de/2012/07/strength-of-schedule-theorie-und-praxis/
     "Strength of schedule – Theorie und Praxis"
-  [finden sich hier]: http://footballissexbaby.de/wordpress/2012/09/die-nfl-in-zahlen-woche-2/
+  [finden sich hier]: http://footballissexbaby.de/2012/09/die-nfl-in-zahlen-woche-2/
     "Die NFL in Zahlen: Woche 2"

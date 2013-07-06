@@ -301,11 +301,11 @@ Landeshauptstadt gewünscht hätte, fiebere ich den Spielen entgegen und
 freue mich auf die tollen Rückblicke, die uns [GFL TV][] sicher wieder
 ermöglicht.
 
-  [Maximum-Likelihood Ranking-System vorgestellt]: http://footballissexbaby.de/wordpress/2012/08/yet-another-ranking-system/
+  [Maximum-Likelihood Ranking-System vorgestellt]: http://footballissexbaby.de/2012/08/yet-another-ranking-system/
     "Yet Another Ranking System"
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/560405_10151166313622460_1376931964_n-300x300.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/09/560405_10151166313622460_1376931964_n-300x300.jpg
     "GFL-Playoff-Szenario"
-  [![][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/560405_10151166313622460_1376931964_n.jpg
+  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/09/560405_10151166313622460_1376931964_n.jpg
   [Facebook]: http://www.facebook.com/photo.php?fbid=10151166313622460&set=a.290885202459.147524.288799632459&type=1
   [klickt hier]: #german-bowl
   [klicken hier]: #halbfinale

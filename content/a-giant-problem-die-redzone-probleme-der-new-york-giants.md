@@ -87,6 +87,6 @@ Die New Yorker Medien können sehr unangenehm reagieren, wenn aus solchen
 Schwächen Niederlagen resultieren, daher sollten die Giants schnellstens
 Wege finden ihre vielen Offensivwaffen effektiv zu nutzen.
 
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/medium_TomCoughlin-245x300.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/10/medium_TomCoughlin-245x300.jpg
     "tom_coughlin"
   [zu erwartenden Punkte an]: http://wp.advancednflstats.com/winprobcalc1.php

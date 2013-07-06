@@ -128,7 +128,7 @@ Saison:
   Washington Redskins    0.488536   0.094671
 
   [direkt zu den Ergebnissen für die Saison 2012 springen]: #myTable
-  [Ratings erstellen]: http://footballissexbaby.de/wordpress/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
+  [Ratings erstellen]: http://footballissexbaby.de/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
     "Hausgemachte Sport-Rankings nach Sagarin-Art, Teil 1"
-  [pythagoräischen Erwartung]: http://footballissexbaby.de/wordpress/2011/10/sag-mir-deine-punkte-und-ich-sag-dir-wie-oft-du-gewinnst/
+  [pythagoräischen Erwartung]: http://footballissexbaby.de/2011/10/sag-mir-deine-punkte-und-ich-sag-dir-wie-oft-du-gewinnst/
     "Sag’ mir deine Punkte und ich sag’ dir wie oft du gewinnst!"

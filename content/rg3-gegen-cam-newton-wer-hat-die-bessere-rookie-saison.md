@@ -189,14 +189,14 @@ Jahr halten und in einigen Aspekten sogar verbessern. Wenn Robert
 Griffin III das Gleiche schafft, reiht er sich zweifelsohne in die Reihe
 "Beste Rookie-Saisons aller Zeiten" ein.
 
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/rg3-300x202.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/10/rg3-300x202.jpg
     "RG3"
-  [1]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/cmp_percentage-300x245.png
+  [1]: http://footballissexbaby.de/wp-content/uploads/2012/10/cmp_percentage-300x245.png
     "cmp_percentage"
-  [![][1]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/cmp_percentage.png
-  [2]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/yards_per_attempt-300x245.png
+  [![][1]]: http://footballissexbaby.de/wp-content/uploads/2012/10/cmp_percentage.png
+  [2]: http://footballissexbaby.de/wp-content/uploads/2012/10/yards_per_attempt-300x245.png
     "yards_per_attempt"
-  [![][2]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/yards_per_attempt.png
-  [3]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/yards_per_rush-300x245.png
+  [![][2]]: http://footballissexbaby.de/wp-content/uploads/2012/10/yards_per_attempt.png
+  [3]: http://footballissexbaby.de/wp-content/uploads/2012/10/yards_per_rush-300x245.png
     "yards_per_rush"
-  [![][3]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/yards_per_rush.png
+  [![][3]]: http://footballissexbaby.de/wp-content/uploads/2012/10/yards_per_rush.png

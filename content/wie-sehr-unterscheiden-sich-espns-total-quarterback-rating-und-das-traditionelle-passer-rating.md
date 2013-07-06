@@ -115,7 +115,7 @@ von Quarterbacks gelungen ist.
   [hier]: http://espn.go.com/nfl/story/_/id/6943920/nfl-week-1-total-qbr-leaders
   [in diesem Blog]: https://footballissexbaby.wordpress.com/2011/08/07/die-vor-und-nachteile-des-neuen-espn-total-quarterback-rating/
   [1]: https://footballissexbaby.wordpress.com/2011/07/31/quarterback-rating-die-unnutzeste-statistik-im-football/
-  [Comparison tqbr qbr]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/09/comparison_tqbr_qbr.png
+  [Comparison tqbr qbr]: http://footballissexbaby.de/wp-content/uploads/2011/09/comparison_tqbr_qbr.png
     "comparison_tqbr_qbr.png"
-  [Correlation tqbr qbr]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/09/correlation_tqbr_qbr.png
+  [Correlation tqbr qbr]: http://footballissexbaby.de/wp-content/uploads/2011/09/correlation_tqbr_qbr.png
     "correlation_tqbr_qbr.png"

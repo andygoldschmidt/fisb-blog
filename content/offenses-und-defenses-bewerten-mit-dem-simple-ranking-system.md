@@ -114,9 +114,9 @@ zu haben. Denn [der Testdatensatz, den PFR im Blog zeigt][], passt
 ziemlich gut mit meiner Implementierung überein. Aktuelle Werte hingegen
 zeigen die beschriebenen teils dramatischen Abweichungen.
 
-  [Simple Ranking System]: http://footballissexbaby.de/wordpress/2012/09/simple-ranking-system-einfach-aber-gut/
+  [Simple Ranking System]: http://footballissexbaby.de/2012/09/simple-ranking-system-einfach-aber-gut/
     "Simple Ranking System – einfach aber gut"
-  [Review auf den letzten NFL-Spieltag]: http://footballissexbaby.de/wordpress/category/preview-review/
+  [Review auf den letzten NFL-Spieltag]: http://footballissexbaby.de/category/preview-review/
   [Pro-Football-Reference Blog]: http://www.pro-football-reference.com/blog/?p=37
   [Brian Burkes]: http://www.advancednflstats.com
   [Football Outsiders]: http://www.footballoutsiders.com

@@ -83,4 +83,4 @@ schlagen können. Insofern war es für Dresden ein Pflichtsieg, die echten
 Aufgaben warten erst noch.
 
   [Trevar Deed besucht bei bestem Wetter die Endzone (Copyright: Mike
-  Lehn)]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/05/trevar_deed.jpg
+  Lehn)]: http://footballissexbaby.de/wp-content/uploads/2013/05/trevar_deed.jpg

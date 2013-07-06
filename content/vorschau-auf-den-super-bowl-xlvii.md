@@ -128,7 +128,7 @@ Aber San Francisco ist meines Erachtens auf beiden Seiten des Balls
 eines der besten Teams der Liga und daher sehe ich sie - vor allem wegen
 Baltimores Defense - im Vorteil.
 
-  [Wem wird am Sonntag das Lachen vergehen?]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/02/jim_john_harbaugh_superbowl_640-300x171.jpg
-  [Hallo, John Fox!]: http://footballissexbaby.de/wordpress/2013/01/john-fox-und-die-mutlosigkeit/
+  [Wem wird am Sonntag das Lachen vergehen?]: http://footballissexbaby.de/wp-content/uploads/2013/02/jim_john_harbaugh_superbowl_640-300x171.jpg
+  [Hallo, John Fox!]: http://footballissexbaby.de/2013/01/john-fox-und-die-mutlosigkeit/
     "John Fox und die Mutlosigkeit"
-  [Diesen jungen Mann sollte man niemals unterschätzen.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/02/gore-300x225.jpg
+  [Diesen jungen Mann sollte man niemals unterschätzen.]: http://footballissexbaby.de/wp-content/uploads/2013/02/gore-300x225.jpg

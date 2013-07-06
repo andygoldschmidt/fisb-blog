@@ -169,6 +169,6 @@ gefunden. Dieses Mal muss das wieder gelingen, denn die Baustellen
 scheinen in den letzten Jahren eher zu- als abzunehmen.
 
   [Ahmad Bradshaw: tough, aber verletzungsanfällig und daher jetzt ein
-  Ex-Giant]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/02/image-300x239.jpg
+  Ex-Giant]: http://footballissexbaby.de/wp-content/uploads/2013/02/image-300x239.jpg
   [hier]: https://www.profootballfocus.com/blog/2013/01/01/free-agents-new-york-giants/
-  [Kenny Phillips ist ein Eckpfeiler für die Giants-Secondary.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/02/83549004_crop_650x440-300x203.jpg
+  [Kenny Phillips ist ein Eckpfeiler für die Giants-Secondary.]: http://footballissexbaby.de/wp-content/uploads/2013/02/83549004_crop_650x440-300x203.jpg

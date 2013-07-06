@@ -51,7 +51,7 @@ Während PPA bei weitem kein perfektes Maß ist, so bekommt man doch einen
 groben Überblick darüber, wie gut eine Offense in einem bestimmten Spiel
 oder in mehreren Spielen war.
 
-  [vorgestellt habe]: http://footballissexbaby.de/wordpress/2013/01/ppa-wie-gut-ist-eine-offense/
+  [vorgestellt habe]: http://footballissexbaby.de/2013/01/ppa-wie-gut-ist-eine-offense/
     "PPA: Wie gut ist eine Offense?"
-  [reine Pass- und Laufstatistik]: http://footballissexbaby.de/wordpress/2013/01/ppa-die-effizienz-des-lauf-und-des-passspiels/
+  [reine Pass- und Laufstatistik]: http://footballissexbaby.de/2013/01/ppa-die-effizienz-des-lauf-und-des-passspiels/
     "PPA: Die Effizienz des Pass- und Laufspiels"

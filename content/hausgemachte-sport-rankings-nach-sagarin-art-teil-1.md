@@ -125,5 +125,5 @@ rumspielen kann.
 Bis dahin!
 
   [Homemade Sagarin Ratings"]: http://www.advancednflstats.com/2008/05/homemade-sagarin-ratings.html
-  [Ratings gfl]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/05/ratings_gfl.png
+  [Ratings gfl]: http://footballissexbaby.de/wp-content/uploads/2011/05/ratings_gfl.png
     "ratings_gfl.png"

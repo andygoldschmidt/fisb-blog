@@ -76,15 +76,15 @@ als in vergangenen Saisons.
 width="300"][![][3]][] Saisondurchschnitt des Point Spreads im Zeitraum
 2000-2012.[/caption]
 
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/points_per_week-300x225.png
+  []: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week-300x225.png
     "points_per_week"
-  [![][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/points_per_week.png
-  [1]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/points_per_week_mean-300x225.png
+  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week.png
+  [1]: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week_mean-300x225.png
     "points_per_week_mean"
-  [![][1]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/points_per_week_mean.png
-  [2]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/points_per_week_season-300x225.png
+  [![][1]]: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week_mean.png
+  [2]: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week_season-300x225.png
     "points_per_week_season"
-  [![][2]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/points_per_week_season.png
-  [3]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/pt_spread_season-300x225.png
+  [![][2]]: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week_season.png
+  [3]: http://footballissexbaby.de/wp-content/uploads/2012/10/pt_spread_season-300x225.png
     "pt_spread_season"
-  [![][3]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/10/pt_spread_season.png
+  [![][3]]: http://footballissexbaby.de/wp-content/uploads/2012/10/pt_spread_season.png

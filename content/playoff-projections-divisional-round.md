@@ -30,7 +30,7 @@ Projections der letzten Woche][].
   Houston Texans         51.3      27.2       15.2
   New England Patriots   48.7      25.4       13.3
 
-  [der Vorschau für jedes Spiel]: http://footballissexbaby.de/wordpress/2013/01/nfl-vorschau-divisional-playoffs/
+  [der Vorschau für jedes Spiel]: http://footballissexbaby.de/2013/01/nfl-vorschau-divisional-playoffs/
     "NFL-Vorschau: Divisional Playoffs"
-  [den Projections der letzten Woche]: http://footballissexbaby.de/wordpress/2013/01/playoff-projections-wildcard-wochenende/
+  [den Projections der letzten Woche]: http://footballissexbaby.de/2013/01/playoff-projections-wildcard-wochenende/
     "Playoff Projections: Wildcard-Wochenende"

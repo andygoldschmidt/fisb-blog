@@ -102,7 +102,7 @@ Lasst uns die Daumen drücken, dass dieser unsägliche Lockout bald vorbei
 ist und wir uns auf eine passreiche spannende NFL-Saison 2011 freuen
 können!
 
-  [Pass to rush all]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/06/pass_to_rush_all.png
+  [Pass to rush all]: http://footballissexbaby.de/wp-content/uploads/2011/06/pass_to_rush_all.png
     "pass_to_rush_all.png"
-  [Pass to rush postmerger]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/06/pass_to_rush_postmerger.png
+  [Pass to rush postmerger]: http://footballissexbaby.de/wp-content/uploads/2011/06/pass_to_rush_postmerger.png
     "pass_to_rush_postmerger.png"

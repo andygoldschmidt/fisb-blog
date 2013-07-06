@@ -131,10 +131,10 @@ qualifizierenden Receiver (\> 10 Receptions, \> 100 Rec-Yards):
   WAS    0.032
 
   [Quelle]: https://twitter.com/STATS_NFL/status/272362718240059392
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/11/brandonmarshall-300x198.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/11/brandonmarshall-300x198.jpg
     "Chicago Bears wide receiver Brandon Marshall celebrates his touchdown reception in Arlington"
   [Pro Football Reference]: http://www.pro-football-reference.com
-  [1]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/11/relyds_chi.png
+  [1]: http://footballissexbaby.de/wp-content/uploads/2012/11/relyds_chi.png
     "relyds_chi"
-  [2]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/11/relyds_nwe.png
+  [2]: http://footballissexbaby.de/wp-content/uploads/2012/11/relyds_nwe.png
     "relyds_nwe"

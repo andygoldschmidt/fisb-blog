@@ -73,7 +73,7 @@ abdecken, auch wenn sie sehr sehr unwahrscheinlich sind.
 Im dritten und letzten Teil werde ich mich dann endlich mit der
 Vorhersagekraft der drei Methoden beschäftigen.
 
-  [hier]: http://footballissexbaby.de/wordpress/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1/
+  [hier]: http://footballissexbaby.de/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1/
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 1 (Update)"
   [in der Physik und Statistik eine sehr zentrale Rolle spielt]: http://en.wikipedia.org/wiki/Normal_distribution#Occurrence
   [bei denen Ereignisse selten vorkommen]: http://en.wikipedia.org/wiki/Poisson_distribution#Occurrence

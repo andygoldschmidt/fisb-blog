@@ -119,7 +119,7 @@ bilden.
 
 Aber alles zu seiner Zeit.
 
-  [Luke Joeckel ist fast durchweg die \#1.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/02/joeckel-icon-story-217x300.jpg
+  [Luke Joeckel ist fast durchweg die \#1.]: http://footballissexbaby.de/wp-content/uploads/2013/02/joeckel-icon-story-217x300.jpg
   [Mel Kiper, ESPN]: http://insider.espn.go.com/nfl/draft2013/story/_/id/8918856/2013-nfl-draft-matt-elam-debuts-big-board
   [Matt Miller, Bleacher Report]: http://bleacherreport.com/articles/1484192-matt-millers-2013-nfl-draft-big-board/page/2
   [Charlie Campbell, WalterFootball.com]: http://walterfootball.com/draft2013bigboard.php

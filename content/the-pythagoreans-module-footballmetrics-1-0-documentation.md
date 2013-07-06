@@ -106,27 +106,27 @@ $('#searchbox').show(0);<br />
  
 
   [¶]: #the-pythagoreans-module "Permalink to this headline"
-  [mathrm{Wins} = frac{mathrm{PF}\^x}{mathrm{PF}\^x + mathrm{PA}\^x}]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/03/3282382be9062082dd4f2a91816008159f842fe1.png
-  [mathrm{PF}]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/03/99f3d543dc0f79e7a13f555f1f370ccac5fa56ff.png
-  [mathrm{PA}]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/03/384d6212a3ab82a2c78b52f1a0d26aad469ac5c4.png
+  [mathrm{Wins} = frac{mathrm{PF}\^x}{mathrm{PF}\^x + mathrm{PA}\^x}]: http://footballissexbaby.de/wp-content/uploads/2012/03/3282382be9062082dd4f2a91816008159f842fe1.png
+  [mathrm{PF}]: http://footballissexbaby.de/wp-content/uploads/2012/03/99f3d543dc0f79e7a13f555f1f370ccac5fa56ff.png
+  [mathrm{PA}]: http://footballissexbaby.de/wp-content/uploads/2012/03/384d6212a3ab82a2c78b52f1a0d26aad469ac5c4.png
   [1]: #classes "Permalink to this headline"
-  [Pythagorean class]: http://footballissexbaby.de/wordpress/?page_id=464
-  [PythagoreanExpectation class]: http://footballissexbaby.de/wordpress/?page_id=465
-  [Pythagenport class]: http://footballissexbaby.de/wordpress/?page_id=463
-  [Pythagenpat class]: http://footballissexbaby.de/wordpress/?page_id=462
-  [Table Of Contents]: http://footballissexbaby.de/wordpress/?page_id=469
+  [Pythagorean class]: http://footballissexbaby.de/?page_id=464
+  [PythagoreanExpectation class]: http://footballissexbaby.de/?page_id=465
+  [Pythagenport class]: http://footballissexbaby.de/?page_id=463
+  [Pythagenpat class]: http://footballissexbaby.de/?page_id=462
+  [Table Of Contents]: http://footballissexbaby.de/?page_id=469
   [The Pythagoreans module]: #
   [Classes]: #classes
-  [Welcome to Footballmetrics’s documentation!]: http://footballissexbaby.de/wordpress/?page_id=469
+  [Welcome to Footballmetrics’s documentation!]: http://footballissexbaby.de/?page_id=469
     "previous chapter"
-  [2]: http://footballissexbaby.de/wordpress/?page_id=464 "next chapter"
+  [2]: http://footballissexbaby.de/?page_id=464 "next chapter"
   [Show Source]: _sources/pythagoreans.txt
-  [index]: http://footballissexbaby.de/wordpress/?page_id=468
+  [index]: http://footballissexbaby.de/?page_id=468
     "General Index"
-  [modules]: http://footballissexbaby.de/wordpress/?page_id=470
+  [modules]: http://footballissexbaby.de/?page_id=470
     "Python Module Index"
-  [next]: http://footballissexbaby.de/wordpress/?page_id=464
+  [next]: http://footballissexbaby.de/?page_id=464
     "Pythagorean class"
-  [previous]: http://footballissexbaby.de/wordpress/?page_id=469
+  [previous]: http://footballissexbaby.de/?page_id=469
     "Welcome to Footballmetrics’s documentation!"
   [Sphinx]: http://sphinx.pocoo.org/

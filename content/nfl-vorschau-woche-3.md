@@ -233,5 +233,5 @@ diese Woche eine bisher nicht überzeugende O-Line auf Clay Matthews und
 Konsorten wartet.  
 **Siegwahrscheinlichkeit:** 49.7% : 50.3%
 
-  [einen rabenschwarzen Auftritt]: http://footballissexbaby.de/wordpress/2012/09/alles-jay-cutlers-schuld/
+  [einen rabenschwarzen Auftritt]: http://footballissexbaby.de/2012/09/alles-jay-cutlers-schuld/
     "Alles Jay Cutlers Schuld?"

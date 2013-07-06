@@ -108,7 +108,7 @@ als man es nach der pythagoräischen Erwartung prognostizieren würde.
 Vieles spricht derzeit dafür, dass wir nächstes Jahr ein
 generalüberholtes Eagles-Team sehen werden.
 
-  [das Spiel der Dallas Cowboys gegen die New York Giants]: http://footballissexbaby.de/wordpress/2012/10/a-giant-problem-die-redzone-probleme-der-new-york-giants/
+  [das Spiel der Dallas Cowboys gegen die New York Giants]: http://footballissexbaby.de/2012/10/a-giant-problem-die-redzone-probleme-der-new-york-giants/
     "A Giant problem: Die Redzone-Probleme der New York Giants"
   [FootballPerspective.com]: http://www.footballperspective.com/
   [mit den Problemen von QB Philip Rivers beschäftigt]: http://www.footballperspective.com/how-much-does-philip-rivers-decline-have-to-do-with-philip-rivers/

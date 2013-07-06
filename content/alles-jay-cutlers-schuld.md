@@ -177,24 +177,24 @@ Offensive Line wohl schon von vornerein zum Scheitern verurteilt.
 
   [@FloBlogs]: https://twitter.com/FloBlogs
   [HardCount]: http://hardcount.wordpress.com
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack1-300x169.png
+  []: http://footballissexbaby.de/wp-content/uploads/2012/09/sack1-300x169.png
     "1. Sack"
-  [![][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack1.png
-  [1]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack2-300x169.png
+  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack1.png
+  [1]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack2-300x169.png
     "2. Sack"
-  [![][1]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack2.png
-  [2]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack3-300x169.png
+  [![][1]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack2.png
+  [2]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack3-300x169.png
     "3. Sack"
-  [![][2]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack3.png
-  [3]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack4-300x169.png
+  [![][2]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack3.png
+  [3]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack4-300x169.png
     "4. Sack"
-  [![][3]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack4.png
-  [4]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack5-240x300.png
+  [![][3]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack4.png
+  [4]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack5-240x300.png
     "5. Sack"
-  [![][4]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack5.png
-  [5]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack6-240x300.png
+  [![][4]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack5.png
+  [5]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack6-240x300.png
     "6. Sack"
-  [![][5]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack6.png
-  [6]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack7-240x300.png
+  [![][5]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack6.png
+  [6]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack7-240x300.png
     "7. Sack"
-  [![][6]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/09/sack7.png
+  [![][6]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack7.png

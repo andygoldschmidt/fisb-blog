@@ -132,6 +132,6 @@ ihrer variablen Offense im Vorteil. Voraussetzung dafür ist allerdings,
 dass die 49ers dieses Jahr besser in den Special Teams spielen als im
 letzten Conference Championship.
 
-  [Kaep action.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/01/ColinKaepernick_2885229-300x225.jpg
+  [Kaep action.]: http://footballissexbaby.de/wp-content/uploads/2013/01/ColinKaepernick_2885229-300x225.jpg
   [mehr auf Zonen-Verteidigung setzen als das die Packers]: http://hardcount.wordpress.com/2013/01/17/konnen-die-falcons-colin-kaepernick-stoppen/
   ["The Essential Smart Football"]: http://www.amazon.de/Essential-Smart-Football-Chris-Brown/dp/1470125595

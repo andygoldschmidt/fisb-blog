@@ -143,6 +143,6 @@ Kopfverletzungen sollte die NFL lehren, auf das körperliche Wohl ihrer
 Sportler bedacht zu sein, und das nicht erst nach dem Ende ihrer
 Karriere.
 
-  [Diese Verletzung wäre vermeidbar gewesen.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/01/rg3-injury-300x203.jpg
+  [Diese Verletzung wäre vermeidbar gewesen.]: http://footballissexbaby.de/wp-content/uploads/2013/01/rg3-injury-300x203.jpg
   [sein Unbehagen darüber kundgetan]: http://www.usatoday.com/story/sports/nfl/redskins/2013/01/06/dr-james-andrews-disputes-coach-mike-shanahans-version-of-washington-redskins-quarterback-robert-griffin-iii-knee-injury/1811689/
   [die Handgelenksverletzung von Mario Williams von den Buffalo Bills]: http://www.nfl.com/news/story/0ap1000000077731/article/mario-williams-wrist-injury-being-investigated-by-nfl

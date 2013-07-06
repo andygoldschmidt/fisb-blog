@@ -214,11 +214,11 @@ Weiterlesen:
 -   [Teil 2][]
 -   [Teil 3][]
 
-  [mal wieder)]: http://footballissexbaby.de/wordpress/2011/10/sag-mir-deine-punkte-und-ich-sag-dir-wie-oft-du-gewinnst/
+  [mal wieder)]: http://footballissexbaby.de/2011/10/sag-mir-deine-punkte-und-ich-sag-dir-wie-oft-du-gewinnst/
   [Baseball Prospectus]: http://www.baseballprospectus.com/
   [Football Outsiders]: http://www.footballoutsiders.com/
   [2.37]: http://www.pro-football-reference.com/blog/?p=337
-  [Teil 2]: http://footballissexbaby.de/wordpress/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-2/
+  [Teil 2]: http://footballissexbaby.de/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-2/
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 2"
-  [Teil 3]: http://footballissexbaby.de/wordpress/2012/06/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-3/
+  [Teil 3]: http://footballissexbaby.de/2012/06/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-3/
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 3"

@@ -137,7 +137,7 @@ tiefe Pässe betrifft. Meiner Meinung nach könnte er genau das Puzzleteil
 sein, das San Francisco gefehlt hat, um neben einer Top-Defense auch
 eine Top-Offense zu haben.
 
-  [in meinem Review]: http://footballissexbaby.de/wordpress/2012/11/nfl-in-zahlen-woche-11/
+  [in meinem Review]: http://footballissexbaby.de/2012/11/nfl-in-zahlen-woche-11/
     "Die NFL in Zahlen: Woche 11"
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/11/kaepernick_colin640_640-300x168.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/11/kaepernick_colin640_640-300x168.jpg
     "kaepernick_colin640_640"

@@ -93,14 +93,14 @@ Datenbasis sind und daher starken Schwankungen unterliegen. Je mehr
 Spiele gespielt sind, umso verlässlicher und aussagekräftiger werden
 auch die Metriken.
 
-  [altbekanntes]: http://footballissexbaby.de/wordpress/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
+  [altbekanntes]: http://footballissexbaby.de/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
     "Hausgemachte Sport-Rankings nach Sagarin-Art, Teil 1"
-  [Sagarin-Ranking]: http://footballissexbaby.de/wordpress/2011/06/hausgemachte-sport-rankings-nach-sagarin-art-teil-2/
+  [Sagarin-Ranking]: http://footballissexbaby.de/2011/06/hausgemachte-sport-rankings-nach-sagarin-art-teil-2/
     "Hausgemachte Sport-Rankings nach Sagarin-Art, Teil 2"
-  [Bootstrap-Iterationen]: http://footballissexbaby.de/wordpress/2011/10/stiefelriemen-fur-die-sagarin-rankings/
+  [Bootstrap-Iterationen]: http://footballissexbaby.de/2011/10/stiefelriemen-fur-die-sagarin-rankings/
     "Stiefelriemen für die Sagarin-Rankings"
-  [kürzlich vorgestellte Maximum-Likelihood Ranking-System]: http://footballissexbaby.de/wordpress/2012/08/yet-another-ranking-system/
+  [kürzlich vorgestellte Maximum-Likelihood Ranking-System]: http://footballissexbaby.de/2012/08/yet-another-ranking-system/
     "Yet Another Ranking System"
-  [pythagoräische Erwartung]: http://footballissexbaby.de/wordpress/2011/10/sag-mir-deine-punkte-und-ich-sag-dir-wie-oft-du-gewinnst/
+  [pythagoräische Erwartung]: http://footballissexbaby.de/2011/10/sag-mir-deine-punkte-und-ich-sag-dir-wie-oft-du-gewinnst/
     "Sag’ mir deine Punkte und ich sag’ dir wie oft du gewinnst!"
   [durchaus etwas mit den Replacement Referees zu tun hat]: http://www.thebiglead.com/index.php/2012/09/19/replacement-referees-and-home-field-advantage-its-been-almost-eight-points-through-two-weeks/

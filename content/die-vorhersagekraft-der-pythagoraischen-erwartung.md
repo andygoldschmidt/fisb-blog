@@ -50,12 +50,12 @@ Agency-Neuzugänge, leichtere/schwerere Schedule werden allesamt nicht
 berücksichtigt. Aber man gewinnt doch einen Eindruck, in welche Richtung
 die Reise gehen könnte.
 
-  [des]: http://footballissexbaby.de/wordpress/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1/
+  [des]: http://footballissexbaby.de/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1/
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 1 (Update)"
-  [Öfteren]: http://footballissexbaby.de/wordpress/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-2/
+  [Öfteren]: http://footballissexbaby.de/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-2/
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 2"
-  [diskutiert]: http://footballissexbaby.de/wordpress/2012/06/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-3/
+  [diskutiert]: http://footballissexbaby.de/2012/06/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-3/
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 3"
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/07/pythexp_vs_wlp_next_season-300x225.png
+  []: http://footballissexbaby.de/wp-content/uploads/2012/07/pythexp_vs_wlp_next_season-300x225.png
     "pythexp_vs_wlp_next_season"
-  [![][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/07/pythexp_vs_wlp_next_season.png
+  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/07/pythexp_vs_wlp_next_season.png

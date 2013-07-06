@@ -85,8 +85,8 @@ gewichtigen Anteil daran. Aber wenn ein Coach eine große Chance hat ein
 Playoff-Spiel zu gewinnen, dann muss er diese Chance nutzen und darf sie
 nicht aus Feigheit herschenken.
 
-  [John "Chancentod" Fox.]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/01/hi-res-159361675_crop_exact-300x203.jpg
-  [wp\_denbal]: http://footballissexbaby.de/wordpress/wp-content/uploads/2013/01/wp_denbal.tiff
+  [John "Chancentod" Fox.]: http://footballissexbaby.de/wp-content/uploads/2013/01/hi-res-159361675_crop_exact-300x203.jpg
+  [wp\_denbal]: http://footballissexbaby.de/wp-content/uploads/2013/01/wp_denbal.tiff
   [![wp\_denbal][]]: http://live.advancednflstats.com/index.php?gameid1=2013011200
   [da auch nach den neunen Overtime-Regeln das Team mit der ersten
   Possession im Vorteil ist]: http://www.advancednflstats.com/2012/12/markov-model-of-overtime.html

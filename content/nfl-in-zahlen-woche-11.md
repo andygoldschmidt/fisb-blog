@@ -108,5 +108,5 @@ zahllose Verletzungen löchriger als ein schweizer Käse ist. Man muss
 wohl davon ausgehen, dass die insgesamt erfolgreiche Ära Reid ihrem Ende
 entgegensteuert.
 
-  [in meiner Preview]: http://footballissexbaby.de/wordpress/2012/11/nfl-vorschau-woche-11/
+  [in meiner Preview]: http://footballissexbaby.de/2012/11/nfl-vorschau-woche-11/
     "NFL-Vorschau: Woche 11"

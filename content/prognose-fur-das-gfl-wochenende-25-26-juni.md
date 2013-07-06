@@ -40,5 +40,5 @@ beiden überraschend starken GFL Nord-Aufsteigern.
 
 Ich wünsche euch allen ein schönes Football-Wochenende!
 
-  [110625 26]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/06/110625-26.png
+  [110625 26]: http://footballissexbaby.de/wp-content/uploads/2011/06/110625-26.png
     "110625-26.png"

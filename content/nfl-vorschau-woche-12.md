@@ -311,5 +311,5 @@ Jubeln wäre das aber wohl nicht.
 </div>
 
   [Houston Texans @ Detroit Lions:]: #
-  [wie an anderer Stelle schon geschrieben]: http://footballissexbaby.de/wordpress/2012/11/smith-oder-kaepernick-welcher-qb-ist-besser-fur-die-49ers/
+  [wie an anderer Stelle schon geschrieben]: http://footballissexbaby.de/2012/11/smith-oder-kaepernick-welcher-qb-ist-besser-fur-die-49ers/
     "Smith oder Kaepernick: Welcher QB ist besser für die 49ers?"

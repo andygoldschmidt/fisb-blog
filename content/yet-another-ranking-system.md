@@ -170,10 +170,10 @@ das sind doch schöne Aussichten!
   [Pro-Football-Reference]: http://www.pro-football-reference.com/
   [von Peter Wolfe]: http://prwolfe.bol.ucla.edu/cfootball/descrip.htm
   [Hier geht es direkt zur Lösung]: #matheende
-  [Maximum-likelihood Ranking]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/08/ml_rating-300x215.png
+  [Maximum-likelihood Ranking]: http://footballissexbaby.de/wp-content/uploads/2012/08/ml_rating-300x215.png
     "ml_rating"
-  [![Maximum-likelihood Ranking][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/08/ml_rating.png
+  [![Maximum-likelihood Ranking][]]: http://footballissexbaby.de/wp-content/uploads/2012/08/ml_rating.png
   [hier genau nachlesen]: http://www.davemease.com/football/
   [bei dem es nicht ganz einfach ist eine Siegwahrscheinlichkeit zu
-  berechnen]: http://footballissexbaby.de/wordpress/2012/08/herr-elo-und-der-rasenschach/
+  berechnen]: http://footballissexbaby.de/2012/08/herr-elo-und-der-rasenschach/
     "Herr Elo und der Rasenschach"

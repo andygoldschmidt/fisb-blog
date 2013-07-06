@@ -89,11 +89,11 @@ bleibt auch die Zahl der Pass-Touchdowns in etwa gleich.
 Warten wir mal ab, wie sich das Ganze in der weiteren Saison entwickelt.
 Egal wie, langweilig wird diese NFL-Saison mit Sicherheit nicht!
 
-  [Zusammenfassung]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/zusammenfassung.png
+  [Zusammenfassung]: http://footballissexbaby.de/wp-content/uploads/2011/10/zusammenfassung.png
     "zusammenfassung.png"
-  [Passyds per week]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/passyds_per_week.png
+  [Passyds per week]: http://footballissexbaby.de/wp-content/uploads/2011/10/passyds_per_week.png
     "passyds_per_week.png"
-  [Tds per week]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/tds_per_week.png
+  [Tds per week]: http://footballissexbaby.de/wp-content/uploads/2011/10/tds_per_week.png
     "tds_per_week.png"
-  [201109 201109]: http://footballissexbaby.de/wordpress/wp-content/uploads/2011/10/201109-201109.gif
+  [201109 201109]: http://footballissexbaby.de/wp-content/uploads/2011/10/201109-201109.gif
     "201109-201109.gif"

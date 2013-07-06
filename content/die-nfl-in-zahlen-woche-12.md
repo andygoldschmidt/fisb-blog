@@ -119,9 +119,9 @@ Typischerweise beträgt er etwa 3 Punkte, diese Saison wird er stetig
 kleiner, zuletzt war er sogar weniger als ein Punkt. Ich bin gespannt,
 wie sich das in den nächsten Wochen noch entwickelt.
 
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/11/verlauf_pyth-300x225.png
+  []: http://footballissexbaby.de/wp-content/uploads/2012/11/verlauf_pyth-300x225.png
     "verlauf_pyth"
-  [![][]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/11/verlauf_pyth.png
-  [1]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/11/verlauf_hfa-300x225.png
+  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/11/verlauf_pyth.png
+  [1]: http://footballissexbaby.de/wp-content/uploads/2012/11/verlauf_hfa-300x225.png
     "verlauf_hfa"
-  [![][1]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/11/verlauf_hfa.png
+  [![][1]]: http://footballissexbaby.de/wp-content/uploads/2012/11/verlauf_hfa.png

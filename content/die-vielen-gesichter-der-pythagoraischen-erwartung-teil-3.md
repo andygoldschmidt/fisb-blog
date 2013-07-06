@@ -76,7 +76,7 @@ Kompromiss; hier hat man eine bessere Korrelation als in der klassischen
 Erwartung, jedoch (scheinbar) kein so starkes Overfitting wie bei
 **Pythagenport**.
 
-  [ersten Teil]: http://footballissexbaby.de/wordpress/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1/
+  [ersten Teil]: http://footballissexbaby.de/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1/
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 1 (Update)"
-  [zweiten Teil]: http://footballissexbaby.de/wordpress/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-2/
+  [zweiten Teil]: http://footballissexbaby.de/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-2/
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 2"

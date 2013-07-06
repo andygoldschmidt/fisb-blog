@@ -139,17 +139,17 @@ berechnen.
 einem [Kommentar][] auf die Elo-Ratings aufmerksam gemacht hat! Vielen
 Dank nochmal an dieser Stelle!***
 
-  [hier]: http://footballissexbaby.de/wordpress/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
+  [hier]: http://footballissexbaby.de/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
     "Hausgemachte Sport-Rankings nach Sagarin-Art, Teil 1"
-  [1]: http://footballissexbaby.de/wordpress/2011/06/hausgemachte-sport-rankings-nach-sagarin-art-teil-2/
+  [1]: http://footballissexbaby.de/2011/06/hausgemachte-sport-rankings-nach-sagarin-art-teil-2/
     "Hausgemachte Sport-Rankings nach Sagarin-Art, Teil 2"
-  []: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/08/elo09.jpg
+  []: http://footballissexbaby.de/wp-content/uploads/2012/08/elo09.jpg
     "elo09"
   [chessbase.com]: http://www.chessbase.com/newsprint.asp?newsid=4326
   [Elo-Systems]: http://de.wikipedia.org/wiki/Elo-Zahl
   [logistische Funktion]: http://de.wikipedia.org/wiki/Logistische_Funktion
-  [2]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/08/rating_wins_elo-300x225.png
+  [2]: http://footballissexbaby.de/wp-content/uploads/2012/08/rating_wins_elo-300x225.png
     "rating_wins_elo"
-  [![][2]]: http://footballissexbaby.de/wordpress/wp-content/uploads/2012/08/rating_wins_elo.png
+  [![][2]]: http://footballissexbaby.de/wp-content/uploads/2012/08/rating_wins_elo.png
   [JohnJohn]: http://twitter.com/JohnyChamp
-  [Kommentar]: http://footballissexbaby.de/wordpress/2012/08/gfl-ratings-4-8-5-8-2012/#comment-164
+  [Kommentar]: http://footballissexbaby.de/2012/08/gfl-ratings-4-8-5-8-2012/#comment-164

@@ -64,9 +64,9 @@ Diskussionpotenzial bereit als ich ursprünglich dachte.*
 
   [Football Outsiders]: http://www.footballoutsiders.com
   [@FO\_ASchatz]: https://twitter.com/FO_ASchatz
-  [Aktuelle Saison]: http://footballissexbaby.de/wordpress/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1/
+  [Aktuelle Saison]: http://footballissexbaby.de/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1/
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 1 (Update)"
-  [Nächste Saison]: http://footballissexbaby.de/wordpress/2012/07/die-vorhersagekraft-der-pythagoraischen-erwartung/
+  [Nächste Saison]: http://footballissexbaby.de/2012/07/die-vorhersagekraft-der-pythagoraischen-erwartung/
     "Die Vorhersagekraft der pythagoräischen Erwartung"
-  [an anderer Stelle]: http://footballissexbaby.de/wordpress/2012/07/dvoa-gegen-koko-den-affen/
+  [an anderer Stelle]: http://footballissexbaby.de/2012/07/dvoa-gegen-koko-den-affen/
     "DVOA gegen Koko, den Affen"
