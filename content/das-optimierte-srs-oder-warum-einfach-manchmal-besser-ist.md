@@ -1,8 +1,20 @@
 Title: Das optimierte SRS oder warum einfach manchmal besser ist
 Date: 2012-11-15 14:30
 Author: footballissexbaby
+Category: Footballmetrics
 Tags: Football, Home field advantage, NFL, Optimierung, Point spread, Python, SciPy, Simple Ranking System
 Slug: das-optimierte-srs-oder-warum-einfach-manchmal-besser-ist
+
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+    }
+  });
+</script>
 
 Nachdem ich vor einiger Zeit schon [das Simple Ranking System
 vorgestellt habe][], habe ich gestern eine Methode vorgestellt, [um das
@@ -31,8 +43,7 @@ und anschließend die Optimierung eingebaut.
 Die Optimierung funktioniert so, dass ich die realen Punktdiffenzen mit
 den SRS-Differenzen für alle Spiele verglichen habe:
 
-[latex]\\text{R} = \\text{PS} - \\left(\\text{SRS}\_{x\_1} +
-x\_2\\right)[/latex]
+$\\text{R} = \\text{PS} - \\left(\\text{SRS}\_{x\_1} + x\_2\\right)$
 
 PS ist dabei die Punktdifferenz, x1 bezeichnet den Deckelungswert, mit
 dem das SRS berechnet wurde und x2 ist ein freier Parameter.
@@ -77,13 +88,13 @@ erwähnt, [ein solches System schon eingeführt][].
 Auch da erscheint wieder ein mysteriöser Wert von 0.95, aber um die
 Optimierung dieses Wertes kümmere ich mich ein anderes Mal.
 
-  [das Simple Ranking System vorgestellt habe]: http://footballissexbaby.de/2012/09/simple-ranking-system-einfach-aber-gut/
+  [das Simple Ranking System vorgestellt habe]: http://footballissexbaby.de/2012/09/simple-ranking-system-einfach-aber-gut.html
     "Simple Ranking System – einfach aber gut"
-  [um das SRS in Offense- und Defense-Komponenten zu zerlegen]: http://footballissexbaby.de/2012/11/offenses-und-defenses-bewerten-mit-dem-simple-ranking-system/
+  [um das SRS in Offense- und Defense-Komponenten zu zerlegen]: http://footballissexbaby.de/2012/11/offenses-und-defenses-bewerten-mit-dem-simple-ranking-system.html
     "Offenses und Defenses bewerten mit dem Simple Ranking System"
   [pro-football-reference.com]: http://www.pro-football-reference.com
   [Sideline Reporter]: http://sidelinereporter.wordpress.com
-  [dem geneigten Leser vielleicht vertraut vor]: http://footballissexbaby.de/2012/11/die-nfl-in-zahlen-woche-10/
+  [dem geneigten Leser vielleicht vertraut vor]: http://footballissexbaby.de/2012/11/die-nfl-in-zahlen-woche-10.html
     "Die NFL in Zahlen: Woche 10"
   [FootballPerspective.com]: http://www.footballperspective.com/
   [ein solches System schon eingeführt]: http://www.footballperspective.com/checkdowns-weighted-nfl-srs-ratings-through-sunday-101412/

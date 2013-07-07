@@ -1,6 +1,7 @@
 Title: Cam Newton - Panthersprung oder Pyrrhussieg?
 Date: 2011-07-14 11:48
 Author: footballissexbaby
+Category: Analyse
 Tags: Auburn, Cam Newton, Carolina Panthers, College Football, Draft, NFL
 Slug: cam-newton-panthersprung-oder-pyrrhussieg
 

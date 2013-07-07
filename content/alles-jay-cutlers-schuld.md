@@ -1,6 +1,7 @@
 Title: Alles Jay Cutlers Schuld?
 Date: 2012-09-21 07:00
 Author: footballissexbaby
+Category: Analyse
 Tags: All-22, Analyse, Chicago Bears, Flo Zielbauer, Green Bay Packers, Jay Cutler, NFL
 Slug: alles-jay-cutlers-schuld
 
@@ -36,7 +37,7 @@ Play-Action-Fake ganze acht Mann (blaue Kreise) für den Schutz Jay
 Cutlers. Trotzdem gelang es Green Bay, die Protection mit nur fünf
 Rushern zu durchbrechen und Cutler zu sacken.
 
-[![][]][]
+[![1. Sack](|filename|/images/sack1-300x169.png)](|filename|/images/sack1.png)
 
 *2. Exekution:* Wie im oberen Bild zu sehen, führen die DTs Picket und
 Raji einen Stunt aus, der in Kombination mit Clay Matthews‘ Speed Rush
@@ -54,7 +55,7 @@ and 93-E.Walden).*
 *1. Playcall:* Die Bears spielen einen konventionellen 5-Step-Pass, den
 die Packers mit einem Zone-Blitz verteidigen.
 
-[![][1]][]
+[![2. Sack](|filename|/images/sack2-300x169.png)](|filename|/images/sack2.png)
 
 *2. Exekution:* Für den ursprünglichen Four-Man-Rush sorgen Raji,
 Picket, Matthews (dieses Mal inside) und Hawk. Eric Walden spielt das
@@ -73,7 +74,7 @@ Walden.
 *1.Playcall:* Einen Pass der Bears mit Sechs-Mann-Protection greifen die
 Packers mit fünf Rushern an und sind erneut erfolgreich.
 
-[![][2]][]
+[![3. Sack](|filename|/images/sack3-300x169.png)](|filename|/images/sack3.png)
 
 *2. Exekution:* Left Tackle Webb lässt sich von Clay Matthews‘ Speedrush
 schlagen und Clay fällt über Cutler her wie ein hungriger Löwe über eine
@@ -92,7 +93,7 @@ sacked at CHI 49 for -1 yards (76-M.Daniels).*
 mit drei Rushern an. Der rechte End Walden hat den Runningback in
 Manndeckung.
 
-[![][3]][]
+[![4. Sack](|filename|/images/sack4-300x169.png)](|filename|/images/sack4.png)
 
 *2. Exekution:* Durch die acht Mann in Coverage ergibt sich keine freie
 Anspielstation downfield. Wie unten links zu sehen ist, hätte Cutler
@@ -112,7 +113,7 @@ dieses Mal vier Rusher und spielen Zone-Coverage dahinter. Die Bears
 beschützen Cutler auf diesem Five-Step-Drop mit den fünf Offensive
 Linemen.
 
-[![][4]][]
+[![5. Sack](|filename|/images/sack5-240x300.png)](|filename|/images/sack5.png)
 
 *2. Exekution:* erneut wird keine Anspielstation downfield frei, nur
 Bush, der aus dem Backfield heraus eine Route zwischen die Linebacker
@@ -132,7 +133,7 @@ the play.*
 deutlich überlegenen Blockern gegenüber. Capers schickt einen
 konventionellen 4-Mann-Rush, der einer 7-Mann-Protection gegenübersteht.
 
-[![][5]][]
+[![6. Sack](|filename|/images/sack6-240x300.png)](|filename|/images/sack6.png)
 
 *2. Exekution:* Am Ende seines Drops werden alle von Cutlers Receivern
 von der Cover-3 der Packers Secondary gedeckt (Bild in der Mitte).
@@ -149,7 +150,7 @@ entscheiden sich im Verzweiflungsmodus für ein “Four Verticals”-Play
 Spielen die Packers einen 5-Mann-Rush mit einer Cover 2-Man als Coverage
 (zwei Safetys spielen die tiefen Zonen, darunter Manndeckung).
 
-[![][6]][]
+[![7. Sack](|filename|/images/sack7-240x300.png)](|filename|/images/sack7.png)
 
 *2. Exekution:* Michael Bush bleibt in der Pocket um bei der Pass
 Protection zu helfen, und so wird aus einem geplanten 4-Mann-Rush ein
@@ -177,24 +178,3 @@ Offensive Line wohl schon von vornerein zum Scheitern verurteilt.
 
   [@FloBlogs]: https://twitter.com/FloBlogs
   [HardCount]: http://hardcount.wordpress.com
-  []: http://footballissexbaby.de/wp-content/uploads/2012/09/sack1-300x169.png
-    "1. Sack"
-  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack1.png
-  [1]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack2-300x169.png
-    "2. Sack"
-  [![][1]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack2.png
-  [2]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack3-300x169.png
-    "3. Sack"
-  [![][2]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack3.png
-  [3]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack4-300x169.png
-    "4. Sack"
-  [![][3]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack4.png
-  [4]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack5-240x300.png
-    "5. Sack"
-  [![][4]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack5.png
-  [5]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack6-240x300.png
-    "6. Sack"
-  [![][5]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack6.png
-  [6]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack7-240x300.png
-    "7. Sack"
-  [![][6]]: http://footballissexbaby.de/wp-content/uploads/2012/09/sack7.png

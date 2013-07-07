@@ -1,6 +1,7 @@
 Title: Die Adler sollen fliegen - oder ist das doch nur Ikarus?
 Date: 2011-07-31 00:21
 Author: footballissexbaby
+Category: Analyse
 Tags: DRC, Michael Vick, NFL, Nnamdi Asomugha, Philadelphia Eagles
 Slug: die-adler-sollen-fliegen-oder-ist-das-doch-nur-ikarus
 

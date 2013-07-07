@@ -1,12 +1,9 @@
 Title: Cullen Jenkins: The Eagle has landed in the Big Apple
 Date: 2013-03-11 15:05
 Author: footballissexbaby
+Category: Analyse
 Tags: Cullen Jenkins, Football, Free Agency, Markus Kuhn, New York Giants, NFL, Philadelphia Eagles
 Slug: cullen-jenkins-the-eagle-has-landed-in-the-big-apple
-
-[caption id="attachment\_2126" align="alignright" width="300"][![Cullen
-Jenkins jubelt demnächst in blau.][]][] Cullen Jenkins jubelt demnächst
-in blau.[/caption]
 
 Am Sonntagabend wurde bekannt, dass die New York Giants den Defensive
 Tackle Cullen Jenkins unter Vertrag genommen haben. Jenkins wurde zuvor
@@ -59,7 +56,6 @@ geschoben. Da man davon ausgehen darf, dass die Giants sicher noch einen
 DT in der Free Agency oder dem Draft verpflichten, wird es eine harte
 Nuss für Kuhn, auch 2013 wieder den 53-Mann-Kader zu erreichen.
 
-  [Cullen Jenkins jubelt demnächst in blau.]: http://footballissexbaby.de/wp-content/uploads/2013/03/jenkins-300x225.jpg
   [![Cullen Jenkins jubelt demnächst in blau.][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/jenkins.jpg
   [ProFootballFocus]: https://www.profootballfocus.com/
   [PFF-Bewertungen für Cullen Jenkins von 2009-2012]: http://footballissexbaby.de/wp-content/uploads/2013/03/cullen_jenkins_pff-300x218.png

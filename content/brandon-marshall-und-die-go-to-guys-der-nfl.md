@@ -1,6 +1,7 @@
 Title: Brandon Marshall und die Go-To-Guys der NFL
 Date: 2012-11-27 15:30
 Author: footballissexbaby
+Category: Analyse
 Tags: Brandon Marshall, Chicago Bears, Football, NFL
 Slug: brandon-marshall-und-die-go-to-guys-der-nfl
 
@@ -11,12 +12,6 @@ Am Wochenende machte mich folgender Tweet neugierig:
 
 [Quelle][]
 
-<div>
-[caption id="attachment\_1717" align="alignright" width="300"]![][]
-Brandon Marshall hat über 1000 Receiving Yards, sein gesamtes Team hat
-dabei nicht mal 2000 Passing Yards.[/caption]
-
-</div>
 Abgesehen davon, dass die Zahl nicht ganz stimmt, wie wir gleich sehen
 werden, wollte ich wissen, wie außergewöhnlich diese Zahl denn wirklich
 ist oder ob er unter den "*go-to guys*" nur ein leichter Ausreißer ist.
@@ -31,28 +26,33 @@ relativen Anteil an den Pass-Yards des jeweiligen Teams zu berechnen.
 Im Folgenden eine Liste der 20 Receiver, die am meisten zu den
 Pass-Yards ihres Teams beitragen:
 
-  Player             Team   Rel. Yards
-  ------------------ ------ ------------
-  Brandon Marshall   CHI    52.2%
-  Andre Johnson      HOU    38.4%
-  A.J. Green         CIN    38.0%
-  Calvin Johnson     DET    36.6%
-  Reggie Wayne       IND    36.2%
-  Vincent Jackson    TAM    35.8%
-  Brian Hartline     MIA    34.5%
-  Cecil Shorts       JAX    33.1%
-  Percy Harvin       MIN    33.1%
-  Demaryius Thomas   DEN    32.1%
-  Dwayne Bowe        KAN    31.8%
-  Roddy White        ATL    30.6%
-  Davone Bess        MIA    30.6%
-  Steve Johnson      BUF    30.3%
-  Jeremy Kerley      NYJ    30.0%
-  Wes Welker         NWE    29.9%
-  DeSean Jackson     PHI    28.8%
-  Malcom Floyd       SDG    28.5%
-  Victor Cruz        NYG    27.8%
-  Andre Roberts      ARI    27.6%
+<table class="table">
+<thead>
+  <tr><th>Player</th><th>Team</th><th>Rel. Yards</th></tr>
+</thead>
+<tbody>
+  <tr><td>Brandon Marshall</td><td>CHI</td><td>52.2%</td></tr>
+  <tr><td>Andre Johnson</td><td>HOU</td><td>38.4%</td></tr>
+  <tr><td>A.J. Green</td><td>CIN</td><td>38.0%</td></tr>
+  <tr><td>Calvin Johnson</td><td>DET</td><td>36.6%</td></tr>
+  <tr><td>Reggie Wayne</td><td>IND</td><td>36.2%</td></tr>
+  <tr><td>Vincent Jackson</td><td>TAM</td><td>35.8%</td></tr>
+  <tr><td>Brian Hartline</td><td>MIA</td><td>34.5%</td></tr>
+  <tr><td>Cecil Shorts</td><td>JAX</td><td>33.1%</td></tr>
+  <tr><td>Percy Harvin</td><td>MIN</td><td>33.1%</td></tr>
+  <tr><td>Demaryius Thomas</td><td>DEN</td><td>32.1%</td></tr>
+  <tr><td>Dwayne Bowe</td><td>KAN</td><td>31.8%</td></tr>
+  <tr><td>Roddy White</td><td>ATL</td><td>30.6%</td></tr>
+  <tr><td>Davone Bess</td><td>MIA</td><td>30.6%</td></tr>
+  <tr><td>Steve Johnson</td><td>BUF</td><td>30.3%</td></tr>
+  <tr><td>Jeremy Kerley</td><td>NYJ</td><td>30.0%</td></tr>
+  <tr><td>Wes Welker</td><td>NWE</td><td>29.9%</td></tr>
+  <tr><td>DeSean Jackson</td><td>PHI</td><td>28.8%</td></tr>
+  <tr><td>Malcom Floyd</td><td>SDG</td><td>28.5%</td></tr>
+  <tr><td>Victor Cruz</td><td>NYG</td><td>27.8%</td></tr>
+  <tr><td>Andre Roberts</td><td>ARI</td><td>27.6%</td></tr>
+</tbody>
+</table>
 
 Es dürfte keine Überraschung sein, dass Brandon Marshall die Liste
 anführt und dahinter die bekannten Go-To-Guys wie A.J. Green, Andre
@@ -95,46 +95,49 @@ Spielers auf die Team-Yards.
 Die folgende Tabelle zeigt die Standardabweichung aller Teams für die
 qualifizierenden Receiver (\> 10 Receptions, \> 100 Rec-Yards):
 
-  Team   Standardabweichung
-  ------ --------------------
-  CHI    0.186
-  MIA    0.142
-  CIN    0.130
-  HOU    0.121
-  TAM    0.115
-  DET    0.111
-  JAX    0.110
-  IND    0.109
-  NWE    0.105
-  MIN    0.103
-  ATL    0.100
-  CAR    0.098
-  DAL    0.098
-  ARI    0.097
-  BUF    0.097
-  DEN    0.096
-  PHI    0.092
-  KAN    0.092
-  SDG    0.089
-  BAL    0.086
-  STL    0.080
-  SEA    0.080
-  NYG    0.078
-  NYJ    0.077
-  SFO    0.071
-  OAK    0.070
-  PIT    0.066
-  CLE    0.065
-  NOR    0.065
-  TEN    0.049
-  GNB    0.044
-  WAS    0.032
+<table class="table">
+<thead>
+  <tr><th>Team</th><th>Standardabweichung</th></tr>
+</thead>
+<tbody>
+  <tr><td>CHI</td><td>0.186</td></tr>
+  <tr><td>MIA</td><td>0.142</td></tr>
+  <tr><td>CIN</td><td>0.130</td></tr>
+  <tr><td>HOU</td><td>0.121</td></tr>
+  <tr><td>TAM</td><td>0.115</td></tr>
+  <tr><td>DET</td><td>0.111</td></tr>
+  <tr><td>JAX</td><td>0.110</td></tr>
+  <tr><td>IND</td><td>0.109</td></tr>
+  <tr><td>NWE</td><td>0.105</td></tr>
+  <tr><td>MIN</td><td>0.103</td></tr>
+  <tr><td>ATL</td><td>0.100</td></tr>
+  <tr><td>CAR</td><td>0.098</td></tr>
+  <tr><td>DAL</td><td>0.098</td></tr>
+  <tr><td>ARI</td><td>0.097</td></tr>
+  <tr><td>BUF</td><td>0.097</td></tr>
+  <tr><td>DEN</td><td>0.096</td></tr>
+  <tr><td>PHI</td><td>0.092</td></tr>
+  <tr><td>KAN</td><td>0.092</td></tr>
+  <tr><td>SDG</td><td>0.089</td></tr>
+  <tr><td>BAL</td><td>0.086</td></tr>
+  <tr><td>STL</td><td>0.080</td></tr>
+  <tr><td>SEA</td><td>0.080</td></tr>
+  <tr><td>NYG</td><td>0.078</td></tr>
+  <tr><td>NYJ</td><td>0.077</td></tr>
+  <tr><td>SFO</td><td>0.071</td></tr>
+  <tr><td>OAK</td><td>0.070</td></tr>
+  <tr><td>PIT</td><td>0.066</td></tr>
+  <tr><td>CLE</td><td>0.065</td></tr>
+  <tr><td>NOR</td><td>0.065</td></tr>
+  <tr><td>TEN</td><td>0.049</td></tr>
+  <tr><td>GNB</td><td>0.044</td></tr>
+  <tr><td>WAS</td><td>0.032</td></tr>
+</tbody>
+</table>
 
   [Quelle]: https://twitter.com/STATS_NFL/status/272362718240059392
-  []: http://footballissexbaby.de/wp-content/uploads/2012/11/brandonmarshall-300x198.jpg
-    "Chicago Bears wide receiver Brandon Marshall celebrates his touchdown reception in Arlington"
   [Pro Football Reference]: http://www.pro-football-reference.com
-  [1]: http://footballissexbaby.de/wp-content/uploads/2012/11/relyds_chi.png
+  [1]: |filename|/images/relyds_chi.png
     "relyds_chi"
-  [2]: http://footballissexbaby.de/wp-content/uploads/2012/11/relyds_nwe.png
+  [2]: |filename|/images/relyds_nwe.png
     "relyds_nwe"

@@ -1,6 +1,7 @@
 Title: Die Chancen der Falcons auf eine perfekte Saison
 Date: 2012-11-02 18:30
 Author: footballissexbaby
+Category: Analyse
 Tags: Atlanta Falcons, Football, NFL, Perfect Season
 Slug: die-chancen-der-falcons-auf-eine-perfekte-saison
 
@@ -11,12 +12,6 @@ aber erst einem Team, den Patriots in der Saison 2007.
 Üblicherweise ist es so, dass ab Mitte oder Ende Oktober alle Teams
 dieses Ziel verfehlt haben oder höchstens noch ein Team auf Kurs ist.
 
-<div>
-[caption id="attachment\_1615" align="alignright" width="300"]![][] Die
-beiden würden sich über Playoff-Siege sicher mehr freuen als über eine
-*perfect season*.[/caption]
-
-</div>
 Auch dieses Jahr kann das Kunststück *perfect season* nur noch den
 Atlanta Falcons gelingen. Nach 7 Spielen sind sie noch ungeschlagen.
 Allerdings bleiben noch mehr als die Hälfte der Spiele bis zum Ende der
@@ -28,13 +23,14 @@ anderem die Patriots-Spielverderber New York Giants. Allerdings haben
 sie auch noch einige Division-Spiele und um den Zustand der restlichen
 NFC South ist es nicht allzu gut bestellt.
 
-Mit Hilfe von Ranking-Systemen ist es [mehr][] oder [wenig einfach][]
-eine Siegwahrscheinlichkeit für jedes Spiel zu berechnen.
+Mit Hilfe von Ranking-Systemen ist es [mehr](|filename|/yet-another-ranking-system.md)
+oder [wenig einfach](|filename|/herr-elo-und-der-rasenschach.md) eine
+Siegwahrscheinlichkeit für jedes Spiel zu berechnen.
 
 Man kann nun für jedes Spiel einmal die Max-L-Siegwahrscheinlichkeit
 berechnen, die ausschließlich die Siege von Teams berücksichtigt, und
 zum anderen die Siegwahrscheinlichkeit mit FISB-Ranking ([die aktuellen
-Ratings gibt es hier][]).
+Ratings gibt es hier](|filename|/die-nfl-in-zahlen-woche-8.md)).
 
 Multipliziert man nun alle Einzelwahrscheinlichkeiten, so kommt man
 recht schnell zur Gesamtwahrscheinlichkeit, dass die Falcons alle
@@ -49,12 +45,3 @@ Nach den beiden Ranking-Systemen ist es also nicht allzu wahrscheinlich,
 dass die Falcons die reguläre Saison ungeschlagen beenden. Wer die
 Spiele gegen die Carolina Panthers und die Oakland Raiders gesehen hat,
 wird sich dieser Einschätzung sicherlich anschließen.
-
-  []: http://footballissexbaby.de/wp-content/uploads/2012/11/Matt-Ryan-Atlanta-Falcons-300x168.jpg
-    "Matt-Ryan-Mike-Smith"
-  [mehr]: http://footballissexbaby.de/2012/08/yet-another-ranking-system/
-    "Yet Another Ranking System"
-  [wenig einfach]: http://footballissexbaby.de/2012/08/herr-elo-und-der-rasenschach/
-    "Herr Elo und der Rasenschach"
-  [die aktuellen Ratings gibt es hier]: http://footballissexbaby.de/2012/11/die-nfl-in-zahlen-woche-8/
-    "Die NFL in Zahlen: Woche 8"

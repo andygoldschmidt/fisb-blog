@@ -1,15 +1,10 @@
 Title: Die Erfolgsquote der Running Backs
 Date: 2013-05-10 07:19
 Author: footballissexbaby
+Category: Footballmetrics
 Tags: Brian Burke, Football, Football Outsiders, NFL, Success Rate
 Slug: die-erfolgsquote-der-running-backs
 
-<div>
-[caption id="attachment\_2174" align="alignright" width="300"]![Der
-derzeit zweifellos beste Running Back der NFL.][] Der derzeit zweifellos
-beste Running Back der NFL.[/caption]
-
-</div>
 Geht es darum, wer der beste Running Back in der NFL ist, hört man
 schnell: der Spieler mit den meisten Laufyards. Nur wenig
 aussagekräftiger ist es, die Yards pro Versuch oder Touchdowns
@@ -80,7 +75,7 @@ Back immer wieder mal Unrecht getan haben.
 Die Success Rate für 2012 sieht für die 25 erfolgreichsten Running Backs
 wie folgt aus:
 
-<table>
+<table class="table">
 <thead>
 <tr>
 <th>
@@ -658,6 +653,7 @@ F.Jackson
 </tr>
 </tbody>
 </table>
+
 Die Frage "Wo ist Adrian Peterson???" wird sich sicher fast jedem
 stellen. Doch sein Spiel besteht eben aus vielen 1-Yard-Läufen, die
 immer wieder von überragenden 20 oder 30 Yard-Runs vergessen gemacht
@@ -702,5 +698,4 @@ Doch auch wenn Adrian Peterson in der Success Rate nur Mittelmaß ist,
 besteht wohl kein Zweifel daran, dass er zurecht als derzeit bester
 Running Back in der NFL gesehen wird.
 
-  [Der derzeit zweifellos beste Running Back der NFL.]: http://footballissexbaby.de/wp-content/uploads/2013/05/ap-300x200.jpg
   [Football Outsiders]: http://www.footballoutsiders.com/stat-analysis/2004/introducing-running-back-success-rate

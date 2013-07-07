@@ -1,6 +1,7 @@
 Title: A Giant problem: Die Redzone-Probleme der New York Giants
 Date: 2012-10-29 18:47
 Author: footballissexbaby
+Category: Analyse
 Tags: Dallas Cowboys, Expected points, Football, New York Giants, NFL, Red zone
 Slug: a-giant-problem-die-redzone-probleme-der-new-york-giants
 
@@ -8,12 +9,6 @@ Das Spiel der New York Giants bei den Dallas Cowboys war sehr turbulent.
 Es gab Spannung bis zur wortwörtlich letzten Sekunde. Wer nur das erste
 Quarter gesehen hat, der fragt sich zurecht, wie es dazu kommen konnte.
 
-<div>
-[caption id="attachment\_1601" align="alignright" width="245"]![][] Wenn
-man solche Probleme hat die Endzone zu finden, kann man schon mal böse
-werden.[/caption]
-
-</div>
 Das Spiel ging recht unspektakulär los, die Giants beenden den *opening
 drive* mit einem 41-Yard Field Goal durch Kicker Lawrence Tynes.
 
@@ -31,8 +26,8 @@ Damit stand es nach nicht mal 16 Spielminuten 16:0 für die Giants.
 16:0? Nach drei Turnovers und zwei "regulären" Drives? Das ist eine
 ziemlich magere Ausbeute.
 
-Sieht man sich die [zu erwartenden Punkte an][], bietet sich folgendes
-Bild: die erste Interception hatte eine erwartete Ausbeute von 3.55
+Sieht man sich die [zu erwartenden Punkte an](http://wp.advancednflstats.com/winprobcalc1.php),
+bietet sich folgendes Bild: die erste Interception hatte eine erwartete Ausbeute von 3.55
 Punkten, die zweite Interception von 3.24 Punkten und das
 zurückgewonnene Fumble sollte mit 4.39 Punkten zu Buche schlagen.
 
@@ -87,6 +82,3 @@ Die New Yorker Medien können sehr unangenehm reagieren, wenn aus solchen
 Schwächen Niederlagen resultieren, daher sollten die Giants schnellstens
 Wege finden ihre vielen Offensivwaffen effektiv zu nutzen.
 
-  []: http://footballissexbaby.de/wp-content/uploads/2012/10/medium_TomCoughlin-245x300.jpg
-    "tom_coughlin"
-  [zu erwartenden Punkte an]: http://wp.advancednflstats.com/winprobcalc1.php

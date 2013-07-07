@@ -1,6 +1,7 @@
 Title: Der Preis für RG3
 Date: 2012-03-10 21:29
 Author: footballissexbaby
+Category: Analyse
 Tags: Draft, Eli Manning, New York Giants, NFL, Philip Rivers, RG3, Robert Griffin III, San Diego Chargers, St. Louis Rams, Washington Redskings
 Slug: der-preis-fur-rg3
 
