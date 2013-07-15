@@ -24,7 +24,7 @@ Nach dem Spiel wurde mit Schuldzuweisungen nicht gespart. Von der
 „löchrigen“ Bears-O-Line über sich nicht freilaufende Receiver oder
 schlechtes Playcalling bot jeder Experte seine eigene Diagnose an. Mit
 Hilfe des All-22-Coaches-Films will ich in diesem Gastbeitrag für
-footballissexbaby.de den Cutler’schen Sacks auf den Grund gehen und
+*Football Is Sex, Baby* den Cutler’schen Sacks auf den Grund gehen und
 untersuchen, wem die „Schuld“ zuzuweisen ist.
 
 **Sack 1:** *Chicago Bears at 13:37, 1-10-CHI 18 (13:37) 6-J.Cutler

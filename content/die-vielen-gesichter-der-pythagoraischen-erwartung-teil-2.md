@@ -1,7 +1,7 @@
 Title: Die vielen Gesichter der pythagoräischen Erwartung. Teil 2
 Date: 2012-03-18 20:43
 Author: footballissexbaby
-Tags: Baseball Prospectus, Bill James, Clay Davenport, David Smyth, Football Outsiders, Gaussian distribution, Modelle..., NFL, Overfitting, Poisson distribution, Pythagenpat, Pythagenport, Pythagorean expectation, Taktik, Zahlen
+Tags: Baseball Prospectus, Bill James, Clay Davenport, David Smyth, Football Outsiders, NFL, Overfitting, Pythagenpat, Pythagenport, Pythagorean expectation
 Slug: die-vielen-gesichter-der-pythagoraischen-erwartung-teil-2
 
 Der erste Teil zu diesem Artikel ist [hier][] zu finden.
@@ -29,12 +29,9 @@ Team den gleichen Exponenten hat. Daher gibt es für **Pythagenport/
 
 Die Mittelwerte sind wie folgt:
 
--   **Pythagorean**: <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-    2.8196
--   **Pythagenport**: <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-    2.8575
--   **Pythagenpat**: <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-    2.8315
+-   **Pythagorean**: 2.8196
+-   **Pythagenport**: 2.8575
+-   **Pythagenpat**: 2.8315
 
 Es fällt auf, dass die Exponenten bei **Pythagenport** etwa symmetrisch
 verteilt sind. Das erinnert an eine *Gauss-Verteilung*.
@@ -48,8 +45,7 @@ entspricht ebenfalls einer solchen Verteilung. Der Exponent einer
 "guten" pythagoräischen Erwartung sollte demzufolge ebenfalls ein
 Poisson-artiges Verhalten zeigen.
 
-Das führt mich zu der
-*<span style="text-decoration: underline;">Vermutung</span>* (!!!), dass
+Das führt mich zu der *Vermutung* (!!!), dass
 die gaussverteilte **Pythagenport**-Methode "überangepasst" ist. Der
 Exponent schwankt bei dieser Methode also mit einer gewissen
 *Standardabweichung* (= Breite der Glockenkurve) um den *Mittelwert.*
@@ -70,10 +66,10 @@ ein eher mathematisches als ein praktisches Problem. Jedoch sollte die
 "richtige" pythagoräische Erwartung alle denkbaren Fälle sinnvoll
 abdecken, auch wenn sie sehr sehr unwahrscheinlich sind.
 
-Im dritten und letzten Teil werde ich mich dann endlich mit der
-Vorhersagekraft der drei Methoden beschäftigen.
+Im [dritten und letzten Teil](|filename|die-vielen-gesichter-der-pythagoraischen-erwartung-teil-3.md)
+beschäftige ich mich dann endlich mit der Vorhersagekraft der drei Methoden.
 
-  [hier]: http://footballissexbaby.de/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1/
+  [hier]: |filename|die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1.md
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 1 (Update)"
   [in der Physik und Statistik eine sehr zentrale Rolle spielt]: http://en.wikipedia.org/wiki/Normal_distribution#Occurrence
   [bei denen Ereignisse selten vorkommen]: http://en.wikipedia.org/wiki/Poisson_distribution#Occurrence

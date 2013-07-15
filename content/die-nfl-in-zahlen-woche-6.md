@@ -43,40 +43,45 @@ gelungen ist.
 Sehen wir uns an, wer sich in den Rankings nach oben schieben konnte und
 wer am Wochenende ordentlich ins Rutschen kam.
 
-  Team                   FISB    Max-L   SRS     MoV     SOS    Pyth.
-  ---------------------- ------- ------- ------- ------- ------ -------
-  Arizona Cardinals      2.5     1.9     3.2     2.2     1.1    9.1
-  Atlanta Falcons        5.6     4.9     5.6     9.7     -4.0   11.4
-  Baltimore Ravens       4.0     2.4     4.4     7.2     -2.7   10.6
-  Buffalo Bills          -8.3    0.9     -9.1    -9.2    0.1    5.1
-  Carolina Panthers      -2.7    0.4     -1.8    -6.6    4.8    5.4
-  Chicago Bears          14.2    2.4     14.5    15.6    -1.1   13.4
-  Cincinnati Bengals     -5.1    0.8     -5.5    -2.3    -3.2   7.2
-  Cleveland Browns       -5.5    0.4     -5.9    -4.8    -1.0   6.3
-  Dallas Cowboys         3.6     1.0     3.4     -5.0    8.4    6.0
-  Denver Broncos         5.7     1.1     5.4     5.3     0.0    9.8
-  Detroit Lions          -1.6    0.8     -2.5    -2.2    -0.3   7.3
-  Green Bay Packers      7.8     1.3     7.7     3.2     4.5    9.2
-  Houston Texans         6.9     2.9     6.9     9.7     -2.7   11.4
-  Indianapolis Colts     -6.9    0.8     -7.3    -9.0    1.7    4.9
-  Jacksonville Jaguars   -12.1   0.5     -12.7   -14.6   1.9    2.5
-  Kansas City Chiefs     -13.6   0.3     -13.7   -13.2   -0.5   3.6
-  Miami Dolphins         -0.5    1.1     -0.4    0.5     -0.9   8.2
-  Minnesota Vikings      1.2     1.5     0.7     4.8     -4.1   9.9
-  New England Patriots   8.6     1.2     7.9     8.5     -0.6   10.7
-  New Orleans Saints     -5.4    0.3     -4.6    -2.6    -2.0   7.2
-  New York Giants        11.7    1.3     12.0    10.7    1.3    11.7
-  New York Jets          -2.4    1.1     -2.0    -1.3    -0.7   7.5
-  Oakland Raiders        -10.6   0.4     -11.8   -12.2   0.4    3.8
-  Philadelphia Eagles    -2.4    1.0     -2.6    -3.7    1.1    6.3
-  Pittsburgh Steelers    -4.0    0.6     -4.9    0.2     -5.1   8.1
-  San Diego Chargers     -3.7    0.7     -3.7    1.8     -5.6   8.7
-  San Francisco 49ers    11.2    1.9     10.8    9.7     1.1    11.9
-  Seattle Seahawks       6.6     1.8     6.9     2.8     4.0    9.5
-  St. Louis Rams         3.8     1.3     3.7     -0.2    3.9    7.9
-  Tampa Bay Buccaneers   3.3     0.6     4.1     3.8     0.3    9.5
-  Tennessee Titans       -13.5   0.6     -14.2   -15.0   0.8    3.5
-  Washington Redskins    1.3     1.0     1.5     0.8     0.7    8.3
+<table class="table">
+<thead>
+<tr><th>Team</th><th>FISB</th><th>Max-L</th><th>SRS</th><th>MoV</th><th>SOS</th><th>Pyth.</th></tr>
+</thead>
+<tbody>
+<tr><td>Arizona Cardinals</td><td>2.5</td><td>1.9</td><td>3.2</td><td>2.2</td><td>1.1</td><td>9.1</td></tr>
+<tr><td>Atlanta Falcons</td><td>5.6</td><td>4.9</td><td>5.6</td><td>9.7</td><td>-4.0</td><td>11.4</td></tr>
+<tr><td>Baltimore Ravens</td><td>4.0</td><td>2.4</td><td>4.4</td><td>7.2</td><td>-2.7</td><td>10.6</td></tr>
+<tr><td>Buffalo Bills</td><td>-8.3</td><td>0.9</td><td>-9.1</td><td>-9.2</td><td>0.1</td><td>5.1</td></tr>
+<tr><td>Carolina Panthers</td><td>-2.7</td><td>0.4</td><td>-1.8</td><td>-6.6</td><td>4.8</td><td>5.4</td></tr>
+<tr><td>Chicago Bears</td><td>14.2</td><td>2.4</td><td>14.5</td><td>15.6</td><td>-1.1</td><td>13.4</td></tr>
+<tr><td>Cincinnati Bengals</td><td>-5.1</td><td>0.8</td><td>-5.5</td><td>-2.3</td><td>-3.2</td><td>7.2</td></tr>
+<tr><td>Cleveland Browns</td><td>-5.5</td><td>0.4</td><td>-5.9</td><td>-4.8</td><td>-1.0</td><td>6.3</td></tr>
+<tr><td>Dallas Cowboys</td><td>3.6</td><td>1.0</td><td>3.4</td><td>-5.0</td><td>8.4</td><td>6.0</td></tr>
+<tr><td>Denver Broncos</td><td>5.7</td><td>1.1</td><td>5.4</td><td>5.3</td><td>0.0</td><td>9.8</td></tr>
+<tr><td>Detroit Lions</td><td>-1.6</td><td>0.8</td><td>-2.5</td><td>-2.2</td><td>-0.3</td><td>7.3</td></tr>
+<tr><td>Green Bay Packers</td><td>7.8</td><td>1.3</td><td>7.7</td><td>3.2</td><td>4.5</td><td>9.2</td></tr>
+<tr><td>Houston Texans</td><td>6.9</td><td>2.9</td><td>6.9</td><td>9.7</td><td>-2.7</td><td>11.4</td></tr>
+<tr><td>Indianapolis Colts</td><td>-6.9</td><td>0.8</td><td>-7.3</td><td>-9.0</td><td>1.7</td><td>4.9</td></tr>
+<tr><td>Jacksonville Jaguars</td><td>-12.1</td><td>0.5</td><td>-12.7</td><td>-14.6</td><td>1.9</td><td>2.5</td></tr>
+<tr><td>Kansas City Chiefs</td><td>-13.6</td><td>0.3</td><td>-13.7</td><td>-13.2</td><td>-0.5</td><td>3.6</td></tr>
+<tr><td>Miami Dolphins</td><td>-0.5</td><td>1.1</td><td>-0.4</td><td>0.5</td><td>-0.9</td><td>8.2</td></tr>
+<tr><td>Minnesota Vikings</td><td>1.2</td><td>1.5</td><td>0.7</td><td>4.8</td><td>-4.1</td><td>9.9</td></tr>
+<tr><td>New England Patriots</td><td>8.6</td><td>1.2</td><td>7.9</td><td>8.5</td><td>-0.6</td><td>10.7</td></tr>
+<tr><td>New Orleans Saints</td><td>-5.4</td><td>0.3</td><td>-4.6</td><td>-2.6</td><td>-2.0</td><td>7.2</td></tr>
+<tr><td>New York Giants</td><td>11.7</td><td>1.3</td><td>12.0</td><td>10.7</td><td>1.3</td><td>11.7</td></tr>
+<tr><td>New York Jets</td><td>-2.4</td><td>1.1</td><td>-2.0</td><td>-1.3</td><td>-0.7</td><td>7.5</td></tr>
+<tr><td>Oakland Raiders</td><td>-10.6</td><td>0.4</td><td>-11.8</td><td>-12.2</td><td>0.4</td><td>3.8</td></tr>
+<tr><td>Philadelphia Eagles</td><td>-2.4</td><td>1.0</td><td>-2.6</td><td>-3.7</td><td>1.1</td><td>6.3</td></tr>
+<tr><td>Pittsburgh Steelers</td><td>-4.0</td><td>0.6</td><td>-4.9</td><td>0.2</td><td>-5.1</td><td>8.1</td></tr>
+<tr><td>San Diego Chargers</td><td>-3.7</td><td>0.7</td><td>-3.7</td><td>1.8</td><td>-5.6</td><td>8.7</td></tr>
+<tr><td>San Francisco 49ers</td><td>11.2</td><td>1.9</td><td>10.8</td><td>9.7</td><td>1.1</td><td>11.9</td></tr>
+<tr><td>Seattle Seahawks</td><td>6.6</td><td>1.8</td><td>6.9</td><td>2.8</td><td>4.0</td><td>9.5</td></tr>
+<tr><td>St. Louis Rams</td><td>3.8</td><td>1.3</td><td>3.7</td><td>-0.2</td><td>3.9</td><td>7.9</td></tr>
+<tr><td>Tampa Bay Buccaneers</td><td>3.3</td><td>0.6</td><td>4.1</td><td>3.8</td><td>0.3</td><td>9.5</td></tr>
+<tr><td>Tennessee Titans</td><td>-13.5</td><td>0.6</td><td>-14.2</td><td>-15.0</td><td>0.8</td><td>3.5</td></tr>
+<tr><td>Washington Redskins</td><td>1.3</td><td>1.0</td><td>1.5</td><td>0.8</td><td>0.7</td><td>8.3</td></tr>
+</tbody>
+</table>
 
 **Home field advantage:** 2.5 Punkte  
 **Pythagorean exponent:** 2.22

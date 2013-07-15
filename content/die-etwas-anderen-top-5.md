@@ -18,7 +18,7 @@ Daher möchte ich diesem Beitrag ein paar Top 5 aufstellen.
 
 Los geht's!
 
-**<span style="text-decoration:underline;">Die 5 besten Teams:</span>**
+**Die 5 besten Teams:**
 
 -   **Green Bay Packers:**Sie konnten ihr Super Bowl-Team gut
     zusammenhalten und dazu kehren viele Verletzte wieder zurück, wie
@@ -51,8 +51,7 @@ Los geht's!
     ist traditionell eine der stärksten und gefährlichsten Defenses der
     Liga.
 
-**<span style="text-decoration:underline;">Die 5 schlechtesten
-Teams:</span>**
+**Die 5 schlechtesten Teams:**
 
 -   **Cincinnati Bengals:**Ein Rookie-Quarterback, ein Rookie
     \#1-Receiver und ein Starting Running Back, der noch ein paar Wochen
@@ -100,8 +99,7 @@ Teams:</span>**
     letztes Jahr einiges rausgeholt. Allerdings fehlen auf beiden Seiten
     des Balls die Waffen um in der starken AFC East Erfolg zu haben.
 
-**<span style="text-decoration:underline;">Die 5 Teams, die am meisten
-überraschen könnten:</span>**
+**Die 5 Teams, die am meisten überraschen könnten:**
 
 -   **Oakland Raiders:**Letztes Jahr haben die Raiders bereits viele
     überrascht, als sie die Saison 8-8 beendet haben. Dieses Jahr könnte
@@ -163,8 +161,7 @@ Teams:</span>**
     schnell etablieren kann, dann ist Houston für mich ein
     Geheimfavorit.
 
-**<span style="text-decoration:underline;">Die 5 besten
-Rookies:</span>**
+**Die 5 besten Rookies:**
 
 -   **A. J. Green, WR, Cincinnati Bengals:**Der beste Wide Receiver des
     letzten Drafts. Er hat bereits als Rookie alles, was es braucht, um
@@ -204,8 +201,7 @@ Rookies:</span>**
 **  
 **
 
-**<span style="text-decoration:underline;">Die 5 heißesten
-MVP-Kandidaten:</span>**
+**Die 5 heißesten MVP-Kandidaten:**
 
 -   **Tom Brady, QB, New England Patriots:**3900 Yards, 36 Touchdowns, 4
     Interceptions in der Saison 2010. Mehr muss man wohl nicht sagen.
@@ -236,11 +232,7 @@ MVP-Kandidaten:</span>**
     vermeiden kann, steht ihm eine gute Saison bevor. Schon jetzt kann
     man sagen, dass er die Fußstapfen von Michael Strahan ausfüllt!
 
-<div>
 ***Update**: Die Jacksonville Jaguars haben soeben Starting QB David
 Garrard entlassen und Luke McCown übernimmt als Quarterback. Damit sind
 sie wohl definitiv kein Team mehr, dass in die Überraschungskategorie
 gehört, sondern eher in die Kategorie "Versteht das einer?".*
-
-</div>
-

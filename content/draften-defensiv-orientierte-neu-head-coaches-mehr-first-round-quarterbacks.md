@@ -4,8 +4,10 @@ Author: footballissexbaby
 Tags: Coaching, Draft, First Round Quarterbacks, Head Coach, NFL
 Slug: draften-defensiv-orientierte-neu-head-coaches-mehr-first-round-quarterbacks
 
-Ich hatte in meinem Artikel über Cam Newton ja [den Verdacht
-aufgeworfen][], dass neue Head Coaches, die zuvor als Defense
+
+Ich hatte in meinem Artikel über Cam Newton ja
+[den Verdacht aufgeworfen](|filename|cam-newton-panthersprung-oder-pyrrhussieg.md),
+dass neue Head Coaches, die zuvor als Defense
 Coordinator tätig waren, gern mit ihrem allerersten Draft Pick einen
 Quarterback draften.
 
@@ -17,8 +19,7 @@ Coaching-Job angenommen hat (fett hervorgehoben sind alle Coaches, die
 mit ihrem ersten Pick einen QB gedrafted haben).
 
  
-
-<span style="text-decoration:underline;">2007:</span>
+2007:
 
 -   Bobby Petrino, Atlanta Falcons
 -   Ken Whisenhunt, Arizona Cardinals
@@ -26,14 +27,14 @@ mit ihrem ersten Pick einen QB gedrafted haben).
 -   **Lane Kiffin, Oakland Raiders**
 -   Mike Tomlin, Pittsburgh Steelers
 
-<span style="text-decoration:underline;">2008:</span>
+2008:
 
 -   **Mike Smith, Atlanta Falcons**
 -   **John Harbaugh, Baltimore Ravens**
 -   Tony Sparano, Miami Dolphins
 -   Jim Zorn, Washington Redskins
 
-<span style="text-decoration:underline;">2009:</span>
+2009:
 
 -   Josh McDaniels, Denver Broncos
 -   **Jim Schwartz, Detroit Lions**
@@ -46,7 +47,7 @@ mit ihrem ersten Pick einen QB gedrafted haben).
 -   Jim Mora, Seattle Seahawks
 -   **Raheem Morris, Tampa Bay Buccaneers**
 
-<span style="text-decoration:underline;">2011:</span>
+2010:
 
 -   Jason Garrett, Dallas Cowboys
 -   **Leslie Frazier, Minnesota Vikings**
@@ -56,7 +57,7 @@ mit ihrem ersten Pick einen QB gedrafted haben).
 -   Hue Jackson, Oakland Raiders
 -   **Mike Munchak, Tennessee Titans**
 
-(Quelle: en.wikipedia.org)
+(Quelle: [Wikipedia](http://en.wikipedia.org))
 
 Es gab also in den letzten 5 Jahren insgesamt 26 first-time Head
 Coaches. Davon haben 9 mit ihrem ersten Pick einen Quarterback
@@ -99,5 +100,3 @@ Kollegen. Und sie fahren damit noch nicht mal schlecht!
 
 Das ist doch eine Feststellung, die Cameron Newton und den Carolina
 Panthers Mut machen sollte...
-
-  [den Verdacht aufgeworfen]: https://footballissexbaby.wordpress.com/2011/07/14/cam-newton-panthersprung-oder-pyrrhussieg/

@@ -1,19 +1,25 @@
 Title: Die Redskins und der 4. Versuch
 Date: 2012-10-22 15:30
 Author: footballissexbaby
+Category: Analyse
 Tags: Football, Kyle Shanahan, Mike Shanahan, New York Giants, NFL, Robert Griffin III, Washington Redskins
 Slug: die-redskins-und-der-4-versuch
 
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+    }
+  });
+</script>
+
 Im Division-Duell der Washington Redskins gegen die New York Giants hat
 Redskins-Quarterback Robert Griffin III wieder einmal unter Beweis
-gestellt, [was für eine gute Rookie-Saison er spielt][].
+gestellt, [was für eine gute Rookie-Saison er spielt](|filename|rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison.md).
 
-<div>
-[caption id="attachment\_1569" align="alignright" width="300"]![][]
-Sowohl Eli Manning als auch Robert Griffin III hatte kurz vor Ende
-starke Momente.[/caption]
-
-</div>
 Trotz einer gut spielenden Defense und trotz des Ausfalls von TE Fred
 Davis (Achillessehnenriss) hat RG3 wieder ein hervorragendes Spiel
 abgeliefert. Trotz allem hat es nicht für einen Sieg seiner Redskins
@@ -37,8 +43,7 @@ im Schlussviertel auf der Uhr und die Redskins lagen mit 7 Punkten
 zurück.
 
 Troy Aikman war von der Entscheidung nicht besonders angetan, aber
-schauen wir uns mittels [Brian Burke's 4th Down Calculator][] an, ob die
-Redskins hier richtig entschieden haben:
+schauen wir uns mittels [Brian Burke's 4th Down Calculator](http://wp.advancednflstats.com/4thdncalc1.php) an, ob die Redskins hier richtig entschieden haben:
 
 Hätte Washington gepuntet, hätten die Giants den Ball wohl irgendwo
 zwischen Goal Line und 20-Yard-Linie bekommen, bemüht man die
@@ -54,7 +59,7 @@ Redskins (1st & 10 an der gegnerischen 46) 2.29 Punkte wert; misslingt
 der Versuch, machen die Giants im Schnitt 1.92 Punkte, bzw. die Redskins
 -1.92 Punkte. Mit der 60-prozentigen Erfolgschance bedeutet das also:
 
-[latex]0.6 \\cdot 2.29 + 0.4 \\cdot (-1.92) = 0.61[/latex]
+$0.6 \\cdot 2.29 + 0.4 \\cdot (-1.92) = 0.61$
 
 Das heißt also ein Ausspielen des vierten Versuchs bringt Washington
 0.61 Punkte ein, der Punt hätte sie 0.22 Punkte gekostet. Die
@@ -149,9 +154,3 @@ Chancen zu maximieren, aber eine Garantie für einen Sieg gibt es nie.
 Die Redskins hatten nach ihrem Touchdown eine Siegwahrscheinlichkeit von
 91%, doch mit 1:27 auf der Uhr reicht das eben manchmal nicht gegen Eli
 Manning's *fourth quarter magic*.
-
-  [was für eine gute Rookie-Saison er spielt]: http://footballissexbaby.de/2012/10/rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison/
-    "RG3 oder Cam Newton: Wer hat die bessere Rookie-Saison?"
-  []: http://footballissexbaby.de/wp-content/uploads/2012/10/elirgiii-300x211.jpg
-    "RG3_Eli"
-  [Brian Burke's 4th Down Calculator]: http://wp.advancednflstats.com/4thdncalc1.php

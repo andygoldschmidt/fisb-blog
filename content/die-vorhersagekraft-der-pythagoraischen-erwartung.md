@@ -1,7 +1,7 @@
 Title: Die Vorhersagekraft der pythagoräischen Erwartung
 Date: 2012-07-23 12:59
 Author: footballissexbaby
-Tags: Correlation coefficient, Detroit Lions, Football, NFL, Pittsburgh Steelers, Pythagorean expectation
+Tags: Football, NFL, Pythagorean expectation
 Slug: die-vorhersagekraft-der-pythagoraischen-erwartung
 
 Die pythagoräische Erwartung wurde auf diesem Blog ja schon [des][]
@@ -50,11 +50,11 @@ Agency-Neuzugänge, leichtere/schwerere Schedule werden allesamt nicht
 berücksichtigt. Aber man gewinnt doch einen Eindruck, in welche Richtung
 die Reise gehen könnte.
 
-  [des]: http://footballissexbaby.de/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1/
+  [des]: |filename|die-vielen-gesichter-der-pythagoraischen-erwartung-teil-1.md
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 1 (Update)"
-  [Öfteren]: http://footballissexbaby.de/2012/03/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-2/
+  [Öfteren]: |filename|die-vielen-gesichter-der-pythagoraischen-erwartung-teil-2.md
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 2"
-  [diskutiert]: http://footballissexbaby.de/2012/06/die-vielen-gesichter-der-pythagoraischen-erwartung-teil-3/
+  [diskutiert]: |filename|die-vielen-gesichter-der-pythagoraischen-erwartung-teil-3.md
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 3"
   []: http://footballissexbaby.de/wp-content/uploads/2012/07/pythexp_vs_wlp_next_season-300x225.png
     "pythexp_vs_wlp_next_season"

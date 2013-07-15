@@ -4,17 +4,16 @@ Author: footballissexbaby
 Tags: ESPN, NFL, Passer Rating, QBR, Total Quarterback Rating
 Slug: die-vor-und-nachteile-des-neuen-espn-total-quarterback-rating
 
-Kurz nachdem ich [hier][] das NFL Passer-Rating kritisiert habe, hat
+Kurz nachdem ich [hier](|filename|quarterback-rating-die-unnutzeste-statistik-im-football.md)
+das NFL Passer-Rating kritisiert habe, hat
 ESPN prompt ein brandneues und wirklich revolutionäres Rating
-vorgestellt, dass den Namen
-*<span style="text-decoration:underline;">Quarterback Rating</span>*
+vorgestellt, dass den Namen *Quarterback Rating</*
 durchaus verdient. ESPN nennt sein Rating daher auch vollmundig,
 amerikanisch-bescheiden **Total Quarterback Rating** oder auch kurz
 **QBR** (wieso man da gerade auf diese Abkürzung kommt bleibt mir
 allerdings etwas schleierhaft.)
 
-**<span style="text-decoration:underline;">Wie funktioniert das Total
-Quarterback Rating?</span>**
+**Wie funktioniert das TotalQuarterback Rating?**
 
 Ich möchte hier nur eine recht knappe Zusammenfassung geben, wer das
 ganze etwas ausführlicher nachlesen möchte, dem sei [der Artikel direkt
@@ -63,8 +62,7 @@ besten Quarterbacks sollten über eine gesamte Saison einen Wert von etwa
 75 haben und in einzelnen Spielen haben Top-Quarterbacks Werte von etwa
 90.
 
-**<span style="text-decoration:underline;">Vorteile des Total
-Quarterback Rating:</span>**
+**Vorteile des Total Quarterback Rating:**
 
 Der größte Vorteile des QBR sind ganz klar die schiere Menge an
 analysierten Daten. ESPN hat die Ressourcen, um viele Menschen damit zu
@@ -95,9 +93,7 @@ QBR, das die Vergleichbarkeit zwischen zwei Rating deutlich verbessert.
 
 Aber natürlich gibt es wie immer auch hier Kritikpunkte...
 
-**<span style="text-decoration:underline;">Nachteile des
-**<span style="text-decoration:underline;">Total Quarterback
-Rating:</span>**</span>**
+**Nachteile des Total Quarterback Rating:**
 
 Der allergrößte Kritikpunkt ist auch der offensichtlichste: ESPN verrät
 freilich nicht, wie die genaue Formel zur Berechnung des QBR aussieht.
@@ -137,7 +133,7 @@ zugibt. Dabei ist beispielsweise für einen guten *Draw*-Spielzug die
 Fähigkeit eines Quarterbacks den Handoff zu verstecken durchaus
 entscheidend und sollte deswegen mit in das Rating einfliessen.
 
-**<span style="text-decoration:underline;">Fazit:</span>**
+**Fazit:**
 
 Es gibt einiges am neuen *Total Quarterback Rating*zu kritisieren, vor
 allem, dass die Details zur Berechnung unbekannt bleiben. Man muss ESPN
@@ -152,5 +148,4 @@ es am Ende nur eine Statistik ist, deren genaue Umstände man nie
 erfahren wird und deren Bedeutung daher wohl auch recht gering bleiben
 wird.
 
-  [hier]: https://footballissexbaby.wordpress.com/2011/07/31/quarterback-rating-die-unnutzeste-statistik-im-football/
   [der Artikel direkt bei ESPN empfohlen]: http://espn.go.com/nfl/story/_/id/6833215/explaining-statistics-total-quarterback-rating

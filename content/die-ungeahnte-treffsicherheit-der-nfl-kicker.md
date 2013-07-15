@@ -4,15 +4,11 @@ Author: footballissexbaby
 Tags: David Akers, Field Goal, Football, Greg Zuerlein, Kicker, NFL
 Slug: die-ungeahnte-treffsicherheit-der-nfl-kicker
 
-<div>
-[caption id="attachment\_1770" align="alignright" width="300"]![][] Greg
-"The Leg" Zuerlein.[/caption]
-
-</div>
 Andrew Brandt, ehemaliger Spieleragent und Präsident der Green Bay
 Packers, sagt gern, dass Kicker wie Anwälte sind: keiner mag sie, bis
-man einen guten braucht. (*Kickers are like lawyers; no one likes them
-until they need a good one.*)
+man einen guten braucht: 
+> Kickers are like lawyers; no one likes them
+> until they need a good one.
 
 Kicker sind ein bisschen das Äquivalent zu einem Torwart; zeigt er eine
 gute Leistung lobt man das eher selten, schießt er jedoch einen Bock, so

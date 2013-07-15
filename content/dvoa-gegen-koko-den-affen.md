@@ -1,7 +1,7 @@
 Title: DVOA gegen Koko, den Affen
 Date: 2012-07-26 14:00
 Author: footballissexbaby
-Tags: Aaron Schatz, Football, Football Outsiders, NFL, Prognose, Pythagorean expectation, Ranking-Systeme, Stats, Zahlen, Taktik, Modelle...
+Tags: Aaron Schatz, Football, Football Outsiders, NFL, Pythagorean expectation, Ranking-Systeme
 Slug: dvoa-gegen-koko-den-affen
 
 In meinem [letzten Artikel][] habe ich mich ein wenig mit der
@@ -10,7 +10,7 @@ dass man zwar keine Vorhersagen ableiten kann, aber es dennoch eine
 gewisse Korrelation zwischen Siegbilanz und pythagoräischer Erwartung am
 Ende der letzten Saison gibt.
 
-In den [Kommentaren][] zu dem Artikel hat [korsakoff][] auf einen sehr
+In den Kommentaren zu dem Artikel hat [korsakoff][] auf einen sehr
 interessanten Artikel von Brian Burke verwiesen, der hier zu finden ist:
 
 <http://www.advancednflstats.com/2010/07/pre-season-predictions-are-still.html>
@@ -19,45 +19,33 @@ Darin vergleicht er die Vorhersagegenauigkeit von [Football
 Outsiders][]' Defense-adjusted value over average ([DVOA][]) mit 2
 simplen Vergleichsmetriken:
 
-1.  CoMA (Constant Median Approximation): Alle Teams haben exakt 8
+1.  **CoMA** (Constant Median Approximation): Alle Teams haben exakt 8
     Siege. Das entspricht der Annahme, dass man gar nichts über die NFL
     weiß, außer das eine Saison 16 Spiele umfasst.
-2.  Koko the monkey: Die Anzahl der Siege ist einfach festgelegt als 6 +
+2.  **Koko the monkey**: Die Anzahl der Siege ist einfach festgelegt als 6 +
     (Anzahl der Siege im Vorjahr) / 4.
 
-<div>
 Ich habe überdies noch die pythagoräische Erwartung am Ende der
 Vorjahres-Saison als weiteren Prediktor herangezogen.
 
-</div>
-<div>
-</div>
-<div>
 Als Vergleichsgröße benutzt Burke den *root mean squared error* (RMS)
 und den *mean absolute error* (MAE), die Berechnung wird in Brian's
 Artikel beschrieben.
 
-</div>
-<div>
-</div>
-<div>
 Hier noch einmal die Ergebnisse für die 2009er Saison zusammengefasst:
 
-</div>
-<div>
-</div>
-<table width="200">
+<table class="table">
 <thead>
 <tr>
-<th width="80">
+<th>
 Metrik
 
 </th>
-<th width="60">
+<th>
 MAE
 
 </th>
-<th width="60">
+<th>
 RMS
 
 </th>
@@ -133,18 +121,18 @@ dümmer als zuvor. Doch laut [FO-Chef Aaron Schatz][] war die 2009er
 Saison ein schwieriges Jahr für Voraussagen. Schauen wir uns also an,
 wie Football Outsiders in den Saisons 2010 und 2011 abgeschnitten hat:
 
-<table width="200">
+<table class="table">
 <thead>
 <tr>
-<th width="80">
+<th>
 Metrik
 
 </th>
-<th width="60">
+<th>
 MAE
 
 </th>
-<th width="60">
+<th>
 RMS
 
 </th>
@@ -213,18 +201,18 @@ Pythagorean
 
 </caption>
 </table>
-<table width="200">
+<table class="table">
 <thead>
 <tr>
-<th width="80">
+<th>
 Metrik
 
 </th>
-<th width="60">
+<th>
 MAE
 
 </th>
-<th width="60">
+<th>
 RMS
 
 </th>
@@ -314,9 +302,8 @@ doch mit den vielen großartigen Statheads, wie z.B. [Brian Burke][],
 Jahren grandiose Arbeit leisten, sie kostenfrei und oftmals auch offen
 zur Verfügung stellen.
 
-  [letzten Artikel]: http://footballissexbaby.de/2012/07/die-vorhersagekraft-der-pythagoraischen-erwartung/
+  [letzten Artikel]: |filename|die-vorhersagekraft-der-pythagoraischen-erwartung.md
     "Die Vorhersagekraft der pythagoräischen Erwartung"
-  [Kommentaren]: http://footballissexbaby.de/2012/07/die-vorhersagekraft-der-pythagoraischen-erwartung/#comment-142
   [korsakoff]: http://sidelinereporter.wordpress.com
   [Football Outsiders]: http://www.footballoutsiders.com
   [DVOA]: http://en.wikipedia.org/wiki/Football_Outsiders#Key_Metrics

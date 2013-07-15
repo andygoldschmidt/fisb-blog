@@ -88,13 +88,13 @@ erwähnt, [ein solches System schon eingeführt][].
 Auch da erscheint wieder ein mysteriöser Wert von 0.95, aber um die
 Optimierung dieses Wertes kümmere ich mich ein anderes Mal.
 
-  [das Simple Ranking System vorgestellt habe]: http://footballissexbaby.de/2012/09/simple-ranking-system-einfach-aber-gut.html
+  [das Simple Ranking System vorgestellt habe]: |filename|simple-ranking-system-einfach-aber-gut.md
     "Simple Ranking System – einfach aber gut"
-  [um das SRS in Offense- und Defense-Komponenten zu zerlegen]: http://footballissexbaby.de/2012/11/offenses-und-defenses-bewerten-mit-dem-simple-ranking-system.html
+  [um das SRS in Offense- und Defense-Komponenten zu zerlegen]: |filename|offenses-und-defenses-bewerten-mit-dem-simple-ranking-system.md
     "Offenses und Defenses bewerten mit dem Simple Ranking System"
   [pro-football-reference.com]: http://www.pro-football-reference.com
   [Sideline Reporter]: http://sidelinereporter.wordpress.com
-  [dem geneigten Leser vielleicht vertraut vor]: http://footballissexbaby.de/2012/11/die-nfl-in-zahlen-woche-10.html
+  [dem geneigten Leser vielleicht vertraut vor]: |filename|die-nfl-in-zahlen-woche-10.md
     "Die NFL in Zahlen: Woche 10"
   [FootballPerspective.com]: http://www.footballperspective.com/
   [ein solches System schon eingeführt]: http://www.footballperspective.com/checkdowns-weighted-nfl-srs-ratings-through-sunday-101412/
