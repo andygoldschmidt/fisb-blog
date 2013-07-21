@@ -11,11 +11,10 @@ First-Overall-Pick als Quarterback, der einfach nicht in Schwung kam und
 dem Jahr für Jahr aufs Neue nachgesagt wurde, dass dies nun wirklich die
 letzte Saison für ihn in San Francisco gewesen sei.
 
-<div>
-[caption id="attachment\_1980" align="alignright" width="300"]![Kaep
-action.][] Kaep action.[/caption]
+![Kaep action.][] 
 
-</div>
+*Kaep action.*
+
 Doch dann haben sie den ehemaligen Stanford-Coach Jim Harbaugh als Head
 Coach verpflichtet und im ganzen Team gab es plötzlich einen Wandel. Die
 Defense spielte wesentlich dominanter als zuvor und die Offense schaffte
@@ -132,6 +131,6 @@ ihrer variablen Offense im Vorteil. Voraussetzung dafür ist allerdings,
 dass die 49ers dieses Jahr besser in den Special Teams spielen als im
 letzten Conference Championship.
 
-  [Kaep action.]: http://footballissexbaby.de/wp-content/uploads/2013/01/ColinKaepernick_2885229-300x225.jpg
+  [Kaep action.]: |filename|/images/ColinKaepernick_2885229-300x225.jpg
   [mehr auf Zonen-Verteidigung setzen als das die Packers]: http://hardcount.wordpress.com/2013/01/17/konnen-die-falcons-colin-kaepernick-stoppen/
   ["The Essential Smart Football"]: http://www.amazon.de/Essential-Smart-Football-Chris-Brown/dp/1470125595

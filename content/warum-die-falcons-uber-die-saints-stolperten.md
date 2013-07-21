@@ -16,12 +16,10 @@ ihren Rekord brechen wird.
 Am Sonntag ist es nun wieder einmal passiert: die bisher ungeschlagenen
 Atlanta Falcons verloren in New Orleans gegen die Saints mit 27-31.
 
-<div>
-[caption id="attachment\_1657" align="alignright" width="300"]![][]
-Jimmy Graham und das Passspiel der Saints waren der Hauptgrund für den
-Sieg gegen die Falcons.[/caption]
+![](|filename|/images/Atlanta+Falcons+v+New+Orleans+Saints+H5pRNv2Pai1l-300x200.jpg) 
 
-</div>
+*Jimmy Graham und das Passspiel der Saints waren der Hauptgrund für den Sieg gegen die Falcons.*
+
 Die Atlanta Falcons waren zwar das letzte ungeschlagene Team in der NFL,
 aber durch Leistungen gegen vergleichsweise schwache Teams wie die
 Carolina Panthers oder die Oakland Raiders waren sie nie Spitzenreiter
@@ -125,13 +123,11 @@ offensichtlich mit der Effizienz von Drew Brees überfordert.
 
 Alles in allem also ein sehr verdienter Sieg für die Saints.
 
-  []: http://footballissexbaby.de/wp-content/uploads/2012/11/Atlanta+Falcons+v+New+Orleans+Saints+H5pRNv2Pai1l-300x200.jpg
-    "ATL@NO"
-  [FISB]: http://footballissexbaby.de/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
+  [FISB]: |filename|hausgemachte-sport-rankings-nach-sagarin-art-teil-1.md
     "Hausgemachte Sport-Rankings nach Sagarin-Art, Teil 1"
-  [Max-L]: http://footballissexbaby.de/2012/08/yet-another-ranking-system/
+  [Max-L]: |filename|yet-another-ranking-system.md
     "Yet Another Ranking System"
   [Brian Burke]: http://fifthdown.blogs.nytimes.com/2012/11/08/week-10-n-f-l-game-probabilities-dont-be-so-sure/
   [korsakoff von Sideline Reporter]: http://sidelinereporter.wordpress.com/2012/11/08/nfl-power-rankings-nach-week-9/
-  [Total Quarterback Rating]: http://footballissexbaby.de/2011/09/wie-sehr-unterscheiden-sich-espns-total-quarterback-rating-und-das-traditionelle-passer-rating/
+  [Total Quarterback Rating]: |filename|wie-sehr-unterscheiden-sich-espns-total-quarterback-rating-und-das-traditionelle-passer-rating.md
     "Wie sehr unterscheiden sich ESPN’s Total Quarterback Rating und das traditionelle Passer Rating?"

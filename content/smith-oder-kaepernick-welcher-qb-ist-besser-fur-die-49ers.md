@@ -15,12 +15,11 @@ er sagt:
 > I usually tend to go with the guy that has the hot hand and we have
 > two quarterbacks that have a hot hand.
 
-<div>
-[caption id="attachment\_1700" align="alignright" width="300"]![][]
-Colin Kaepernick könnte nach einem großartigen Spiel gegen die Bears der
-neue Starting-QB der 49ers sein.[/caption]
+![](|filename|/images/kaepernick_colin640_640-300x168.jpg)
 
-</div>
+*Colin Kaepernick könnte nach einem großartigen Spiel gegen die Bears der
+neue Starting-QB der 49ers sein.*
+
 Der bisherige Starting-Quarterback Alex Smith stand viele Jahre in der
 Kritik, war zeitweise nur Bankdrücker und mehr als einmal sah man seine
 Zeit mit den 49ers schon als beendet an.
@@ -137,7 +136,4 @@ tiefe Pässe betrifft. Meiner Meinung nach könnte er genau das Puzzleteil
 sein, das San Francisco gefehlt hat, um neben einer Top-Defense auch
 eine Top-Offense zu haben.
 
-  [in meinem Review]: http://footballissexbaby.de/2012/11/nfl-in-zahlen-woche-11/
-    "Die NFL in Zahlen: Woche 11"
-  []: http://footballissexbaby.de/wp-content/uploads/2012/11/kaepernick_colin640_640-300x168.jpg
-    "kaepernick_colin640_640"
+  [in meinem Review]: |filename|nfl-in-zahlen-woche-11.md

@@ -10,12 +10,10 @@ Nationalhymne live singen!
 Uff, bin ich erleichtert. Jetzt wo das erledigt ist, können wir den
 Blick auf den Football lenken, auf das letzte Spiel der Saison 2012.
 
-<div>
-[caption id="attachment\_2043" align="alignright" width="300"]![Wem wird
-am Sonntag das Lachen vergehen?][] Wem wird am Sonntag das Lachen
-vergehen?[/caption]
+![Wem wird am Sonntag das Lachen vergehen?][] 
 
-</div>
+*Wem wird am Sonntag das Lachen vergehen?*
+
 Viel wurde in den vergangenen Tagen vom HarBowl geschrieben, dem
 Aufeinandertreffen der beiden Head Coaches und Brüder Jim und John. John
 sei der besser aussehende, die Eltern möchten zuerst in den Locker Room
@@ -83,12 +81,10 @@ konventionelles Passspiel, in dem Kaepernick fast nur in der Pocket
 bleibt. Plant man gegen das konventionelle Laufspiel, dann läuft
 Kaepernick wieder und wieder quer übers Feld.
 
-<div>
-[caption id="attachment\_2047" align="alignleft" width="300"]![Diesen
-jungen Mann sollte man niemals unterschätzen.][] Diesen jungen Mann
-sollte man niemals unterschätzen.[/caption]
+![Diesen jungen Mann sollte man niemals unterschätzen.][] 
 
-</div>
+*Diesen jungen Mann sollte man niemals unterschätzen.*
+
 Nutznießer dieser neuen Offense sind neben Kaepernick selbst
 hauptsächlich WR Michael Crabtree und RB Frank Gore. Crabtree freut
 sich, dass er endlich auch mal einen tiefen Pass fangen darf und Gore
@@ -128,7 +124,6 @@ Aber San Francisco ist meines Erachtens auf beiden Seiten des Balls
 eines der besten Teams der Liga und daher sehe ich sie - vor allem wegen
 Baltimores Defense - im Vorteil.
 
-  [Wem wird am Sonntag das Lachen vergehen?]: http://footballissexbaby.de/wp-content/uploads/2013/02/jim_john_harbaugh_superbowl_640-300x171.jpg
-  [Hallo, John Fox!]: http://footballissexbaby.de/2013/01/john-fox-und-die-mutlosigkeit/
-    "John Fox und die Mutlosigkeit"
-  [Diesen jungen Mann sollte man niemals unterschätzen.]: http://footballissexbaby.de/wp-content/uploads/2013/02/gore-300x225.jpg
+  [Wem wird am Sonntag das Lachen vergehen?]: |filename|/images/jim_john_harbaugh_superbowl_640-300x171.jpg
+  [Hallo, John Fox!]: |filename|john-fox-und-die-mutlosigkeit.md
+  [Diesen jungen Mann sollte man niemals unterschätzen.]: |filename|/images/gore-300x225.jpg

@@ -25,7 +25,14 @@ Die folgenden 2 Graphiken zeigen die *"Passlastigkeit"*einmal von
 1930-2010 und einmal von 1970-2010 (*post-merger*, also als die heutige
 NFL gegründet wurde):
 
-![Pass to rush all][]![Pass to rush postmerger][]
+<table class="table">
+    <tbody>
+        <tr>
+            <td><img src="|filename|/images/pass_to_rush_all.png" alt=""></td>
+            <td><img src="|filename|/images/pass_to_rush_postmerger.png" alt=""></td>
+        </tr>
+    </tbody>
+</table>
 
 Man sieht deutlich, dass die pre-merger NFL zunächst stark auf Lauf
 gesetzt hat und die Bedeutung des Passspiels kontinuierlich zugenommen
@@ -101,8 +108,3 @@ welchem Jahr in welchem Down gepasst bzw. gelaufen wurde. Solche
 Lasst uns die Daumen drücken, dass dieser unsägliche Lockout bald vorbei
 ist und wir uns auf eine passreiche spannende NFL-Saison 2011 freuen
 können!
-
-  [Pass to rush all]: http://footballissexbaby.de/wp-content/uploads/2011/06/pass_to_rush_all.png
-    "pass_to_rush_all.png"
-  [Pass to rush postmerger]: http://footballissexbaby.de/wp-content/uploads/2011/06/pass_to_rush_postmerger.png
-    "pass_to_rush_postmerger.png"

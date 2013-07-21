@@ -4,12 +4,10 @@ Author: footballissexbaby
 Tags: Football, Kansas City Chiefs, Matt Cassel, NFL, Pythagorean expectation
 Slug: wie-schlecht-sind-die-chiefs-diese-saison-wirklich
 
-<div>
-[caption id="attachment\_1626" align="alignright" width="300"]![][]
-Nicht nur die Chargers nehmen die Chiefs derzeit unter
-Beschuss.[/caption]
+![][]
 
-</div>
+*Nicht nur die Chargers nehmen die Chiefs derzeit unter Beschuss.*
+
 Die Kansas City Chiefs sind in dieser Saison schlecht, sehr schlecht
 sogar. Bisher steht erst ein Sieg sieben Niederlagen gegenüber. Sie sind
 [mittlerweile in allen Rankings Schlusslicht][].
@@ -131,11 +129,11 @@ vornehmen können, passiert ihnen in ähnlicher Form dasselbe.
 Die Wahrscheinlichkeit Ende der Saison einen großen Umbau bei den Kansas
 City Chiefs zu erleben, wird von Woche zu Woche größer.
 
-  []: http://footballissexbaby.de/wp-content/uploads/2012/11/Kansas-City-Chiefs-take-on-AFC-West-rivals-San-Diego-Chargers-in-Week-9-NFL-Preview-198259-300x199.jpg
+  []: |filename|/images/Kansas-City-Chiefs-take-on-AFC-West-rivals-San-Diego-Chargers-in-Week-9-NFL-Preview-198259-300x199.jpg
     "Kansas-City-Chiefs-take-on-AFC-West-rivals-San-Diego-Chargers-in-Week-9-NFL-Preview-198259"
-  [mittlerweile in allen Rankings Schlusslicht]: http://footballissexbaby.de/2012/11/die-nfl-in-zahlen-woche-8/
+  [mittlerweile in allen Rankings Schlusslicht]: |filename|die-nfl-in-zahlen-woche-8.md
     "Die NFL in Zahlen: Woche 8"
-  [pythagoräischer Erwartung]: http://footballissexbaby.de/2011/10/sag-mir-deine-punkte-und-ich-sag-dir-wie-oft-du-gewinnst/
+  [pythagoräischer Erwartung]: |filename|sag-mir-deine-punkte-und-ich-sag-dir-wie-oft-du-gewinnst.md
     "Sag’ mir deine Punkte und ich sag’ dir wie oft du gewinnst!"
   [Team Game Finder]: http://www.pro-football-reference.com/play-index/tgl_finder.cgi
   [pro-football-reference.com]: http://www.pro-football-reference.com

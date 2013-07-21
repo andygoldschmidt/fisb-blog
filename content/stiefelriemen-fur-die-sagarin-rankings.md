@@ -1,6 +1,7 @@
 Title: Stiefelriemen für die Sagarin-Rankings
 Date: 2011-10-02 18:22
 Author: footballissexbaby
+Category: Footballmetrics
 Tags: Bootstrapping, Football, New York Giants, Ranking-Systeme, Resampling, Sabermetrics, Sagarin, Stats
 Slug: stiefelriemen-fur-die-sagarin-rankings
 
@@ -9,14 +10,12 @@ habe ich vor einigen Wochen die erste größere Verbesserung für meine
 Ratings angekündigt. Jetzt ist es endlich soweit: der neue Algorithmus
 ist getestet, für gut befunden und liefert saubere Ergebnisse.
 
- 
-
 **Was habe ich getan?**
 
 Mein netter Bürokollege Christoph hat mich auf ein statistisches
 Verfahren aufmerksam gemacht, dass insbesondere in der Psychologie
 verwendet wird, um die Qualität von Stichproben zu erhöhen. Das
-Verfahren nennt sich *Bootstrapping*und ist eine Methode aus dem Bereich
+Verfahren nennt sich *Bootstrapping* und ist eine Methode aus dem Bereich
 des sogenannten *Resamplings*.
 
 Um die Funktionsweise zu verstehen, nehmen wir ein einfaches Beispiel:
@@ -44,8 +43,6 @@ verzerrter sein als die Originalprobe, aber durch das Iterieren
 Das klingt jetzt vielleicht noch etwas theoretisch und unglaubwürdig,
 aber es klappt wie wir gleich sehen werden wirklich.
 
- 
-
 **Und was hat das mit Football zu tun?**
 
 Wie ich bereits in meinen beiden Beitragen zu den Sagarin-Rankings
@@ -71,8 +68,6 @@ zusammengefasst und anschließend wird ein Gauss-Fit daran gelegt. Der
 Erwartungswert der sich daraus ergebenden Gauss-Verteilung ist unser
 gesuchter Wert.
 
- 
-
 **Zeig' her deine Ergebnisse!**
 
 Um zu zeigen, wie das mit der Verteilung der einzelnen Rankings
@@ -83,13 +78,18 @@ Ohne jedes Bootstrapping ergibt sich ein Rankingwert von -4.85 für die
 Giants. Schauen wir uns doch mal an, wie sich das verhält, wenn man 100,
 1.000, 10.000 und 100.000 Iterationen durchlaufen lässt:
 
-![Nyg 100][]
-
-![Nyg 1000][]
-
-![Nyg 10000][]
-
-![Nyg 100000][]
+<table class="table">
+  <tbody>
+    <tr>
+      <td><img src="|filename|/images/nyg_1002.png" alt=""></td>
+      <td><img src="|filename|/images/nyg_10002.png" alt=""></td>
+    </tr>
+    <tr>
+      <td><img src="|filename|/images/nyg_100002.png" alt=""></td>
+      <td><img src="|filename|/images/nyg_1000002.png" alt=""></td>
+    </tr>
+  </tbody>
+</table>
 
 Im Bootstrap-Ranking ergibt sich für die Giants also ein Wert von -5.04.
 Das klingt zunächst nicht so, als wäre das ein Riesenunterschied, aber
@@ -102,8 +102,6 @@ Ratings für alle Teams mit und ohne Bootstrapping an:
 
 ![Ratings][]
 
- 
-
 Hierbei bezeichnet "Rating BS" das Rating mit Bootstrapping, "Rating"
 sind die normalen Sagarin-Ratings, so wie sie sich durch lösen des
 Gleichungssystems ergeben. Die Unterschiede sind oftmals nicht sehr
@@ -115,21 +113,7 @@ besser als ohne Bootstrapping.
 Ich habe die neuen Ratings bisher noch nicht zur Vorhersage genutzt,
 daher weiß ich nicht, ob sie wirklich genauer sind und 3 Spieltage sind
 bisher auch noch nicht die ganz große Datenmenge. Aber ich habe viel
-Grund zur Hoffnung ;)
+Grund zur Hoffnung.
+allsonntag allen zusammen!
 
-Nach dem Spieltag werde ich mich der Vorhersagekraft nochmal annehmen.
-
- 
-
-Einen schönen Footballsonntag allen zusammen!
-
-  [Nyg 100]: http://footballissexbaby.de/wp-content/uploads/2011/10/nyg_1002.png
-    "nyg_100.png"
-  [Nyg 1000]: http://footballissexbaby.de/wp-content/uploads/2011/10/nyg_10002.png
-    "nyg_1000.png"
-  [Nyg 10000]: http://footballissexbaby.de/wp-content/uploads/2011/10/nyg_100002.png
-    "nyg_10000.png"
-  [Nyg 100000]: http://footballissexbaby.de/wp-content/uploads/2011/10/nyg_1000002.png
-    "nyg_100000.png"
-  [Ratings]: http://footballissexbaby.de/wp-content/uploads/2011/10/ratings.png
-    "ratings.png"
+  [Ratings]: |filename|/images/ratings.png

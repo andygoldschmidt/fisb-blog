@@ -36,11 +36,7 @@ etwa 2.35 Punkte.
 Schauen wir uns also mal an, wie die beiden Ratings im Vergleich
 aussehen:
 
- 
-
 ![Comparison tqbr qbr][]
-
- 
 
 Aufgelistet sind ESPN's Total Quarterback Rating, das oben erwähnte
 Scaled Quarterback Rating, die Abweichung des *Scaled QBR* zum *TQBR*
@@ -90,11 +86,7 @@ Zum Abschluss habe ich die beiden Quarterback-Ratings noch in einem
 Scatter Plot aufgetragen und die Korrelation zwischen beiden berechnen
 lassen:
 
- 
-
 ![Correlation tqbr qbr][]
-
- 
 
 Man sieht, dass es ein paar Ausreißer gibt (hauptsächlich allerdings bei
 schlechteren *TQBR*'s), beispielsweise den Punkt links oben, das ist
@@ -105,17 +97,15 @@ Erwartungen: Schließlich ist und bleibt die Hauptaufgabe eines
 Quarterbacks das Passen, daher wäre es bedenklich, wenn zwischen beiden
 Ratings gar keine Korrelation bestehen würde.
 
- 
-
 Als Fazit bleibt festzuhalten, dass ich überrascht bin, wie gut das
 Total Quarterback Rating ist. Es war zwar nur ein Spieltag, aber es gibt
 Grund zu der Annahme, dass ESPN ein echter Fortschritt in der Bewertung
 von Quarterbacks gelungen ist.
 
   [hier]: http://espn.go.com/nfl/story/_/id/6943920/nfl-week-1-total-qbr-leaders
-  [in diesem Blog]: https://footballissexbaby.wordpress.com/2011/08/07/die-vor-und-nachteile-des-neuen-espn-total-quarterback-rating/
-  [1]: https://footballissexbaby.wordpress.com/2011/07/31/quarterback-rating-die-unnutzeste-statistik-im-football/
-  [Comparison tqbr qbr]: http://footballissexbaby.de/wp-content/uploads/2011/09/comparison_tqbr_qbr.png
+  [in diesem Blog]: |filename|die-vor-und-nachteile-des-neuen-espn-total-quarterback-rating.md
+  [1]: |filename|quarterback-rating-die-unnutzeste-statistik-im-football.md
+  [Comparison tqbr qbr]: |filename|/comparison_tqbr_qbr.png
     "comparison_tqbr_qbr.png"
-  [Correlation tqbr qbr]: http://footballissexbaby.de/wp-content/uploads/2011/09/correlation_tqbr_qbr.png
+  [Correlation tqbr qbr]: |filename|/correlation_tqbr_qbr.png
     "correlation_tqbr_qbr.png"

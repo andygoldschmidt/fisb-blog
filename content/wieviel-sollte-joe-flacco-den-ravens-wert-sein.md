@@ -41,7 +41,7 @@ als Grundlage genommen habe).
 Die folgende Grafik zeigt den Zusammenhang zwischen Expected Points im
 Jahr vor der Vertragsunterschrift und dem Durchschnittsgehalt:
 
-[![epa\_vs\_salary][]][]
+[![epa\_vs\_salary](|filename|/images/epa_vs_salary-300x218.png)](|filename|/images/epa_vs_salary.png)
 
 Die 0.0 EPA/P wurden übrigens von Mark Sanchez erzielt, der dennoch
 einen Vertrag mit durchschnittlich 11.65 Millionen Dollar unterschreiben
@@ -88,7 +88,7 @@ Playoff-Flacco der Maßstab ist und er darüber hinaus 5
 Playoff-Teilnahmen hat. Doch schaut man sich Flaccos Leistungen bisher
 an, so sieht man, dass diese Playoffs ein echter Ausreißer sind:
 
-[![flacoo\_epa][]][]
+[![flacoo\_epa](|filename|/images/flacoo_epa-300x218.png)](|filename|/images/flacoo_epa.png)
 
 Es ist sehr auffallend, dass sich Flacco seit seinem 2. Jahr (2009) kaum
 weiterentwickelt hat. Er tümpelt immer bei etwa 0.1 EPA/P rum, dass
@@ -125,7 +125,4 @@ aushandeln könnten. Daher ist es sinnvoller zu warten, bis sich die
 Verhandlungsbedingungen wieder etwas normalisiert haben.
 
   [Expected points, die sie pro Spielzug beisteuern]: http://wp.advancednflstats.com/playerstats.php?pos=QB
-  [epa\_vs\_salary]: http://footballissexbaby.de/wp-content/uploads/2013/02/epa_vs_salary-300x218.png
-  [![epa\_vs\_salary][]]: http://footballissexbaby.de/wp-content/uploads/2013/02/epa_vs_salary.png
-  [flacoo\_epa]: http://footballissexbaby.de/wp-content/uploads/2013/02/flacoo_epa-300x218.png
-  [![flacoo\_epa][]]: http://footballissexbaby.de/wp-content/uploads/2013/02/flacoo_epa.png
+ 

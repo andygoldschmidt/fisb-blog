@@ -9,9 +9,7 @@ ein College-Quarterback haben sollte, um Erfolg in der NFL zu haben,
 möchte ich jetzt auf die eigentliche Frage eingehen: *Was macht einen
 guten NFL-Quarterback aus*?
 
- 
-
-**<span style="text-decoration:underline;">Charakter:</span>**
+**Charakter:**
 
 Ein Aspekt der gern mal in Diskussionen um einen Quarterback außer acht
 gelassen wird, jedoch meines Erachtens sehr wichtig ist. Jedes Team
@@ -48,8 +46,7 @@ Allerdings muss man dann mit eben dieser Kritik umgehen können und diese
 mit besseren Spielen relativieren können. Eine Fähigkeit die man Mark
 Sanchez [wohl zweifelsfrei zugestehen muss.][]
 
-**<span style="text-decoration:underline;">Körperliche
-Fähigkeiten:</span>**
+**Körperliche Fähigkeiten:**
 
 Gerade vor dem Draft liest man es in den letzten Jahren immer wieder:
 Ein moderner Quarterback muss mobil sein. Meiner Meinung nach ist das
@@ -83,7 +80,7 @@ Rusher beim Quarterback, noch ehe der Receiver *downfield* rennen
 konnte. Daher ist es gerade gegen blitzfreundliche Teams - die immer
 häufiger werden - wichtig, Bälle in enge Spots werfen zu können.
 
-**<span style="text-decoration:underline;">Effizienz:</span>**
+**Effizienz:**
 
 Eine bessere Überschrift ist mir für das Kapitel leider nicht
 eingefallen, obwohl das der wichtigste Abschnitt ist. Was ich damit
@@ -127,10 +124,6 @@ den nächsten Tagen auch noch einen separaten Blogbeitrag geben. Aber man
 sieht schnell ein, dass ein Quarterback umso effektiver ist, je weniger
 Versuche er braucht, um auf viele Yards zu kommen.
 
- 
-
- 
-
 Ich fasse meine Punkte nochmal zusammen. Ein guter Quarterback muss...
 
 1.  … ruhig und dennoch souverän und durchsetzungsfähig sein.
@@ -138,8 +131,6 @@ Ich fasse meine Punkte nochmal zusammen. Ein guter Quarterback muss...
 3.  … in wichtigen Situationen cool bleiben und den Drive seines Teams
     am laufen halten können.
 4.  … viele Yards pro Versuch machen.
-
- 
 
 Das sind die vier Punkte, die jeder Quarterback für mich erfüllen muss,
 um überhaupt als einer der Spitzen-Quarterbacks in Frage zu kommen.
@@ -153,8 +144,6 @@ besten erfüllen:
 3.  Aaron Rodgers
 4.  Drew Brees
 5.  Matt Ryan
-
- 
 
 Es ist mir natürlich völlig klar, dass ich gerade bei den
 charakterlichen und körperlichen Fähigkeiten noch nicht mal wirklich an
@@ -172,5 +161,5 @@ aber er muss daneben eben auch in den sogenannten *clutch plays*
 bestehen. Denn da werden Spiele gewonnen, nicht mit langen Drives, bei
 denen man am Ende leer ausgeht.
 
-  [ersten Teil]: https://footballissexbaby.wordpress.com/2011/08/14/was-macht-einen-guten-nfl-quarterback-aus-teil-1/
+  [ersten Teil]: |filename|was-macht-einen-guten-nfl-quarterback-aus-teil-1.md
   [wohl zweifelsfrei zugestehen muss.]: http://espn.go.com/new-york/nfl/story/_/id/6863427/wanted-fight-coach-rex-ryan

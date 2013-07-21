@@ -98,17 +98,13 @@ Super Bowl gewonnen haben alle vier Regeln erfüllt. Das wären: Drew
 Brees, Ben Roethlisberger, Peyton Manning, Eli Manning und Trent Dilfer.
 
 Man muss aber natürlich auch sagen, dass diese Regeln nur von den besten
-College-Quarterbacks erfüllt werden
-<span style="text-decoration:underline;">können</span>*.*Und ob ein
+College-Quarterbacks erfüllt werden können.Und ob ein
 Quarterback 22 oder 23 Mal gewonnen hat, wird auch nicht über den Erfolg
 entscheiden. Aber es sind doch sehr sinnvolle Regeln, die zumindest als
 Richtlinie sehr nützlich sein können. Die erfolgreichen Quarterbacks in
 der NFL haben meist mindestens zwei dieser Regeln erfüllt. Ein
 prominentes Beispiel, für einen Quarterback der
-<span style="text-decoration:underline;">keine</span> der Regeln erfüllt
-hat, ist übrigens Cam Newton. Man darf gespannt sein!
-
- 
+keine der Regeln erfüllt hat, ist übrigens Cam Newton. Man darf gespannt sein!
 
 Neben den Parcells'schen Regeln ist aber natürlich auch die menschliche
 Seite extrem wichtig. Man möchte keinen Egozentriker als Spielmacher,
@@ -120,4 +116,4 @@ Aber darüber schreibe ich dann im nächsten Teil, indem ich dann auch
 endlich dem Artikelnamen gerecht werde und die Frage beantworten will,
 was denn nun einen guten Quarterback tatsächlich ausmacht.
 
-  [das ist eine andere Geschichte]: https://footballissexbaby.wordpress.com/2011/07/14/cam-newton-panthersprung-oder-pyrrhussieg/
+  [das ist eine andere Geschichte]: |filename|cam-newton-panthersprung-oder-pyrrhussieg.md

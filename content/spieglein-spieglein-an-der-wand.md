@@ -1,6 +1,7 @@
 Title: Spieglein, Spieglein an der Wand...
 Date: 2013-01-31 18:47
 Author: footballissexbaby
+Category: Footballmetrics
 Tags: Baltimore Ravens, Football, NFL, San Francisco 49ers, Team Similarity
 Slug: spieglein-spieglein-an-der-wand
 
@@ -33,17 +34,41 @@ hervorragende Arbeit von Brian Burke zurück][].
 
 Die verwendeten Parameter mitsamt Koeffizienten sind:
 
-<div style="float:right; width: 250px; padding-left:20px">
-  Parameter      Wert
-  -------------- -------
-  Off NY/A       0.46
-  Off Rush Y/A   0.25
-  Off Int Rate   -19.4
-  Off Fmb Rate   -19.4
-  Def NY/A       -0.62
-  Def Rush Y/A   -0.25
+<table class="table">
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Wert</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Off NY/A</td>
+      <td>0.46</td>
+    </tr>
+    <tr>
+      <td>Off Rush Y/A</td>
+      <td>0.25</td>
+    </tr>
+    <tr>
+      <td>Off Int Rate</td>
+      <td>-19.4</td>
+    </tr>
+    <tr>
+      <td>Off Fmb Rate</td>
+      <td>-19.4</td>
+    </tr>
+    <tr>
+      <td>Def NY/A</td>
+      <td>-0.62</td>
+    </tr>
+    <tr>
+      <td>Def Rush Y/A</td>
+      <td>-0.25</td>
+    </tr>
+  </tbody>
+</table>
 
-</div>
 Nun ist es ein leichtes die Abweichung zwischen Team A und Team B zu
 berechnen:
 
@@ -64,16 +89,25 @@ das unähnlichste den Wert 0, je höher ein Wert umso ähnlicher.
 
 [![49ers Team Similarity][]][49ers Team Similarity]
 
-<div style="text-align:center; padding-bottom:10px;">
 **Ein kleines Tool, um die Ähnlichkeiten aller Teams anzuzeigen,  
 [habe ich hier veröffentlicht][].**
 
-</div>
 Das alles ist natürlich eher eine Spielerei als eine echte Analyse,
 dennoch ist es interessant zu sehen, welche Teams sich gleichen und
 welche grundverschieden sind. Viel Spaß beim Rumspielen!
 
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+    }
+  });
+</script>
+
   [die hervorragende Arbeit von Brian Burke zurück]: http://www.advancednflstats.com/2009/01/how-model-works-detailed-example.html
-  [Ravens Team Similarity]: http://footballissexbaby.de/wp-content/uploads/2013/01/ravens.tiff
-  [49ers Team Similarity]: http://footballissexbaby.de/wp-content/uploads/2013/01/49ers.tiff
+  [Ravens Team Similarity]: |filename|/images/ravens.png
+  [49ers Team Similarity]: |filename|/images/49ers.png
   [habe ich hier veröffentlicht]: http://footballissexbaby.de/team-similarity/

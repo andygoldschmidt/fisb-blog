@@ -9,25 +9,19 @@ Rankings nach dem Viertelfinale und meine Prognose für das Halbfinale:
 
 ![Halbfinale rating][]
 
- 
-
 Und für die zwei verbleibenden Partien ergibt sich damit folgender
 Ausgang:
 
 ![Halbfinale prognose][]
 
- 
-
 Also, beide Male sollte die Heim-Mannschaft die Nase vorn haben.
 
 Hoffen wir, dass die Spiele dennoch spannend werden!
 
- 
-
 *P.S. Nächste Woche gibt es dann wieder neue Artikel, die dann nicht nur
 Rankings beinhalten* ;)
 
-  [Halbfinale rating]: http://footballissexbaby.de/wp-content/uploads/2011/09/halbfinale-rating.png
+  [Halbfinale rating]: |filename|/images/halbfinale-rating.png
     "halbfinale-rating.png"
-  [Halbfinale prognose]: http://footballissexbaby.de/wp-content/uploads/2011/09/halbfinale-prognose.png
+  [Halbfinale prognose]: |filename|/images/halbfinale-prognose.png
     "halbfinale-prognose.png"

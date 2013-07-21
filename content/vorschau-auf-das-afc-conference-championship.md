@@ -9,13 +9,10 @@ Championship-Spiels kommt, hätten wohl nur wenige erwartet. Das liegt
 weniger an den New England Patriots, die ja schon fast Stammgäste sind,
 sondern vielmehr an den Baltimore Ravens.
 
-<div>
-[caption id="attachment\_1964" align="alignright" width="300"]![Bill
-Belichick mit dem größten Gefühlsausbruch seit Highschool-Zeiten.][]
-Bill Belichick mit dem größten Gefühlsausbruch seit
-Highschool-Zeiten.[/caption]
+![Bill Belichick mit dem größten Gefühlsausbruch seit Highschool-Zeiten.][]
 
-</div>
+*Bill Belichick mit dem größten Gefühlsausbruch seit Highschool-Zeiten.*
+
 Nachdem die Ravens erst die Indianapolis Colts aus dem Weg geräumt
 haben, gelang ihnen am letzten Samstag ein echter Upset gegen die Denver
 Broncos. Dabei muss man ehrlicherweise zugeben, dass die Ravens in der
@@ -45,8 +42,7 @@ nicht auch in dieser Situation etwas einfallen würde. Statt mit zwei
 Tight Ends spielt man eben mit zwei Running Backs, wobei der eine
 oftmals Hernandez ist. Zuletzt hat das Houston vor eine unmögliche
 Aufgabe gestellt. Wie die Patriots in der Lage sind, ihre Offense so
-variabel zu gestalten, [hat Chris Brown in einem sehr lesenswerten
-Grantland-Artikel erläutert][].
+variabel zu gestalten, [hat Chris Brown in einem sehr lesenswerten Grantland-Artikel erläutert][].
 
 Nun muss also die Ravens-Defense beweisen, dass sie es besser machen
 kann. Ob sie es kann darf bezweifelt werden. Durch den Ausfall von
@@ -134,9 +130,8 @@ Dieses Spiel kann alles werden: von spannend bis zur letzten Sekunde bis
 hin zu langweilig ab dem 2. Quarter.
 
   [Bill Belichick mit dem größten Gefühlsausbruch seit
-  Highschool-Zeiten.]: http://footballissexbaby.de/wp-content/uploads/2013/01/nfl_g_brady_belichick_580-300x168.jpg
-  [hat Chris Brown in einem sehr lesenswerten Grantland-Artikel
-  erläutert]: http://www.grantland.com/story/_/id/8849439/how-terminology-erhardt-perkins-system-helped-maintain-dominance-tom-brady-patriots
+  Highschool-Zeiten.]: |filename|/images/nfl_g_brady_belichick_580-300x168.jpg
+  [hat Chris Brown in einem sehr lesenswerten Grantland-Artikel erläutert]: http://www.grantland.com/story/_/id/8849439/how-terminology-erhardt-perkins-system-helped-maintain-dominance-tom-brady-patriots
   [ProFootballFocus.com]: http://www.profootballfocus.com
   ["*high variance*"]: http://www.advancednflstats.com/2009/05/are-nfl-coaches-too-timid.html
   [Football Outsiders]: http://www.footballoutsiders.com

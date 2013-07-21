@@ -44,11 +44,9 @@ wohl ganz gut.
 
 Man darf also gespannt sein, wer die zweite Halbfinalpartie bestreitet.
 
- 
-
 Einen schönen GFL- und NFL-Footballsonntag euch allen!
 
-  [Viertelfinale rating]: http://footballissexbaby.de/wp-content/uploads/2011/09/viertelfinale-rating1.png
+  [Viertelfinale rating]: |filename|/images/viertelfinale-rating1.png
     "viertelfinale-rating.png"
-  [Viertelfinale prognose]: http://footballissexbaby.de/wp-content/uploads/2011/09/viertelfinale-prognose1.png
+  [Viertelfinale prognose]: |filename|/images/viertelfinale-prognose1.png
     "viertelfinale-prognose.png"

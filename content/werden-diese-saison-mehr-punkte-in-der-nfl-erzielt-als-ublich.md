@@ -18,8 +18,9 @@ Als erstes ist es natürlich ganz sinnvoll, sich den Jahresverlauf der
 durchschnittlichen Punkte pro Spiel anzusehen.  
 Im Folgenden ist das für die letzten fünf Saisons dargestellt:
 
-[caption id="attachment\_1499" align="aligncenter" width="300"][![][]][]
-Durchschnittliche Punkte pro Spiel für die Saisons 2007-2012.[/caption]
+[![](|filename|/images/points_per_week-300x225.png)](|filename|/images/points_per_week.png)
+
+*Durchschnittliche Punkte pro Spiel für die Saisons 2007-2012.*
 
 Man sieht in dieser Darstellung zwar, dass 2012 viele Punkte gemacht
 wurden, wirklich aussagekräftig ist der Plot jedoch nicht.
@@ -27,9 +28,9 @@ wurden, wirklich aussagekräftig ist der Plot jedoch nicht.
 Fassen wir als nächstes also alle bisherigen Saisons zusammen, mitteln
 die Daten und vergleichen sie mit der aktuellen Saison:
 
-[caption id="attachment\_1496" align="aligncenter"
-width="300"][![][1]][] Durchschnittliche Punkte pro Spiel pro Woche 2012
-und im Durchschnitt von 2000-2012.[/caption]
+[![](|filename|/images/points_per_week_mean-300x225.png)](|filename|/images/points_per_week_mean.png)
+
+*Durchschnittliche Punkte pro Spiel pro Woche 2012 und im Durchschnitt von 2000-2012.*
 
 In der Tat sind in der aktuellen NFL-Saison viele Punkte erzielt wurden.
 Der Saisonschnitt von 2000-2011 lag bei 42.6 Punkten je Spiel, 2012 ist
@@ -50,9 +51,9 @@ den Spielergebnissen nieder.
 Zum Abschluss ist es noch interessant einen Blick auf den
 Saisondurchschnitt der letzten 12 Jahre zu werfen:
 
-[caption id="attachment\_1500" align="aligncenter"
-width="300"][![][2]][] Punkte pro Spiel im Saisondurchschnitt für den
-Zeitraum 2000-2012.[/caption]
+[![](|filename|/images/points_per_week_season-300x225.png)](|filename|/images/points_per_week_season.png) 
+
+*Punkte pro Spiel im Saisondurchschnitt für den Zeitraum 2000-2012.*
 
 Man erkennt, dass es einen Trend zu mehr Punkten pro Spiel gibt. Die
 lineare Regression ergibt einen Anstieg von 0.37, dass heißt pro Saison
@@ -72,19 +73,6 @@ Sieger und Verlierer, in dieser Saison sehr durchschnittlich. Wenn also
 schon mehr Punkte erzielt werden, dann werden die Siege nicht deutlicher
 als in vergangenen Saisons.
 
-[caption id="attachment\_1503" align="aligncenter"
-width="300"][![][3]][] Saisondurchschnitt des Point Spreads im Zeitraum
-2000-2012.[/caption]
+[![](|filename|/images/pt_spread_season-300x225.png)](|filename|/images/pt_spread_season.png)
 
-  []: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week-300x225.png
-    "points_per_week"
-  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week.png
-  [1]: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week_mean-300x225.png
-    "points_per_week_mean"
-  [![][1]]: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week_mean.png
-  [2]: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week_season-300x225.png
-    "points_per_week_season"
-  [![][2]]: http://footballissexbaby.de/wp-content/uploads/2012/10/points_per_week_season.png
-  [3]: http://footballissexbaby.de/wp-content/uploads/2012/10/pt_spread_season-300x225.png
-    "pt_spread_season"
-  [![][3]]: http://footballissexbaby.de/wp-content/uploads/2012/10/pt_spread_season.png
+*Saisondurchschnitt des Point Spreads im Zeitraum 2000-2012.*

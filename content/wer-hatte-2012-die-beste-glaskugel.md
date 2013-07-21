@@ -16,18 +16,13 @@ korsakoff hat sich nun die Mühe gemacht, die Tipps mitsamt Koko
 auszuwerten. Die Ergebnisse gibt es unter folgendem Link, für den
 ausdrücklich eine Leseempfehlung ausgesprochen sei:
 
-<p>
-<center>
 [Sunny gegen Koko, Pythagoras gegen Lebensgefährtin][]
 
-</center>
-</p>
-
-  [DVOA gegen Koko, den Affen]: http://footballissexbaby.de/2012/07/dvoa-gegen-koko-den-affen/
+  [DVOA gegen Koko, den Affen]: |filename|dvoa-gegen-koko-den-affen.md
     "DVOA gegen Koko, den Affen"
   [FootballOutsiders]: http://www.footballoutsiders.com
   [Sideline Reporter]: http://sidelinereporter.wordpress.com
-  [pythagoräische Erwartung nach Saison 2011]: http://footballissexbaby.de/2012/07/die-einfachst-mogliche-nfl-prognose/
+  [pythagoräische Erwartung nach Saison 2011]: |filename|die-einfachst-mogliche-nfl-prognose.md
     "Die einfachst mögliche NFL-Prognose"
   [Sunny gegen Koko, Pythagoras gegen Lebensgefährtin]: http://sidelinereporter.wordpress.com/2013/01/03/sunny-gegen-koko-pythagoras-gegen-lebensgefahrtin-wer-ist-denn-nun-gescheiter-als-die-affen-oder-ist-uberhaupt-jemand-gescheitert-als-die-affen/
     "Sunny gegen Koko, Pythagoras gegen Lebensgefährtin"
