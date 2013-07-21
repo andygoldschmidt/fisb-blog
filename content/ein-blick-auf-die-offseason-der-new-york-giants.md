@@ -9,10 +9,7 @@ so langsam zum Stillstand kommt, kommt das Spielerkarussel erst richtig
 in Fahrt. Das Team, bei dem bislang der ausgiebigste Frühjahrsputz
 stattgefunden hat, sind die New York Giants.
 
-[caption id="attachment\_2057" align="alignright" width="300"]![Ahmad
-Bradshaw: tough, aber verletzungsanfällig und daher jetzt ein
-Ex-Giant][] Ahmad Bradshaw: tough, aber verletzungsanfällig und daher
-jetzt ein Ex-Giant[/caption]
+![](|filename|/images/image-300x239.jpg)
 
 Wenig überraschend war es, dass am Dienstag LB Michael Boley entlassen
 wurde. Eine konsequente Entscheidung, nachdem Boleys Leistung
@@ -100,9 +97,7 @@ ist keiner dieser dominanten Left Tackle à la Joe Thomas oder Duane
 Browns, aber er ist solide, sowohl in der Pass- als auch der
 Laufverteidigung. Damit ist er genau das, was die Giants brauchen.
 
-[caption id="attachment\_2060" align="alignleft" width="300"]![Kenny
-Phillips ist ein Eckpfeiler für die Giants-Secondary.][] Kenny Phillips
-ist ein Eckpfeiler für die Giants-Secondary.[/caption]
+![Kenny Phillips ist ein Eckpfeiler für die Giants-Secondary.](|filename|/images/83549004_crop_650x440-300x203.jpg)
 
 Kenny Phillips hingegen ist einer der unterschätztesten Safeties der
 Liga. ProFootballFocus hat ihm eine +7.4 für die Saison 2012 gegeben
@@ -168,7 +163,5 @@ beim Draft gemacht und immer wieder Talent auch in späteren Runden
 gefunden. Dieses Mal muss das wieder gelingen, denn die Baustellen
 scheinen in den letzten Jahren eher zu- als abzunehmen.
 
-  [Ahmad Bradshaw: tough, aber verletzungsanfällig und daher jetzt ein
-  Ex-Giant]: http://footballissexbaby.de/wp-content/uploads/2013/02/image-300x239.jpg
+  
   [hier]: https://www.profootballfocus.com/blog/2013/01/01/free-agents-new-york-giants/
-  [Kenny Phillips ist ein Eckpfeiler für die Giants-Secondary.]: http://footballissexbaby.de/wp-content/uploads/2013/02/83549004_crop_650x440-300x203.jpg

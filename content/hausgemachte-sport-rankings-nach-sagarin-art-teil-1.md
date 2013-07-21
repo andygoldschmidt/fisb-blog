@@ -6,8 +6,7 @@ Slug: hausgemachte-sport-rankings-nach-sagarin-art-teil-1
 
 So, dann wollen wir doch gleich mal anfangen!
 
-In meinem ersten Eintrag möchte ich mich mit "[Homemade Sagarin
-Ratings"][] beschäftigen.
+In meinem ersten Eintrag möchte ich mich mit "[Homemade Sagarin Ratings][]" beschäftigen.
 
 Jeff Sagarin veröffentlicht seit den 1980er Jahren seine
 computergenerierten Sport-Rankings für verschiedene US-Ligen, zu finden
@@ -63,22 +62,6 @@ Im Anschluß ein Bild der Situation vorm letzten Spieltag (Stand: 25. Mai
 
 ![Ratings gfl][]
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Das beste Team sind die Kiel Baltic Hurricanes, was bei einer makellosen
 Bilanz von 3 Siege nicht weiter überrascht und schlechteste Teams sind
 Essen und Plattling, die noch sieglos auch nicht ganz grundlos dort
@@ -116,14 +99,12 @@ Man sieht also, dass man mit sehr einfachen Annahmen einen guten
 Eindruck bekommen kann, wer in welchem Spiel die beste Siegchance hat
 und für Optimisten sogar, wie deutlich der Sieg ausfallen wird.
 
- 
-
 Beim nächsten Post gibt es dann eine Erklärung, wie man das Ganze nun
 tatsächlich umsetzen kann und wie jeder selbst mit den Ratings
 rumspielen kann.
 
 Bis dahin!
 
-  [Homemade Sagarin Ratings"]: http://www.advancednflstats.com/2008/05/homemade-sagarin-ratings.html
-  [Ratings gfl]: http://footballissexbaby.de/wp-content/uploads/2011/05/ratings_gfl.png
+  [Homemade Sagarin Ratings]: http://www.advancednflstats.com/2008/05/homemade-sagarin-ratings.html
+  [Ratings gfl]: |filename|/images/ratings_gfl.png
     "ratings_gfl.png"

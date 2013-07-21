@@ -8,12 +8,10 @@ Ich habe in diesem Blog bereits ein Ranking-System vorgestellt, dass
 [auf den Punktdifferenzen aller Spiele basiert][] und eines, dass
 [lediglich Siege und Niederlagen in Betracht zieht][].
 
-<div>
-[caption id="attachment\_1380" align="alignright" width="300"][![][]][]
-Die beiden freuen sich über den geteilten 1. Platz im 2011er
-SRS.[/caption]
+[![](|filename|/images/rodgers-brees-300x181.png)](|filename|/images/rodgers-brees.png)
 
-</div>
+Die beiden freuen sich über den geteilten 1. Platz im 2011er SRS.
+
 Heute möchte ich noch ein drittes Ranking-System vorstellen: das
 **Simple Ranking System**.
 
@@ -24,15 +22,15 @@ Ratings der bereits gespielten Gegner.
 
 Das sieht dann mathematisch einfach so aus:
 
-[latex]R\_x = \\text{MoV}\_x + \\frac{1}{N}\\left(R\_1 + R\_2 + \\dots +
-R\_N\\right)[/latex]
+$R_x = \text{MoV}_x + \frac{1}{N}\left(R_1 + R_2 + \dots +
+R_N\right)$
 
 Nimmt man also beispielsweise die Atlanta Falcons von 2012, dann würde
 das also so aussehen:
 
-[latex]R(\\text{ATL}) = \\text{MoV}(\\text{ATL}) +
-\\frac{1}{3}\\left(R(\\text{KC}) + R(\\text{DEN}) +
-R(\\text{SD})\\right)[/latex]
+$R(\text{ATL}) = \text{MoV}(\text{ATL}) +
+\frac{1}{3}\left(R(\text{KC}) + R(\text{DEN}) +
+R(\text{SD})\right)$
 
 Das einzige Problem das man nun hat: man kennt die einzelnen *R*
 (Ratings) nicht. Das heißt also, man hat 32 Gleichungen mit 32
@@ -62,7 +60,7 @@ schedule][] (SOS) zu berechnen, eigentlich eher abzulesen.
 Denn wenn man sich die Formel noch einmal anschaut, steht da eigentlich
 nichts anderes als:
 
-[latex]\\text{SRS} = \\text{MoV} + \\text{SOS}[/latex]
+$\text{SRS} = \text{MoV} + \text{SOS}$
 
 Eine simple Subtraktion von Rating und *margin of victory* liefert also
 bereits die Stärke des Spielplans!
@@ -71,40 +69,45 @@ Schauen wir uns an, wie das Simple Ranking System nach dem Ende der
 regulären Saison 2011 aussah (*Ergebnisse nach Woche 2 [finden sich
 hier][], sind allerdings bisher nicht sehr aussagekräftig*):
 
-  Team                   SRS     MoV     SOS
-  ---------------------- ------- ------- ------
-  Arizona Cardinals      -2.2    -2.2    0.0
-  Atlanta Falcons        3.5     3.2     0.3
-  Baltimore Ravens       6.1     7.0     -0.9
-  Buffalo Bills          -3.4    -3.9    0.5
-  Carolina Panthers      -1.3    -1.4    0.1
-  Chicago Bears          1.7     0.8     0.9
-  Cincinnati Bengals     0.5     1.3     -0.8
-  Cleveland Browns       -5.4    -5.6    0.2
-  Dallas Cowboys         1.6     1.4     0.2
-  Denver Broncos         -5.3    -5.1    -0.2
-  Detroit Lions          6.1     5.4     0.6
-  Green Bay Packers      11.4    12.6    -1.2
-  Houston Texans         4.5     6.4     -1.9
-  Indianapolis Colts     -11.3   -11.7   0.4
-  Jacksonville Jaguars   -5.6    -5.4    -0.3
-  Kansas City Chiefs     -8.1    -7.9    -0.2
-  Miami Dolphins         0.9     1.0     -0.1
-  Minnesota Vikings      -5.7    -6.8    1.1
-  New England Patriots   9.3     10.7    -1.4
-  New Orleans Saints     11.4    13.0    -1.6
-  New York Giants        1.6     -0.4    2.0
-  New York Jets          0.9     0.9     0.0
-  Oakland Raiders        -4.9    -4.6    -0.3
-  Philadelphia Eagles    4.7     4.2     0.5
-  Pittsburgh Steelers    5.3     6.1     -0.8
-  San Diego Chargers     0.9     1.8     -0.9
-  San Francisco 49ers    8.3     9.4     -1.1
-  Seattle Seahawks       0.8     0.4     0.4
-  St. Louis Rams         -10.5   -13.4   2.9
-  Tampa Bay Buccaneers   -10.6   -12.9   2.3
-  Tennessee Titans       -1.0    0.5     -1.5
-  Washington Redskins    -4.1    -4.9    0.8
+<table class="table table-striped">
+<thead>
+<tr><th>Team</th><th>SRS</th><th>MoV</th><th>SOS</th></tr>
+</thead>
+<tbody>
+<tr><td>Arizona Cardinals</td><td>-2.2</td><td>-2.2</td><td>0.0</td></tr>
+<tr><td>Atlanta Falcons</td><td>3.5</td><td>3.2</td><td>0.3</td></tr>
+<tr><td>Baltimore Ravens</td><td>6.1</td><td>7.0</td><td>-0.9</td></tr>
+<tr><td>Buffalo Bills</td><td>-3.4</td><td>-3.9</td><td>0.5</td></tr>
+<tr><td>Carolina Panthers</td><td>-1.3</td><td>-1.4</td><td>0.1</td></tr>
+<tr><td>Chicago Bears</td><td>1.7</td><td>0.8</td><td>0.9</td></tr>
+<tr><td>Cincinnati Bengals</td><td>0.5</td><td>1.3</td><td>-0.8</td></tr>
+<tr><td>Cleveland Browns</td><td>-5.4</td><td>-5.6</td><td>0.2</td></tr>
+<tr><td>Dallas Cowboys</td><td>1.6</td><td>1.4</td><td>0.2</td></tr>
+<tr><td>Denver Broncos</td><td>-5.3</td><td>-5.1</td><td>-0.2</td></tr>
+<tr><td>Detroit Lions</td><td>6.1</td><td>5.4</td><td>0.6</td></tr>
+<tr><td>Green Bay Packers</td><td>11.4</td><td>12.6</td><td>-1.2</td></tr>
+<tr><td>Houston Texans</td><td>4.5</td><td>6.4</td><td>-1.9</td></tr>
+<tr><td>Indianapolis Colts</td><td>-11.3</td><td>-11.7</td><td>0.4</td></tr>
+<tr><td>Jacksonville Jaguars</td><td>-5.6</td><td>-5.4</td><td>-0.3</td></tr>
+<tr><td>Kansas City Chiefs</td><td>-8.1</td><td>-7.9</td><td>-0.2</td></tr>
+<tr><td>Miami Dolphins</td><td>0.9</td><td>1.0</td><td>-0.1</td></tr>
+<tr><td>Minnesota Vikings</td><td>-5.7</td><td>-6.8</td><td>1.1</td></tr>
+<tr><td>New England Patriots</td><td>9.3</td><td>10.7</td><td>-1.4</td></tr>
+<tr><td>New Orleans Saints</td><td>11.4</td><td>13.0</td><td>-1.6</td></tr>
+<tr><td>New York Giants</td><td>1.6</td><td>-0.4</td><td>2.0</td></tr>
+<tr><td>New York Jets</td><td>0.9</td><td>0.9</td><td>0.0</td></tr>
+<tr><td>Oakland Raiders</td><td>-4.9</td><td>-4.6</td><td>-0.3</td></tr>
+<tr><td>Philadelphia Eagles</td><td>4.7</td><td>4.2</td><td>0.5</td></tr>
+<tr><td>Pittsburgh Steelers</td><td>5.3</td><td>6.1</td><td>-0.8</td></tr>
+<tr><td>San Diego Chargers</td><td>0.9</td><td>1.8</td><td>-0.9</td></tr>
+<tr><td>San Francisco 49ers</td><td>8.3</td><td>9.4</td><td>-1.1</td></tr>
+<tr><td>Seattle Seahawks</td><td>0.8</td><td>0.4</td><td>0.4</td></tr>
+<tr><td>St. Louis Rams</td><td>-10.5</td><td>-13.4</td><td>2.9</td></tr>
+<tr><td>Tampa Bay Buccaneers</td><td>-10.6</td><td>-12.9</td><td>2.3</td></tr>
+<tr><td>Tennessee Titans</td><td>-1.0</td><td>0.5</td><td>-1.5</td></tr>
+<tr><td>Washington Redskins</td><td>-4.1</td><td>-4.9</td><td>0.8</td></tr>
+</tbody>
+</table>
 
 Ohne viele Annahmen kann man sich also ein Rating und die Strength of
 schedule eines Teams berechnen. Und im Vergleich zu anderen
@@ -124,14 +127,18 @@ aussagekräftiges System, an dem man sehr schnell ablesen kann, wie gut
 ein Team ist und ob es nur so gut ist, weil es gegen schwache Gegner
 gespielt hat.
 
-  [auf den Punktdifferenzen aller Spiele basiert]: http://footballissexbaby.de/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
-    "Hausgemachte Sport-Rankings nach Sagarin-Art, Teil 1"
-  [lediglich Siege und Niederlagen in Betracht zieht]: http://footballissexbaby.de/2012/08/yet-another-ranking-system/
-    "Yet Another Ranking System"
-  []: http://footballissexbaby.de/wp-content/uploads/2012/09/rodgers-brees-300x181.png
-    "rodgers-brees"
-  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/09/rodgers-brees.png
-  [Strength of schedule]: http://footballissexbaby.de/2012/07/strength-of-schedule-theorie-und-praxis/
-    "Strength of schedule – Theorie und Praxis"
-  [finden sich hier]: http://footballissexbaby.de/2012/09/die-nfl-in-zahlen-woche-2/
-    "Die NFL in Zahlen: Woche 2"
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+    }
+  });
+</script>
+
+  [auf den Punktdifferenzen aller Spiele basiert]: |filename|hausgemachte-sport-rankings-nach-sagarin-art-teil-1.md
+  [lediglich Siege und Niederlagen in Betracht zieht]: |filename|yet-another-ranking-system.md
+  [Strength of schedule]: |filename|strength-of-schedule-theorie-und-praxis.md
+  [finden sich hier]: |filename|die-nfl-in-zahlen-woche-2.md

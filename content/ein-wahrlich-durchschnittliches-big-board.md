@@ -11,9 +11,7 @@ zukünftigen NFL-Spieler nach allen Regeln der Kunst vermessen lassen
 müssen. Dementsprechend nimmt auch das Draftgeflüster und die Debatte,
 welcher Spieler der beste ist, langsam aber sicher an Fahrt auf.
 
-[caption id="attachment\_2073" align="alignright" width="217"]![Luke
-Joeckel ist fast durchweg die \#1.][] Luke Joeckel ist fast durchweg die
-\#1.[/caption]
+![Luke Joeckel ist fast durchweg die \#1.](|filename|/images/joeckel-icon-story-217x300.jpg)
 
 Neben individuellen Scouting Reports gibt es zwei grundlegende
 Draft-Rankings: den Mock Draft und das Big Board. Bei dem Mock Draft
@@ -55,34 +53,39 @@ muss, um sich zu qualifizieren.
 Wendet man dieses Kriterium an, bleiben 26 Spieler im Rennen.  
 Die folgende Tabelle zeigt das gemittelte Draft Board:
 
-  \#   Spieler                 Position   College
-  ---- ----------------------- ---------- -------------------
-  1    Luke Joeckel            OT         Texas A&M
-  2    Star Lotulelei          DT         Utah
-  3    Damontre Moore          DE         Texas A&M
-  4    Jarvis Jones            OLB        Georgia
-  5    Bjoern Werner           DE         Florida State
-  6    Chance Warmack          OG         Alabama
-  7    Eric Fisher             OT         Central Michigan
-  8    Dee Milliner            CB         Alabama
-  9    Barkevious Mingo        OLB        LSU
-  10   Cordarrelle Patterson   WR         Tennessee
-  11   Alec Ogletree           ILB        Georgia
-  11   Ezekiel Ansah           DE         BYU
-  12   Sheldon Richardson      DT         Missouri
-  13   Sharrif Floyd           DT         Florida
-  14   Dion Jordan             DE         Oregon
-  14   Geno Smith              QB         West Virginia
-  14   Johnathan Hankins       DT         Ohio State
-  14   Kenny Vaccaro           FS         Texas
-  15   Lane Johnson            OT         Oklahoma
-  16   Jonathan Cooper         OG         North Carolina
-  17   Alex Okafor             DE         Texas
-  18   Keenan Allen            WR         California
-  19   Manti Te'o              ILB        Notre Dame
-  20   Zach Ertz               TE         Stanford
-  21   Matt Elam               SS         Florida
-  22   Johnthan Banks          CB         Mississippi State
+<table class="table">
+<thead>
+<tr><th>#</th><th>Spieler</th><th>Position</th><th>College</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>Luke Joeckel</td><td>OT</td><td>Texas A&amp;M</td></tr>
+<tr><td>2</td><td>Star Lotulelei</td><td>DT</td><td>Utah</td></tr>
+<tr><td>3</td><td>Damontre Moore</td><td>DE</td><td>Texas A&amp;M</td></tr>
+<tr><td>4</td><td>Jarvis Jones</td><td>OLB</td><td>Georgia</td></tr>
+<tr><td>5</td><td>Bjoern Werner</td><td>DE</td><td>Florida State</td></tr>
+<tr><td>6</td><td>Chance Warmack</td><td>OG</td><td>Alabama</td></tr>
+<tr><td>7</td><td>Eric Fisher</td><td>OT</td><td>Central Michigan</td></tr>
+<tr><td>8</td><td>Dee Milliner</td><td>CB</td><td>Alabama</td></tr>
+<tr><td>9</td><td>Barkevious Mingo</td><td>OLB</td><td>LSU</td></tr>
+<tr><td>10</td><td>Cordarrelle Patterson</td><td>WR</td><td>Tennessee</td></tr>
+<tr><td>11</td><td>Alec Ogletree</td><td>ILB</td><td>Georgia</td></tr>
+<tr><td>11</td><td>Ezekiel Ansah</td><td>DE</td><td>BYU</td></tr>
+<tr><td>12</td><td>Sheldon Richardson</td><td>DT</td><td>Missouri</td></tr>
+<tr><td>13</td><td>Sharrif Floyd</td><td>DT</td><td>Florida</td></tr>
+<tr><td>14</td><td>Dion Jordan</td><td>DE</td><td>Oregon</td></tr>
+<tr><td>14</td><td>Geno Smith</td><td>QB</td><td>West Virginia</td></tr>
+<tr><td>14</td><td>Johnathan Hankins</td><td>DT</td><td>Ohio State</td></tr>
+<tr><td>14</td><td>Kenny Vaccaro</td><td>FS</td><td>Texas</td></tr>
+<tr><td>15</td><td>Lane Johnson</td><td>OT</td><td>Oklahoma</td></tr>
+<tr><td>16</td><td>Jonathan Cooper</td><td>OG</td><td>North Carolina</td></tr>
+<tr><td>17</td><td>Alex Okafor</td><td>DE</td><td>Texas</td></tr>
+<tr><td>18</td><td>Keenan Allen</td><td>WR</td><td>California</td></tr>
+<tr><td>19</td><td>Manti Te'o</td><td>ILB</td><td>Notre Dame</td></tr>
+<tr><td>20</td><td>Zach Ertz</td><td>TE</td><td>Stanford</td></tr>
+<tr><td>21</td><td>Matt Elam</td><td>SS</td><td>Florida</td></tr>
+<tr><td>22</td><td>Johnthan Banks</td><td>CB</td><td>Mississippi State</td></tr>
+</tbody>
+</table>
 
 Luke Joeckel ist die ganz klare Nummer Eins: drei Big Boards haben ihn
 als \#1, nur Kiper als \#3 (er rankt Jarvis Jones als \#1). Das heißt
@@ -119,7 +122,6 @@ bilden.
 
 Aber alles zu seiner Zeit.
 
-  [Luke Joeckel ist fast durchweg die \#1.]: http://footballissexbaby.de/wp-content/uploads/2013/02/joeckel-icon-story-217x300.jpg
   [Mel Kiper, ESPN]: http://insider.espn.go.com/nfl/draft2013/story/_/id/8918856/2013-nfl-draft-matt-elam-debuts-big-board
   [Matt Miller, Bleacher Report]: http://bleacherreport.com/articles/1484192-matt-millers-2013-nfl-draft-big-board/page/2
   [Charlie Campbell, WalterFootball.com]: http://walterfootball.com/draft2013bigboard.php

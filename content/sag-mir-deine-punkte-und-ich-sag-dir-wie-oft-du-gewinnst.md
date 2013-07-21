@@ -17,7 +17,7 @@ früher 80ern von Bill James entwickelt, um im Baseball anhand von
 erlaubten und erzielten Runs einfach feststellen zu können, wie oft
 welche Mannschaft gewinnen wird. Die Formel ist verblüffend einfach:
 
-![Pythagorean Expectation][]
+$\text{Wins} = \frac{\text{PF}^x}{\text{PF}^x + \text{PA}^x}$
 
 Im Football sind PF die erzielten Punkte (*Points for*) und PA sind die
 Punkte, die der Gegner erzielen konnte (*Points against*). In Bill
@@ -39,7 +39,7 @@ obigen Form genommen und hat mittels vorhandenen
 Sieg-Niederlagen-Verhältnissen für vergangene Saisons den jeweils am
 besten passenden Exponenten ermittelt.
 
-Sein Ergebnis für die Saison 2010: x = 2.657!
+Sein Ergebnis für die Saison 2010: $x = 2.657$!
 
 Das einzige Problem ist: Wenn man den Exponenten nach der Saison
 ermittelt, dann sagt er einem nur, wie jedes Team hätte abschneiden
@@ -60,9 +60,8 @@ bin ich mit dem Ansatz nicht richtig zufrieden).
 Daher habe ich meine Implementierung der pythagoräischen Erwartung, die
 schon seit Monaten in irgendeiner Schublade lag, genommen und geschaut,
 was sich mit diesem Exponenten von 2.657 für die
-<span style="text-decoration:underline;">aktuelle</span> NFL-Saison
-ergeben sollte. Danach habe ich den aktuellen Exponenten ausgerechnet (x
-= 3.872) und die Berechnung wiederholt.
+**aktuelle** NFL-Saison ergeben sollte. Danach habe ich den aktuellen 
+Exponenten ausgerechnet (x = 3.872) und die Berechnung wiederholt.
 
 Das Ergebnis sieht wie folgt aus:
 
@@ -92,11 +91,17 @@ betrachten. Aber die pythagoräische Erwartung ist ein guter Indikator,
 ob ein Team bisher viel Pech hatte (z. B. Minnesota Vikings) oder ob es
 schon einige glückliche Siege eingefahren hat (Cleveland Browns).
 
- 
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 
-  [Pythagorean Expectation]: http://footballissexbaby.de/wp-content/uploads/2011/10/pythexp.png
-    "PythExp.png"
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+    }
+  });
+</script>
+ 
   [etwas genauer angenommen]: http://codeandfootball.wordpress.com/2011/04/22/the-pythagorean-expectation-in-football/
   [hier]: http://www.pro-football-reference.com/blog/?p=337
-  [PythExp2011]: http://footballissexbaby.de/wp-content/uploads/2011/10/pythexp2011.png
-    "PythExp2011.png"
+  [PythExp2011]: |filename|/images/pythexp2011.png

@@ -25,8 +25,6 @@ Durchschnitt pro Spiel in jeder Woche geworfen hat:
 
 ![Zusammenfassung][]
 
- 
-
 Schauen wir uns zuerst mal die Yards graphisch an. Die blaue Linie zeigt
 den Verlauf der Yards in der aktuellen Saison, die grüne Linie ist der
 Durchschnittswert nach sechs Spieltagen aus 2010 und die rote Linie der
@@ -71,10 +69,9 @@ Das hat meiner Meinung nach zwei Hauptgründe:
     Offenses müssen natürlich auch exakt abgestimmt sein, aber es ist
     eben doch einfacher zu agieren als zu reagieren.
 2.  **Das Wetter:** Die Temperaturen im September in den USA waren
-    dieses Jahr über dem Durchschnitt, wie die folgende Graphik
-    zeigt: ![201109
-    201109][]Quelle: <http://www.ncdc.noaa.gov/sotc/service/national/Nationaltrank/201109-201109.gif>
-    <p>
+    dieses Jahr über dem Durchschnitt, wie die verlinkte Graphik
+    zeigt: [Link](http://www.ncdc.noaa.gov/sotc/service/national/Nationaltrank/201109-201109.gif).
+    
     Wärmeres Wetter führt traditionell immer dazu, dass das Passspiel
     besser funktioniert. Daher sind die Passstatistiken anfangs der
     Saison immer besser als am Ende.
@@ -89,11 +86,6 @@ bleibt auch die Zahl der Pass-Touchdowns in etwa gleich.
 Warten wir mal ab, wie sich das Ganze in der weiteren Saison entwickelt.
 Egal wie, langweilig wird diese NFL-Saison mit Sicherheit nicht!
 
-  [Zusammenfassung]: http://footballissexbaby.de/wp-content/uploads/2011/10/zusammenfassung.png
-    "zusammenfassung.png"
-  [Passyds per week]: http://footballissexbaby.de/wp-content/uploads/2011/10/passyds_per_week.png
-    "passyds_per_week.png"
-  [Tds per week]: http://footballissexbaby.de/wp-content/uploads/2011/10/tds_per_week.png
-    "tds_per_week.png"
-  [201109 201109]: http://footballissexbaby.de/wp-content/uploads/2011/10/201109-201109.gif
-    "201109-201109.gif"
+  [Zusammenfassung]: |filename|/images/zusammenfassung.png
+  [Passyds per week]: |filename|/images/passyds_per_week.png
+  [Tds per week]: |filename|/images/tds_per_week.png

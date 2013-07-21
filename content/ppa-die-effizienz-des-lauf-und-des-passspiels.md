@@ -37,12 +37,10 @@ Hilfe der bereits im ersten Artikel vorgestellten Koeffizienten ergeben
 sich folgende Gleichungen:
 
 Pass:  
-[latex]\\text{passPPA} = 4.1 \\cdot \\text{NY/A} - 52.61 \\cdot
-\\text{Int/A}[/latex]
+$\text{passPPA} = 4.1 \cdot \text{NY/A} - 52.61 \cdot \text{Int/A}$
 
 Lauf:  
-[latex]\\text{rushPPA} = 1.48 \* \\text{RushYd/A} - 143.49 \*
-\\text{FL/A}[/latex]
+$\text{rushPPA} = 1.48 \cdot \text{RushYd/A} - 143.49 \cdot \text{FL/A}$
 
 Man sieht allerdings gleich ein Problem, die beide Gleichungen haben.
 Verliert ein Team kein Fumble, beziehungsweise wirft ein Team keine
@@ -63,42 +61,45 @@ Stärke einer Offense zu bekommen.
 Und das diese Metrik ganz brauchbare und vor allem nachvollziehbare
 Werte liefert, zeigt die folgende Tabelle:
 
-*(Zum Sortieren auf den Spaltennamen klicken.)*
-
-  Team                   PassPPA   RushPPA
-  ---------------------- --------- ---------
-  Arizona Cardinals      -7.6      -1.6
-  Atlanta Falcons        3.3       0.1
-  Baltimore Ravens       0.6       0.9
-  Buffalo Bills          -1.4      0.1
-  Carolina Panthers      3.2       0.4
-  Chicago Bears          -2.6      0.2
-  Cincinnati Bengals     -0.8      -0.2
-  Cleveland Browns       -2.5      -0.0
-  Dallas Cowboys         2.1       -0.9
-  Denver Broncos         5.1       -1.0
-  Detroit Lions          0.8       -0.7
-  Green Bay Packers      2.1       -0.1
-  Houston Texans         1.6       0.9
-  Indianapolis Colts     -0.3      -0.4
-  Jacksonville Jaguars   -3.6      -0.5
-  Kansas City Chiefs     -4.7      -0.2
-  Miami Dolphins         -1.4      -0.7
-  Minnesota Vikings      -3.8      1.6
-  New England Patriots   3.7       0.6
-  New Orleans Saints     3.8       0.9
-  New York Giants        2.2       1.1
-  New York Jets          -4.1      -1.7
-  Oakland Raiders        -0.1      -0.6
-  Philadelphia Eagles    -2.1      -1.1
-  Pittsburgh Steelers    -0.1      -1.6
-  San Diego Chargers     -2.3      -1.2
-  San Francisco 49ers    3.1       1.5
-  Seattle Seahawks       2.8       1.1
-  St. Louis Rams         -0.9      0.2
-  Tampa Bay Buccaneers   1.7       0.9
-  Tennessee Titans       -2.4      -0.0
-  Washington Redskins    4.4       2.1
+<table class="table table-striped1">
+<thead>
+<tr><th>Team</th><th>PassPPA</th><th>RushPPA</th></tr>
+</thead>
+<tbody>
+<tr><td>Arizona Cardinals</td><td>-7.6</td><td>-1.6</td></tr>
+<tr><td>Atlanta Falcons</td><td>3.3</td><td>0.1</td></tr>
+<tr><td>Baltimore Ravens</td><td>0.6</td><td>0.9</td></tr>
+<tr><td>Buffalo Bills</td><td>-1.4</td><td>0.1</td></tr>
+<tr><td>Carolina Panthers</td><td>3.2</td><td>0.4</td></tr>
+<tr><td>Chicago Bears</td><td>-2.6</td><td>0.2</td></tr>
+<tr><td>Cincinnati Bengals</td><td>-0.8</td><td>-0.2</td></tr>
+<tr><td>Cleveland Browns</td><td>-2.5</td><td>-0.0</td></tr>
+<tr><td>Dallas Cowboys</td><td>2.1</td><td>-0.9</td></tr>
+<tr><td>Denver Broncos</td><td>5.1</td><td>-1.0</td></tr>
+<tr><td>Detroit Lions</td><td>0.8</td><td>-0.7</td></tr>
+<tr><td>Green Bay Packers</td><td>2.1</td><td>-0.1</td></tr>
+<tr><td>Houston Texans</td><td>1.6</td><td>0.9</td></tr>
+<tr><td>Indianapolis Colts</td><td>-0.3</td><td>-0.4</td></tr>
+<tr><td>Jacksonville Jaguars</td><td>-3.6</td><td>-0.5</td></tr>
+<tr><td>Kansas City Chiefs</td><td>-4.7</td><td>-0.2</td></tr>
+<tr><td>Miami Dolphins</td><td>-1.4</td><td>-0.7</td></tr>
+<tr><td>Minnesota Vikings</td><td>-3.8</td><td>1.6</td></tr>
+<tr><td>New England Patriots</td><td>3.7</td><td>0.6</td></tr>
+<tr><td>New Orleans Saints</td><td>3.8</td><td>0.9</td></tr>
+<tr><td>New York Giants</td><td>2.2</td><td>1.1</td></tr>
+<tr><td>New York Jets</td><td>-4.1</td><td>-1.7</td></tr>
+<tr><td>Oakland Raiders</td><td>-0.1</td><td>-0.6</td></tr>
+<tr><td>Philadelphia Eagles</td><td>-2.1</td><td>-1.1</td></tr>
+<tr><td>Pittsburgh Steelers</td><td>-0.1</td><td>-1.6</td></tr>
+<tr><td>San Diego Chargers</td><td>-2.3</td><td>-1.2</td></tr>
+<tr><td>San Francisco 49ers</td><td>3.1</td><td>1.5</td></tr>
+<tr><td>Seattle Seahawks</td><td>2.8</td><td>1.1</td></tr>
+<tr><td>St. Louis Rams</td><td>-0.9</td><td>0.2</td></tr>
+<tr><td>Tampa Bay Buccaneers</td><td>1.7</td><td>0.9</td></tr>
+<tr><td>Tennessee Titans</td><td>-2.4</td><td>-0.0</td></tr>
+<tr><td>Washington Redskins</td><td>4.4</td><td>2.1</td></tr>
+</tbody>
+</table>
 
 Es wird niemanden überraschen, dass die Redskins dank Alfred Morris und
 Robert Griffin III das effektivste Laufspiel haben und auch nicht, dass
@@ -113,14 +114,22 @@ erstmal beruhigend finde.
 Zur Visualisierung ist es noch interessant, beide Metriken gegeneinander
 aufzutragen *(Ein Klick vergrößert das Ganze auch nochmal)*:
 
-[![pass\_vs\_rush\_ppa][]][]
+[![pass\_vs\_rush\_ppa](|filename|/images/pass_vs_rush_ppa-1024x744.png)](|filename|/images/pass_vs_rush_ppa.png)
 
 Es ist interessant festzustellen, dass alle vier verbleibenden
 Playoff-Teams sowohl im PassPPA als auch im RushPPA positive Werte
 haben, also sowohl Pass- als auch Laufspiel überdurchschnittlich
 erfolgreich sind.
 
-  [ersten Artikel zu PPA]: http://footballissexbaby.de/2013/01/ppa-wie-gut-ist-eine-offense/
-    "PPA: Wie gut ist eine Offense?"
-  [pass\_vs\_rush\_ppa]: http://footballissexbaby.de/wp-content/uploads/2013/01/pass_vs_rush_ppa-1024x744.png
-  [![pass\_vs\_rush\_ppa][]]: http://footballissexbaby.de/wp-content/uploads/2013/01/pass_vs_rush_ppa.png
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+    }
+  });
+</script>
+
+  [ersten Artikel zu PPA]: |filename|ppa-wie-gut-ist-eine-offense.md

@@ -20,31 +20,39 @@ Sehen wir uns die Projektionen für alle 12 Teams an. Die angegeben
 Prozentzahlen geben die Wahrscheinlichkeit an, dass das Team in der
 jeweiligen Runde der Playoffs einen Sieg einfährt.
 
-AFC
----
+###AFC
 
-  Team                       WC Win   Div Win   Conf Win   SB Win
-  -------------------------- -------- --------- ---------- --------
-  **Baltimore Ravens**       44.41%   14.79%    5.26%      1.84%
-  **Cincinnati Bengals**     28.47%   7.85%     2.64%      0.89%
-  **Denver Broncos**                  66.87%    35.32%     19.69%
-  **Houston Texans**         71.53%   36.78%    19.99%     10.77%
-  **Indianapolis Colts**     55.59%   20.94%    8.39%      3.67%
-  **New England Patriots**            52.77%    28.4%      15.26%
+<table class="table">
+<thead>
+<tr><th>Team</th><th>WC Win</th><th>Div Win</th><th>Conf Win</th><th>SB Win</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Baltimore Ravens</strong></td><td>44.41%</td><td>14.79%</td><td>5.26%</td><td>1.84%</td></tr>
+<tr><td><strong>Cincinnati Bengals</strong></td><td>28.47%</td><td>7.85%</td><td>2.64%</td><td>0.89%</td></tr>
+<tr><td><strong>Denver Broncos</strong></td><td></td><td>66.87%</td><td>35.32%</td><td>19.69%</td></tr>
+<tr><td><strong>Houston Texans</strong></td><td>71.53%</td><td>36.78%</td><td>19.99%</td><td>10.77%</td></tr>
+<tr><td><strong>Indianapolis Colts</strong></td><td>55.59%</td><td>20.94%</td><td>8.39%</td><td>3.67%</td></tr>
+<tr><td><strong>New England Patriots</strong></td><td></td><td>52.77%</td><td>28.4%</td><td>15.26%</td></tr>
+</tbody>
+</table>
 
-NFC
----
+### NFC
 
-  Team                      WC Win   Div Win   Conf Win   SB Win
-  ------------------------- -------- --------- ---------- --------
-  **Atlanta Falcons**                58.68%    33.48%     17.62%
-  **Green Bay Packers**     56.52%   29.05%    14.05%     6.9%
-  **Minnesota Vikings**     43.48%   17.61%    8.01%      3.34%
-  **San Francisco 49ers**            50.29%    24.24%     11.26%
-  **Seattle Seahawks**      59.12%   28.5%     13.85%     6.23%
-  **Washington Redskins**   40.88%   15.87%    6.37%      2.53%
+<table class="table">
+<thead>
+<tr><th>Team</th><th>WC Win</th><th>Div Win</th><th>Conf Win</th><th>SB Win</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Atlanta Falcons</strong></td><td></td><td>58.68%</td><td>33.48%</td><td>17.62%</td></tr>
+<tr><td><strong>Green Bay Packers</strong></td><td>56.52%</td><td>29.05%</td><td>14.05%</td><td>6.9%</td></tr>
+<tr><td><strong>Minnesota Vikings</strong></td><td>43.48%</td><td>17.61%</td><td>8.01%</td><td>3.34%</td></tr>
+<tr><td><strong>San Francisco 49ers</strong></td><td></td><td>50.29%</td><td>24.24%</td><td>11.26%</td></tr>
+<tr><td><strong>Seattle Seahawks</strong></td><td>59.12%</td><td>28.5%</td><td>13.85%</td><td>6.23%</td></tr>
+<tr><td><strong>Washington Redskins</strong></td><td>40.88%</td><td>15.87%</td><td>6.37%</td><td>2.53%</td></tr>
+</tbody>
+</table>
 
-  [Vorschau auf alle vier Wildcard-Spiele]: http://footballissexbaby.de/2013/01/nfl-vorschau-wildcard/
+  [Vorschau auf alle vier Wildcard-Spiele]: |filename|nfl-vorschau-wildcard.md
     "NFL-Vorschau: Wildcard-Wochenende"
-  [Siegwahrscheinlichkeit aus dem Max-L Ranking]: http://footballissexbaby.de/2012/08/yet-another-ranking-system/
+  [Siegwahrscheinlichkeit aus dem Max-L Ranking]: |filename|yet-another-ranking-system.md
     "Yet Another Ranking System"

@@ -4,13 +4,12 @@ Author: footballissexbaby
 Tags: Free Agency, NFL, Salary
 Slug: die-unvorhersagbare-free-agency
 
-[caption id="attachment\_2149" align="alignright" width="300"]![Mike
-Wallace: Der Hauptpreis der diesjährigen Free Agency.][] Mike Wallace:
-Der Hauptpreis der diesjährigen Free Agency.[/caption]
 
 Die heiße Phase der Free Agency ist vorbei, viele Spieler haben neue
 Teams gefunden, einige blieben bei ihrem alten Team. Dabei wurde viel
 Geld verteilt und einiges an Kopfschütteln ausgelöst.
+
+![Mike Wallace: Der Hauptpreis der diesjährigen Free Agency.](|filename|/images/mike-wallace-300x239.jpg)
 
 Nachdem ich in zwei vorigen Artikeln schon die Verträge von Quarterbacks
 anhand der Vertragssituation von Joe Flacco analysiert habe ([**Wieviel
@@ -50,13 +49,18 @@ lineare Regression hat also etwas gebracht.
 
 Im Folgenden eine kleine Auswahl von sich ergebenden Abhängigkeiten:
 
-[![cb][]][]
-
-[![wr][]][]
-
-[![s][]][]
-
-[![dt][]][]
+<table>
+  <tbody>
+    <tr>
+      <td><a href="|filename|/images/cb.png"><img src="|filename|/images/cb-300x218.png" alt=""></a></td>
+      <td><a href="|filename|/images/wr.png"><img src="|filename|/images/wr-300x218.png" alt=""></a></td>
+    </tr>
+    <tr>
+      <td><a href="|filename|/images/s.png"><img src="|filename|/images/s-300x218.png" alt=""></a></td>
+      <td><a href="|filename|/images/dt.png"><img src="|filename|/images/dt-300x218.png" alt=""></a></td>
+    </tr>
+  </tbody>
+</table>
 
 Warum schreibe ich also diesen Artikel, wenn dabei nichts rauskommt? Zum
 einen, weil man es, wenn man viel mit Daten arbeitet, gewohnt ist, dass
@@ -109,10 +113,6 @@ ein Mike Wallace von den Dolphins 12 Millionen Dollar pro Jahr gezahlt,
 obwohl seine Leistung laut PFF mit -4.5 in 2012 deutlich unter den 13.0
 von Danny Amendola liegt, der von den Patriots nur 5.7 Millionen Dollar
 pro Jahr bekommt.
-
-[caption id="attachment\_2152" align="alignleft" width="300"]![Jared
-Cook hat vom Wettbieten zwischen Rams und Dolphins profitiert.][] Jared
-Cook hat vom Wettbieten zwischen Rams und Dolphins profitiert.[/caption]
 
 Ein ähnliches Beispiel ist TE Jared Cook, der jüngst bei den St. Louis
 Rams unterschrieben hat: ein PFF-Rating von 0.3 brachte ihm einen 35.1
@@ -174,22 +174,9 @@ angewendet werden, darüber hinaus werden aber individuelle Faktoren zu
 bedeutend und umfassend als das man das in ein sinnvolles, anwendbares
 Modell gießen könnte.
 
-  [Mike Wallace: Der Hauptpreis der diesjährigen Free Agency.]: http://footballissexbaby.de/wp-content/uploads/2013/03/mike-wallace-300x239.jpg
-  [**Wieviel sollte Joe Flacco den Ravens wert sein?**]: http://footballissexbaby.de/2013/02/wieviel-sollte-joe-flacco-den-ravens-wert-sein/
-    "Wieviel sollte Joe Flacco den Ravens wert sein?"
-  [**Ein genauerer Blick auf Flaccos Vertrag**]: http://footballissexbaby.de/2013/03/ein-genauerer-blick-auf-flaccos-vertrag/
-    "Ein genauerer Blick auf Flaccos Vertrag"
+  [**Wieviel sollte Joe Flacco den Ravens wert sein?**]:|filename|wieviel-sollte-joe-flacco-den-ravens-wert-sein.md
+  [**Ein genauerer Blick auf Flaccos Vertrag**]: |filename|ein-genauerer-blick-auf-flaccos-vertrag.md
   [ProFootballFocus.com]: https://www.profootballfocus.com
   [Advanced NFL Stats]: http://www.advancednflstats.com
   [Spotrac]: http://www.spotrac.com
-  [cb]: http://footballissexbaby.de/wp-content/uploads/2013/03/cb-300x218.png
-  [![cb][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/cb.png
-  [wr]: http://footballissexbaby.de/wp-content/uploads/2013/03/wr-300x218.png
-  [![wr][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/wr.png
-  [s]: http://footballissexbaby.de/wp-content/uploads/2013/03/s-300x218.png
-  [![s][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/s.png
-  [dt]: http://footballissexbaby.de/wp-content/uploads/2013/03/dt-300x218.png
-  [![dt][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/dt.png
-  [Jared Cook hat vom Wettbieten zwischen Rams und Dolphins
-  profitiert.]: http://footballissexbaby.de/wp-content/uploads/2013/03/jared-cook-300x225.jpg
   [für einzelne Spieler recht gut Vorhersagen machen]: http://www.spotrac.com/premium/research/nfl/contract-prediction-mike-wallace-v2.0-290/

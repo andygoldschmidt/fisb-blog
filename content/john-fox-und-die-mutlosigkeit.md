@@ -10,11 +10,10 @@ vermeintliche Dominanz unter Beweis zu stellen. Stattdessen überraschten
 die Ravens alle durch ein bestens funktionierendes Passspiel gegen eine
 teils desaströse Broncos-Secondary.
 
-<div>
-[caption id="attachment\_1881" align="alignright" width="300"]![John
-"Chancentod" Fox.][] John "Chancentod" Fox.[/caption]
+![John "Chancentod" Fox.][] 
 
-</div>
+John "Chancentod" Fox.
+
 Vor allem Torrey Smith hatte eine Monster-Halbzeit (jedoch tauchte er in
 Hälfte zwei komplett ab). Aber auch das Laufspiel um Ray Rice verhalf
 den Ravens in entscheidenden Situationen zu vielen Yards.
@@ -57,7 +56,7 @@ ab Beginn des vierten Quarters bewegte sich die Win Probability
 
 Schön zu sehen ist das im Win Probability Chart von Brian Burke:
 
-[![wp\_denbal][]][]
+[Win Probability Chart DEL-BAL](http://live.advancednflstats.com/index.php?gameid1=2013011200)
 
 Zur Two-Minute-Warning war die Siegwahrscheinlichkeit von Denver bei 99
 (!) Prozent. Allein durch das konservative Playcalling hat Fox in den
@@ -69,8 +68,8 @@ etwa 75% (ich finde im WP-Chart leider nicht den entsprechenden Punkt
 und muss daher schätzen). Die Entscheidung von John Fox lieber in die
 Overtime zu gehen, statt der Offense eine Chance zu geben hat den
 Broncos noch mal satte 15% Siegwahrscheinlichkeit gekostet. (Ich hätte
-gedacht, es wäre noch mehr, [da auch nach den neunen Overtime-Regeln das
-Team mit der ersten Possession im Vorteil ist][].)
+gedacht, es wäre noch mehr, 
+[da auch nach den neunen Overtime-Regeln das Team mit der ersten Possession im Vorteil ist][].)
 
 Alles in allem muss man also sagen, dass John Fox in 1:15 satte 35%
 Gewinnwahrscheinlichkeit verschenkt hat.
@@ -85,8 +84,5 @@ gewichtigen Anteil daran. Aber wenn ein Coach eine große Chance hat ein
 Playoff-Spiel zu gewinnen, dann muss er diese Chance nutzen und darf sie
 nicht aus Feigheit herschenken.
 
-  [John "Chancentod" Fox.]: http://footballissexbaby.de/wp-content/uploads/2013/01/hi-res-159361675_crop_exact-300x203.jpg
-  [wp\_denbal]: http://footballissexbaby.de/wp-content/uploads/2013/01/wp_denbal.tiff
-  [![wp\_denbal][]]: http://live.advancednflstats.com/index.php?gameid1=2013011200
-  [da auch nach den neunen Overtime-Regeln das Team mit der ersten
-  Possession im Vorteil ist]: http://www.advancednflstats.com/2012/12/markov-model-of-overtime.html
+  [John "Chancentod" Fox.]: |filename|/images/hi-res-159361675_crop_exact-300x203.jpg
+  [da auch nach den neunen Overtime-Regeln das Team mit der ersten Possession im Vorteil ist]: http://www.advancednflstats.com/2012/12/markov-model-of-overtime.html

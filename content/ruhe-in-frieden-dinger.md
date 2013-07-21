@@ -25,6 +25,4 @@ leider verwährt.
 Er starb im Alter von 58 Jahren in Mexiko, wo er sich einer neuartigen
 Therapie unterzog.
 
- 
-
 R.I.P. Dinger!

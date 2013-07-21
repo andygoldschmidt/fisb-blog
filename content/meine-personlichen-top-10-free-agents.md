@@ -21,8 +21,7 @@ Los geht's!
 
  
 
-**<span style="text-decoration:underline;">10. Vonta Leach, FB, Houston
-Texans</span>**
+**10. Vonta Leach, FB, Houston Texans**
 
 Ein Fullback in den Top 10? Ja! Wer auch nur ein Spiel der Texans
 gesehen hat und den Namen Arian Foster vorher noch nie gehört hatte,

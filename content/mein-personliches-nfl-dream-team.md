@@ -14,7 +14,7 @@ hat immer den allerersten Pick.
 
 Nicht lang schnacken... Los geht's!
 
-**<span style="text-decoration:underline;">Offense</span>**
+**Offense**
 
 **Quarterback:***Aaron Rodgers* von den Green Bay Packers. Für mich der
 kompletteste aller NFL-Quarterbacks. Er ist sehr zielgenau (siehe
@@ -94,7 +94,7 @@ zu oft zu Witten werfen würde. Tja, man kann es ihm nicht verübeln.
 Witten war 2010 der einzige Tight End, der mehr als 1000 Receiving Yards
 hatte und das bereits das dritte Mal in seiner Karriere!
 
-<span style="text-decoration:underline;">Defense</span>
+**Defense**
 
 **Defensive Ends:***Justin Tuck*von den New York Giants und *Julius
 Peppers*von den Chicago Bears. Beides gleichermaßen vielseitige
@@ -178,10 +178,4 @@ der besten Defense-Spieler überhaupt.
 So, das ist also mein kleines aber feines Dream Team. Wie immer gilt:
 bei Kritik gern einen Kommentar schreiben :)
 
- 
-
-*In einer früheren Version stand unter Quarterback: "Ganz klar: Aaron
-Rodgers". Das habe ich geändert, da es doch sehr subjektiv und daher
-nicht ganz so klar ist.*
-
-  [meiner Free Agent-Analyse]: https://footballissexbaby.wordpress.com/2011/07/25/meine-personlichen-top-10-free-agents/
+  [meiner Free Agent-Analyse]: |filename|meine-personlichen-top-10-free-agents.md

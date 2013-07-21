@@ -1,6 +1,7 @@
 Title: Point After Touchdown: Sind NFL-Coaches zu konservativ?
 Date: 2012-08-07 09:00
 Author: footballissexbaby
+Category: Analyse
 Tags: Extra Point, Football, Mike Smith, NFL, PAT, Point After Touchdown, Stats, Two Point Conversion
 Slug: point-after-touchdown-sind-nfl-coaches-zu-konservativ
 
@@ -9,11 +10,10 @@ wieder zahllose Touchdowns, Returns und Turnover bewundern dürfen. Bei
 diesem Spektakel übersieht man aber leicht etwas: den **Point After
 Touchdown**.
 
-<div>
-[caption id="attachment\_1085" align="alignright" width="320"]![][]
-Sollten wir das häufiger sehen?[/caption]
+![][]
 
-</div>
+*Sollten wir das häufiger sehen?*
+
 Er geht oft zwischen Werbeunterbrechungen vollkommen unter, und ist für
 die meisten Fans und Beobachter eh so etwas wie ein sicherer Punkt. Zu
 zielgenau und erfolgreich sind die Kicker als das echte Spannung
@@ -32,15 +32,40 @@ Field Goal Unit auf's Feld.
 Schauen wir uns die 622 Fälle, in denen Coaches versuchen zwei Punkte zu
 ergattern, doch mal in Zahlen an:
 
-              Versuche   Erfolge   Erfolgsrate
-  ----------- ---------- --------- -------------
-  Pass        453        203       44.8 %
-  Lauf        169        100       59.2 %
-  **Total**   **622**    **303**   **48.7 %**
+<table class="table">
+<thead>
+<tr>
+<th></th>
+<th>Versuche</th>
+<th>Erfolge</th>
+<th>Erfolgsrate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pass</td>
+<td>453</td>
+<td>203</td>
+<td>44.8 %</td>
+</tr>
+<tr>
+<td>Lauf</td>
+<td>169</td>
+<td>100</td>
+<td>59.2 %</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>622</strong></td>
+<td><strong>303</strong></td>
+<td><strong>48.7 %</strong></td>
+</tr>
+</tbody>
+</table>
 
 Teams versuchen zu **72.8%** die zwei Punkte mit einem Passspiel zu
 erzielen. Zum Vergleich, dass [durchschnittliche Verhältnis von Pass zu
-Lauf ist ungefähr 1.2][], d.h. etwa 55% Pass zu 45% Lauf.
+Lauf ist ungefähr 55% zu 45%][], d.h. etwa 55% Pass zu 45% Lauf.
 
 Es ist also für eine Defense , davon auszugehen, dass die Offense mit
 einem Pass angreift. Entsprechend gut lassen sich 12 Yard durch die
@@ -84,12 +109,10 @@ Es macht schon unter den momentanen Verhältnissen keinen wirklichen
 Unterschied, ob ein Team sich mit einem Punkt begnügt oder versucht zwei
 zu erkämpfen: zu erwarten ist im Mittel ein Punkt.
 
-<div>
-[caption id="attachment\_1053" align="alignright"
-width="300"][![Verteilung von 2-Pt-Conversion nach Quarter][]][]
-Verteilung von 2-Pt-Conversion nach Quarter[/caption]
+[![Verteilung von 2-Pt-Conversion nach Quarter](|filename|/images/2ptconv_qtr-300x188.png)](|filename|/images/2012/08/2ptconv_qtr.png)
 
-</div>
+*Verteilung von 2-Pt-Conversion nach Quarter*
+
 Sieht man sich an, wann Coaches es auf eine Two-Point-Conversion
 ankommen lassen, wird schnell klar, dass sie dies nur tun, wenn sie mit
 dem Rücken zur Wand stehen.
@@ -124,11 +147,7 @@ Erfolgreiche Modelle gibt es zuhauf, es braucht nur mutige Coaches, die
 auch auf die Vorhersage vertrauen und sich nicht von Rückschlägen
 entmutigen lassen!
 
-  []: http://footballissexbaby.de/wp-content/uploads/2012/08/320px-Steelers_Chiefs_goal_line.jpg
-    "320px-Steelers_Chiefs_goal_line"
-  [durchschnittliche Verhältnis von Pass zu Lauf ist ungefähr 1.2]: http://footballissexbaby.de/2011/06/wann-wurde-die-nfl-zur-passing-league/
+  []: |filename|/images/320px-Steelers_Chiefs_goal_line.jpg
+  [durchschnittliche Verhältnis von Pass zu Lauf ist ungefähr 55% zu 45%]: |filename|wann-wurde-die-nfl-zur-passing-league.md
     "Wann wurde die NFL zur Passing league?"
-  [Verteilung von 2-Pt-Conversion nach Quarter]: http://footballissexbaby.de/wp-content/uploads/2012/08/2ptconv_qtr-300x188.png
-    "2ptconv_qtr"
-  [![Verteilung von 2-Pt-Conversion nach Quarter][]]: http://footballissexbaby.de/wp-content/uploads/2012/08/2ptconv_qtr.png
   [die Mathematik seine Entscheidungen untermauere]: http://www.advancednflstats.com/2011/11/falcons-4th-down-in-ot.html

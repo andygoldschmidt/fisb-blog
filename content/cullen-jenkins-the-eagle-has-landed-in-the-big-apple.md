@@ -32,9 +32,7 @@ Cullen Jenkins ist meiner Meinung nach eine sinnvolle Ergänzung, denn
 auch wenn er etwas älter ist, kann er noch sehr wertvoll für sein Team
 sein, wie die Bewertungen von [ProFootballFocus][] zeigen:
 
-[caption id="attachment\_2125" align="aligncenter"
-width="300"][![PFF-Bewertungen für Cullen Jenkins von 2009-2012][]][]
-PFF-Bewertungen für Cullen Jenkins von 2009-2012[/caption]
+[![](|filename|/images/cullen_jenkins_pff-300x218.png)](|filename|/images/cullen_jenkins_pff.png)
 
 Bei der momentanen Situation der Giants ist es sicher gut, eine recht
 günstige, fähige Alternative zu haben. Die Graphik zeigt, dass Jenkins
@@ -56,7 +54,5 @@ geschoben. Da man davon ausgehen darf, dass die Giants sicher noch einen
 DT in der Free Agency oder dem Draft verpflichten, wird es eine harte
 Nuss für Kuhn, auch 2013 wieder den 53-Mann-Kader zu erreichen.
 
-  [![Cullen Jenkins jubelt demnächst in blau.][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/jenkins.jpg
   [ProFootballFocus]: https://www.profootballfocus.com/
-  [PFF-Bewertungen für Cullen Jenkins von 2009-2012]: http://footballissexbaby.de/wp-content/uploads/2013/03/cullen_jenkins_pff-300x218.png
-  [![PFF-Bewertungen für Cullen Jenkins von 2009-2012][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/cullen_jenkins_pff.png
+  

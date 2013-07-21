@@ -1,6 +1,7 @@
 Title: PPA: Wie gut ist eine Offense?
 Date: 2013-01-15 16:02
 Author: footballissexbaby
+Category: Footballmetrics
 Tags: DVOA, EPA, Football, NFL, PPA
 Slug: ppa-wie-gut-ist-eine-offense
 
@@ -42,12 +43,17 @@ aller Teams, das heißt der Mittelwert von PPA ist 0.
 
 Die folgende Tabelle zeigt, welche Parameter in PPA einfließen:
 
-  Statistik                    Koeffizient   Z score
-  ---------------------------- ------------- ---------
-  Net Yards per Pass Attempt   4.10          15.97
-  Interception rate            -52.61        -2.28
-  Rush Yards per Attempt       1.48          3.13
-  Fumble Rate                  -143.49       -2.67
+<table class="table">
+<thead>
+<tr><th>Statistik</th><th>Koeffizient</th><th>Z score</th></tr>
+</thead>
+<tbody>
+<tr><td>Net Yards per Pass Attempt</td><td>4.10</td><td>15.97</td></tr>
+<tr><td>Interception rate</td><td>-52.61</td><td>-2.28</td></tr>
+<tr><td>Rush Yards per Attempt</td><td>1.48</td><td>3.13</td></tr>
+<tr><td>Fumble Rate</td><td>-143.49</td><td>-2.67</td></tr>
+</tbody>
+</table>
 
 Die Signifikanz für alle Prediktoren ist größer als 95%.
 
@@ -58,46 +64,49 @@ Sack-Yards geteilt durch die Summe aus Passversuchen und Sacks. Wenig
 negative Auswirkung hat, wie eine Interception (bei gleich vielen Lauf-
 und Passversuchen).
 
-Die nebenstehende Tabelle zeigt das PPA für jedes Team in der regulären
+Die folgende Tabelle zeigt das PPA für jedes Team in der regulären
 Saison 2012.
 
-<div style="float:right;width:300px;margin-left:20px;">
-  Team                   PPA
-  ---------------------- ------
-  Arizona Cardinals      -9.2
-  Atlanta Falcons        3.4
-  Baltimore Ravens       1.4
-  Buffalo Bills          -1.3
-  Carolina Panthers      3.6
-  Chicago Bears          -2.3
-  Cincinnati Bengals     -1.0
-  Cleveland Browns       -2.5
-  Dallas Cowboys         1.2
-  Denver Broncos         4.1
-  Detroit Lions          0.1
-  Green Bay Packers      2.0
-  Houston Texans         2.5
-  Indianapolis Colts     -0.7
-  Jacksonville Jaguars   -4.1
-  Kansas City Chiefs     -4.9
-  Miami Dolphins         -2.1
-  Minnesota Vikings      -2.2
-  New England Patriots   4.3
-  New Orleans Saints     4.7
-  New York Giants        3.3
-  New York Jets          -5.8
-  Oakland Raiders        -0.7
-  Philadelphia Eagles    -3.2
-  Pittsburgh Steelers    -1.6
-  San Diego Chargers     -3.5
-  San Francisco 49ers    4.6
-  Seattle Seahawks       3.9
-  St. Louis Rams         -0.7
-  Tampa Bay Buccaneers   2.6
-  Tennessee Titans       -2.4
-  Washington Redskins    6.4
+<table class="table table-striped">
+<thead>
+<tr><th>Team</th><th>PPA</th></tr>
+</thead>
+<tbody>
+<tr><td>Arizona Cardinals</td><td>-9.2</td></tr>
+<tr><td>Atlanta Falcons</td><td>3.4</td></tr>
+<tr><td>Baltimore Ravens</td><td>1.4</td></tr>
+<tr><td>Buffalo Bills</td><td>-1.3</td></tr>
+<tr><td>Carolina Panthers</td><td>3.6</td></tr>
+<tr><td>Chicago Bears</td><td>-2.3</td></tr>
+<tr><td>Cincinnati Bengals</td><td>-1.0</td></tr>
+<tr><td>Cleveland Browns</td><td>-2.5</td></tr>
+<tr><td>Dallas Cowboys</td><td>1.2</td></tr>
+<tr><td>Denver Broncos</td><td>4.1</td></tr>
+<tr><td>Detroit Lions</td><td>0.1</td></tr>
+<tr><td>Green Bay Packers</td><td>2.0</td></tr>
+<tr><td>Houston Texans</td><td>2.5</td></tr>
+<tr><td>Indianapolis Colts</td><td>-0.7</td></tr>
+<tr><td>Jacksonville Jaguars</td><td>-4.1</td></tr>
+<tr><td>Kansas City Chiefs</td><td>-4.9</td></tr>
+<tr><td>Miami Dolphins</td><td>-2.1</td></tr>
+<tr><td>Minnesota Vikings</td><td>-2.2</td></tr>
+<tr><td>New England Patriots</td><td>4.3</td></tr>
+<tr><td>New Orleans Saints</td><td>4.7</td></tr>
+<tr><td>New York Giants</td><td>3.3</td></tr>
+<tr><td>New York Jets</td><td>-5.8</td></tr>
+<tr><td>Oakland Raiders</td><td>-0.7</td></tr>
+<tr><td>Philadelphia Eagles</td><td>-3.2</td></tr>
+<tr><td>Pittsburgh Steelers</td><td>-1.6</td></tr>
+<tr><td>San Diego Chargers</td><td>-3.5</td></tr>
+<tr><td>San Francisco 49ers</td><td>4.6</td></tr>
+<tr><td>Seattle Seahawks</td><td>3.9</td></tr>
+<tr><td>St. Louis Rams</td><td>-0.7</td></tr>
+<tr><td>Tampa Bay Buccaneers</td><td>2.6</td></tr>
+<tr><td>Tennessee Titans</td><td>-2.4</td></tr>
+<tr><td>Washington Redskins</td><td>6.4</td></tr>
+</tbody>
+</table>
 
-</div>
 Das Top-Team sind also in dieser Metrik die Washington Redskins. Ihr PPA
 von 6.4 bedeutet, dass sie pro Spiel mit ihrer Offense 6.4 projizierte
 Punkte mehr machen als das durchschnittliche NFL-Team. Das
@@ -146,11 +155,16 @@ gut eine Offense war.
 Zum Abschluss und schonmal als Einstimmung auf das kommende Conference
 Championship-Wochenende die 4 Playoff-Teams einzeln herausgestellt:
 
-  Team                   PPA   Rang
-  ---------------------- ----- ------
-  Atlanta Falcons        3.4   8
-  Baltimore Ravens       1.4   13
-  New England Patriots   4.3   4
-  San Francisco 49ers    4.6   3
+<table class="table">
+<thead>
+<tr><th>Team</th><th>PPA</th><th>Rang</th></tr>
+</thead>
+<tbody>
+<tr><td>Atlanta Falcons</td><td>3.4</td><td>8</td></tr>
+<tr><td>Baltimore Ravens</td><td>1.4</td><td>13</td></tr>
+<tr><td>New England Patriots</td><td>4.3</td><td>4</td></tr>
+<tr><td>San Francisco 49ers</td><td>4.6</td><td>3</td></tr>
+</tbody>
+</table>
 
   [wer ein Spiel gewinnen sollte]: http://www.advancednflstats.com/2007/07/what-makes-teams-win-part-1.html

@@ -3,24 +3,4 @@ Date: 2012-07-02 17:00
 Author: footballissexbaby
 Slug: gfl-ratings-30-6-1-7-2012
 
-  Team                        Rating
-  --------------------------- --------
-  Schwaebisch Hall Unicorns   25.21
-  Stuttgart Scorpions         7.81
-  Saarland Hurricanes         -4.38
-  Rhein-Neckar Bandits        -5.13
-  Marburg Mercenaries         -0.07
-  Munich Cowboys              -11.25
-  Luebeck Cougars             -17.94
-  Kiel Baltic Hurricanes      22.99
-  Hamburg Blue Devils         -18.75
-  Franken Knights             -5.64
-  Duesseldorf Panther         8.98
-  Dresden Monarchs            3.98
-  Braunschweig FFC            -10.00
-  Berlin Rebels               8.27
-  Berlin Adler                2.47
-  Wiesbaden Phantoms          -6.55
-  Home field advantage        4.56
-
-
+<table class="table"><thead><tr><th width="60">Team</th><th width="20">Rating</th></tr></thead><tbody><tr><td>Schwaebisch Hall Unicorns</td><td>25.21</td></tr><tr><td>Stuttgart Scorpions</td><td>7.81</td></tr><tr><td>Saarland Hurricanes</td><td>-4.38</td></tr><tr><td>Rhein-Neckar Bandits</td><td>-5.13</td></tr><tr><td>Marburg Mercenaries</td><td>-0.07</td></tr><tr><td>Munich Cowboys</td><td>-11.25</td></tr><tr><td>Luebeck Cougars</td><td>-17.94</td></tr><tr><td>Kiel Baltic Hurricanes</td><td>22.99</td></tr><tr><td>Hamburg Blue Devils</td><td>-18.75</td></tr><tr><td>Franken Knights</td><td>-5.64</td></tr><tr><td>Duesseldorf Panther</td><td>8.98</td></tr><tr><td>Dresden Monarchs</td><td>3.98</td></tr><tr><td>Braunschweig FFC</td><td>-10.00</td></tr><tr><td>Berlin Rebels</td><td>8.27</td></tr><tr><td>Berlin Adler</td><td>2.47</td></tr><tr><td>Wiesbaden Phantoms</td><td>-6.55</td></tr><tr></tr><tr><td>Home field advantage</td><td>4.56</td></tr></tbody></table>

@@ -23,21 +23,71 @@ beziehungsweise 1 geht.
 
 ### Max-L
 
-  Team                   Conf Win   SB Win
-  ---------------------- ---------- --------
-  Atlanta Falcons        55.5%      30.6%
-  Baltimore Ravens       34.6%      12.5%
-  New England Patriots   65.4%      34.7%
-  San Francisco 49ers    44.5%      22.2%
+<table class="table">
+  <thead>
+    <tr>
+      <th>Team</th>
+      <th>Conf Win</th>
+      <th>SB Win</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Atlanta Falcons</td>
+      <td>55.5%</td>
+      <td>30.6%</td>
+    </tr>
+    <tr>
+      <td>Baltimore Ravens</td>
+      <td>34.6%</td>
+      <td>12.5%</td>
+    </tr>
+    <tr>
+      <td>New England Patriots</td>
+      <td>65.4%</td>
+      <td>34.7%</td>
+    </tr>
+    <tr>
+      <td>San Francisco 49ers</td>
+      <td>44.5%</td>
+      <td>22.2%</td>
+    </tr>
+  </tbody>
+</table>
 
 ### FISB
 
-  Team                   Conf Win   SB Win
-  ---------------------- ---------- --------
-  Atlanta Falcons        47.2%      20.0%
-  Baltimore Ravens       10.8%      2.1%
-  New England Patriots   89.2%      48.9%
-  San Francisco 49ers    52.8%      29.1%
+<table class="table">
+  <thead>
+    <tr>
+      <th>Team</th>
+      <th>Conf Win</th>
+      <th>SB Win</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Atlanta Falcons</td>
+      <td>47.2%</td>
+      <td>20.0%</td>
+    </tr>
+    <tr>
+      <td>Baltimore Ravens</td>
+      <td>10.8%</td>
+      <td>2.1%</td>
+    </tr>
+    <tr>
+      <td>New England Patriots</td>
+      <td>89.2%</td>
+      <td>48.9%</td>
+    </tr>
+    <tr>
+      <td>San Francisco 49ers</td>
+      <td>52.8%</td>
+      <td>29.1%</td>
+    </tr>
+  </tbody>
+</table>
 
 Als dringendes Todo für die Offseason ist auf jeden Fall eine bessere
 und verlässlichere Berechnung von Siegwahrscheinlichkeiten vermerkt.

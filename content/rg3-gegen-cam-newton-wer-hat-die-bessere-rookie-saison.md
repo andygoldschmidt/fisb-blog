@@ -1,6 +1,7 @@
 Title: RG3 oder Cam Newton: Wer hat die bessere Rookie-Saison?
 Date: 2012-10-18 15:00
 Author: footballissexbaby
+Category: Analyse
 Tags: Cam Newton, Carolina Panthers, Football, NFL, Quarterback, RG3, Robert Griffin III, Washington Redskins
 Slug: rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison
 
@@ -12,12 +13,10 @@ Während Newton in seinem zweiten Jahr etwas strauchelt, tritt Griffin in
 die Fußstapfen des letztjährigen *1st overall picks* und begeistert
 durch hervorragende Leistungen.
 
-<div>
-[caption id="attachment\_1526" align="alignright" width="300"]![][]
-Dieser junge Mann lässt dunkle Redskins-Jahre schnell
-vergessen.[/caption]
+![][]
 
-</div>
+*Dieser junge Mann lässt dunkle Redskins-Jahre schnell vergessen.*
+
 Äußerlich sind beide recht verschieden: Cam Newton ist 1,95 m groß und
 112 kg schwer, man kann getrost groß und kräftig sagen. Robert Griffin
 III dagegen ist mit 1,88 m für einen Quarterback eher klein und mit 101
@@ -70,10 +69,30 @@ vergleichen (auch wenn überraschenderweise beide Teams große
 Ähnlichkeiten aufweisen). Auch die erzielten Punkte sind nicht unbedingt
 aussagekräftig, aber der Blick darauf lohnt sich dennoch:
 
-                       Punkte Ø   Punkte Ø Y-1   Punkte Ø Saisonende
-  -------------------- ---------- -------------- ---------------------
-  Cam Newton           22.2       12.2           25.4
-  Robert Griffin III   29.7       18.0           -
+<table class="table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Punkte Ø</th>
+      <th>Punkte Ø Y-1</th>
+      <th>Punkte Ø Saisonende</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cam Newton</td>
+      <td>22.2</td>
+      <td>12.2</td>
+      <td>25.4</td>
+    </tr>
+    <tr>
+      <td>Robert Griffin III</td>
+      <td>29.7</td>
+      <td>18.0</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 Hierbei bezeichnet *Punkte Ø* die Punkte pro Spiel nach 6 Saisonspielen
 und *Punkte Ø Y-1* die durchschnittliche Punktausbeute pro Spiel im
@@ -92,7 +111,7 @@ Einen ersten guten Eindruck gibt meist die *Completion Percentage*. Der
 Verlauf nach den ersten 6 Spielen sieht bei den beiden Quarterbacks so
 aus:
 
-[![][1]][]
+[![](|filename|/images/cmp_percentage-300x245.png)](|filename|/images/cmp_percentage.png)
 
 Man muss kein Experte sein, um zu sehen, dass RG3 in dieser Kategorie
 die Nase klar vorn hat: er hat im Mittel 70.3% seiner Pässe an den Mann
@@ -113,7 +132,7 @@ Pass erzielt wird. Dafür bemüht man am besten die *Yards per Attempt*,
 da diese Größe im Gegensatz zu *Yards per Completion* aussagekräftiger
 und unabhängiger von der Completion Percentage ist.
 
-[![][2]][]
+[![](|filename|/images/yards_per_attempt-300x245.png)](|filename|/images/yards_per_attempt.png)
 
 Schaut man sich die Grafik an, ist es kaum möglich einen Sieger zu
 benennen, auch die Zahlen sprechen für ein klares Unentschieden: Robert
@@ -128,7 +147,7 @@ klassischen NFL-Quarterback ab. Schauen wir uns also an, wie erfolgreich
 beide waren, wenn sie ihr Hauptbetätigungsfeld verlassen haben und mit
 dem Ball durchgestartet sind:
 
-[![][3]][]
+[![](|filename|/images/yards_per_rush-300x245.png)](|filename|/images/yards_per_rush.png)
 
 Auch hier hat Robert Griffin III wieder einen leichten Vorteil, er läuft
 für durchschnittlich 6.7 Yards pro Versuch, Cam Newton für 4.4, im
@@ -146,10 +165,33 @@ Quarter vorzeitig verlassen musste. Daher betrachte ich im Folgenden nur
 Yards pro Spiel und berücksichtige bei Griffin das Spiel in Woche 5
 nicht.
 
-                       Pass-Yards   Lauf-Yards   Gesamt-Yards   Pass-Lauf-Verh.
-  -------------------- ------------ ------------ -------------- -----------------
-  Cam Newton           307.8        34.5         342.3          0.83
-  Robert Griffin III   250.4        74.4         327.8          0.73
+<table class="table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Pass-Yards</th>
+      <th>Lauf-Yards</th>
+      <th>Gesamt-Yards</th>
+      <th>Pass-Lauf-Verh.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cam Newton</td>
+      <td>307.8</td>
+      <td>34.5</td>
+      <td>342.3</td>
+      <td>0.83</td>
+    </tr>
+    <tr>
+      <td>Robert Griffin III</td>
+      <td>250.4</td>
+      <td>74.4</td>
+      <td>327.8</td>
+      <td>0.73</td>
+    </tr>
+  </tbody>
+</table>
 
 Die letzte Spalte bezeichnet das Pass-zu-Lauf-Verhältnis, also die
 Anzahl an Pässen geteilt durch die Anzahl an Läufen. Wie bereits oben
@@ -164,10 +206,39 @@ keine Anspielstation findet.
 Werfen wir abschließend noch einen Blick auf die Touchdowns und
 Interceptions:
 
-                       TD Pass   TD Lauf   Int   Fum   Σ TD   Σ TO
-  -------------------- --------- --------- ----- ----- ------ ------
-  Cam Newton           7         6         9     2     13     11
-  Robert Griffin III   5         6         2     5     11     7
+<table class="table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>TD Pass</th>
+      <th>TD Lauf</th>
+      <th>Int</th>
+      <th>Fum</th>
+      <th>Σ TD</th>
+      <th>Σ TO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cam Newton</td>
+      <td>7</td>
+      <td>6</td>
+      <td>9</td>
+      <td>2</td>
+      <td>13</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>Robert Griffin III</td>
+      <td>5</td>
+      <td>6</td>
+      <td>2</td>
+      <td>5</td>
+      <td>11</td>
+      <td>7</td>
+    </tr>
+  </tbody>
+</table>
 
 Während Cam Newton fahrlässig mit Pässen umging, hat RG3 Probleme, den
 Ball festzuhalten. Die vier Turnover weniger von Griffin können am Ende
@@ -189,14 +260,4 @@ Jahr halten und in einigen Aspekten sogar verbessern. Wenn Robert
 Griffin III das Gleiche schafft, reiht er sich zweifelsohne in die Reihe
 "Beste Rookie-Saisons aller Zeiten" ein.
 
-  []: http://footballissexbaby.de/wp-content/uploads/2012/10/rg3-300x202.jpg
-    "RG3"
-  [1]: http://footballissexbaby.de/wp-content/uploads/2012/10/cmp_percentage-300x245.png
-    "cmp_percentage"
-  [![][1]]: http://footballissexbaby.de/wp-content/uploads/2012/10/cmp_percentage.png
-  [2]: http://footballissexbaby.de/wp-content/uploads/2012/10/yards_per_attempt-300x245.png
-    "yards_per_attempt"
-  [![][2]]: http://footballissexbaby.de/wp-content/uploads/2012/10/yards_per_attempt.png
-  [3]: http://footballissexbaby.de/wp-content/uploads/2012/10/yards_per_rush-300x245.png
-    "yards_per_rush"
-  [![][3]]: http://footballissexbaby.de/wp-content/uploads/2012/10/yards_per_rush.png
+  []: |filename|/images/rg3-300x202.jpg

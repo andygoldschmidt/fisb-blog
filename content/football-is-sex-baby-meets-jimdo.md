@@ -13,10 +13,6 @@ football-spezifisch mit Daten rumgespielt, sondern habe das zu meinem
 Job gemacht. Möglich wurde das durch die Hamburger Internet-Firma Jimdo,
 bei der ich seit einem Monat im Data-Team arbeite.
 
-<div>
-[![jimdo\_logo][]][]
-
-</div>
 Nun würde ich euch nicht mit meinem Berufsleben langweilen, wenn es
 nicht eine Verbindung zu diesem Blog geben würde: denn ich bin mir
 sicher, ohne meine Arbeit auf [footballissexbaby.de][] hätte ich diesen
@@ -56,10 +52,7 @@ einem ungeheuren Spaß bringt. Man muss eben nur etwas dafür tun, immer
 und immer wieder. Und irgendwann stolpert man über die Stellenanzeige,
 hinter der sich der persönliche Traumjob verbirgt!
 
-  [die unverhersagbare Bezahlung von Free Agents]: http://footballissexbaby.de/2013/03/die-unvorhersagbare-free-agency/
+  [die unverhersagbare Bezahlung von Free Agents]: |filename|die-unvorhersagbare-free-agency.md
     "Die unvorhersagbare Free Agency"
-  [die Success Rate von Running Backs]: http://footballissexbaby.de/2013/05/die-erfolgsquote-der-running-backs/
-    "Die Erfolgsquote der Running Backs"
-  [jimdo\_logo]: http://footballissexbaby.de/wp-content/uploads/2013/05/jimdo_logo-300x108.jpg
-  [![jimdo\_logo][]]: http://www.jimdo.de
+  [die Success Rate von Running Backs]: |filename|die-erfolgsquote-der-running-backs.md
   [footballissexbaby.de]: http://www.footballissexbaby.de

@@ -15,7 +15,7 @@ Leistungsträger sind abgewandert, es wurden kaum neue Spieler
 verpflichtet und die Verletzungsmisere in der Defense erscheint wie ein
 Fluch.
 
-**<span style="text-decoration:underline;">Die Abgänge:</span>**
+**Die Abgänge:**
 
 Gleich zu Beginn der Offseason, sprich direkt nach dem Lockout-Ende, hat
 man die Offensive Line kräftig durcheinandergewirbelt, in dem man sich
@@ -36,13 +36,13 @@ immer da, wenn es darauf ankam und außerdem war er ein hervorragender
 Blocker, eine sehr wichtige Eigenschaft für einen Tight End in New Yorks
 lauforientierter Offense.
 
-**<span style="text-decoration:underline;">Die Zugänge:</span>**
+**Die Zugänge:**
 
 Das ist recht übersichtlich. Einziger wirklich nennenswerter Zugang ist
 der neue Starting Center David Baas, der bisher bei den San Francisco
 49ers gespielt hat.
 
-**<span style="text-decoration:underline;">Roster Breakdown:</span>**
+**Roster Breakdown:**
 
 **Quarterback:**Ja, ich bin ein Eli Manning Fan und ja, ich glaube er
 ist ein Quarterback, den man in den Top 5 ansiedeln sollte. Manning hat
@@ -229,7 +229,7 @@ oftmals in Three-Safety-Sets zum Einsatz kam. Die Giants dürften recht
 zufrieden mit dieser Gruppe sein, zumal das die einzige Position in der
 Defense ist, die vom Verletzungspech verschont blieb.
 
-**<span style="text-decoration:underline;">Die Schedule:</span>**
+**Die Schedule:**
 
 Die NFC East hat es wirklich in sich: Washington dürfte die schwächste
 Mannschaft sein, zwei Siege sind hier fast schon Pflicht. Daneben warten
@@ -243,7 +243,7 @@ sollte man sicher auch die Miami Dolphins nicht unterschätzen. Außerdem
 warten mit den New Orleans Saints und dem amtierenden Super Bowl-Sieger,
 den Green Bay Packers, noch zwei weitere Spitzenmannschaften.
 
-**<span style="text-decoration:underline;">Fazit:</span>**
+**Fazit:**
 
 Diese Saison wird richtig hart für die Giants. Realistisch betrachtet
 muss man wohl sagen, dass man nach all dem Verletzungspech und dem

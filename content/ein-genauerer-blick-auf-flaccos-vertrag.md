@@ -1,6 +1,7 @@
 Title: Ein genauerer Blick auf Flaccos Vertrag
 Date: 2013-03-08 17:04
 Author: footballissexbaby
+Category: Analyse
 Tags: Baltimore Ravens, Contract, Joe Flacco, Salary Cap
 Slug: ein-genauerer-blick-auf-flaccos-vertrag
 
@@ -14,15 +15,15 @@ wären mit dem Franchise Tag am besten bedient. Doch es kam mal wieder
 anders als gedacht. Im Folgenden möchte ich einen etwas genaueren Blick
 auf den Vertrag werfen.
 
-Auf den ersten Blick klingt der Vertrag monstös: 6 Jahre Laufzeit,
+Auf den ersten Blick klingt der Vertrag monströs: 6 Jahre Laufzeit,
 Gesamtvolumen 120.6 Millionen Dollar, davon 29 Millionen Dollar
 garantiert.
 
 Doch wie so oft bei Verträgen in der NFL heißt das längst nicht, dass
 Flacco auch wirklich 120.6 Millionen bekommen wird. Wirklich sicher sind
-ihm derzeit "nur" die 29 Millionen \$ des *Signing Bonus*. Dazu kommen
+ihm derzeit "nur" die 29 Millionen $ des *Signing Bonus*. Dazu kommen
 weitere 15 Millionen zu Beginn der Saison 2014 und nochmal 7 Millionen
-\$ zu Beginn des Ligajahres 2015.
+$ zu Beginn des Ligajahres 2015.
 
 Realistisch betrachtet, hat er 51 Millionen Dollar garantiert, technisch
 gesehen sind sie aber nur im Falle einer (mehrjährigen) Verletzung
@@ -32,7 +33,7 @@ Dazu kommt dann aber noch das normale Gehalt, das *Base Salary*. Wie das
 ganze Geld genau verteilt ist und was es für die Ravens tatsächlich
 kostet, zeigt die folgende Tabelle:
 
-<table>
+<table class="table table-striped">
 <thead>
 <tr>
 <th>
@@ -219,11 +220,10 @@ Dead Money
 </td>
 </tr>
 </tbody>
-<caption align="bottom">
-Joe Flacco's Vertragsdaten. Quelle: [Spotrac][]
-
-</caption>
 </table>
+
+(Joe Flacco's Vertragsdaten. Quelle: [Spotrac][] )
+
 Man sieht, das *Base Salary* ist in den ersten drei Jahren jeweils recht
 gering. Der *Signing Bonus* von 29 Millionen Dollar wurde Joe Flacco
 zwar sofort nach Vertragsunterzeichnung überwiesen, jedoch taucht der
@@ -256,9 +256,7 @@ Bonus wird dann über die verbleibenden vier Vertragsjahre verteilt (also
 Sieht man sich das ganze graphisch an, sieht man sehr schnell, wann es
 für die Ravens wirklich ungemütlich wird:
 
-[caption id="attachment\_2112" align="aligncenter" width="300"][![Joe
-Flaccos Cap Hit für die Baltimore Ravens.][]][] Joe Flaccos Cap Hit für
-die Baltimore Ravens.[/caption]
+[![Joe Flaccos Cap Hit für die Baltimore Ravens.](|filename|/images/flacco_cap_hit-300x200.png)](|filename|/images/flacco_cap_hit.png)
 
 Die ersten drei Jahre sind also durchaus noch vertretbar, ein *Cap Hit*
 von fast 15 Millionen Dollar (ca. 8% des Salary Caps) für einen
@@ -291,9 +289,7 @@ man dann folgerichtig auch *Dead Money*.
 Die folgende Graphik zeigt den Cap Hit von Joe Flacco und die jeweilige
 Dead Money:
 
-[caption id="attachment\_2114" align="aligncenter" width="300"][![Cap
-Hit und Dead Money für Joe Flacco][]][] Cap Hit und Dead Money für Joe
-Flacco[/caption]
+[![Cap Hit und Dead Money für Joe Flacco](|filename|/images/flacco_dead_money-300x200.png)](|filename|/images/flacco_dead_money.png)
 
 Man sieht sofort, dass Joe Flacco in den ersten drei Jahren absolut
 sicher in Baltimore bleiben wird, sein *Cap Hit* ist wesentlich geringer
@@ -354,9 +350,7 @@ Im Zuge der neuen Verträge von Joe Flacco und Tom Brady habe ich
 übrigens auch die Regression für das Durchschnittsgehalt gemessen an
 EPA/P aktualisiert:
 
-[caption id="attachment\_2119" align="aligncenter"
-width="300"][![Durchschnittsgehalt in Abhängigkeit von EPA/P.][]][]
-Durchschnittsgehalt in Abhängigkeit von EPA/P.[/caption]
+[![Durchschnittsgehalt in Abhängigkeit von EPA/P.](|filename|/images/epa_vs_salary.png)](|filename|/images/epa_vs_salary.png)
 
 Der Vertrag von Flacco hat das zu erwartende Gehalt für Quarterbacks
 zwar nach oben getrieben, dennoch ist er nach derzeitigem Stand extrem
@@ -365,13 +359,9 @@ immer so spielen, wie in der vergangenen Postseason.
 
 Die ganze Ravens-Organisation wird darauf hoffen, dass er es schafft.
 
-  [einen Blick auf die Vetragssituation geworfen]: http://footballissexbaby.de/2013/02/wieviel-sollte-joe-flacco-den-ravens-wert-sein/
+  [einen Blick auf die Vetragssituation geworfen]: |filename|wieviel-sollte-joe-flacco-den-ravens-wert-sein.md
     "Wieviel sollte Joe Flacco den Ravens wert sein?"
   [Spotrac]: http://www.spotrac.com/nfl/baltimore-ravens/joe-flacco/
-  [Joe Flaccos Cap Hit für die Baltimore Ravens.]: http://footballissexbaby.de/wp-content/uploads/2013/03/flacco_cap_hit-300x200.png
-  [![Joe Flaccos Cap Hit für die Baltimore Ravens.][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/flacco_cap_hit.png
+
   [nicht ungewöhnlich]: http://www.spotrac.com/top-salaries/nfl/cap-hit/quarterback/
-  [Cap Hit und Dead Money für Joe Flacco]: http://footballissexbaby.de/wp-content/uploads/2013/03/flacco_dead_money-300x200.png
-  [![Cap Hit und Dead Money für Joe Flacco][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/flacco_dead_money.png
-  [Durchschnittsgehalt in Abhängigkeit von EPA/P.]: http://footballissexbaby.de/wp-content/uploads/2013/03/epa_vs_salary-300x218.png
-  [![Durchschnittsgehalt in Abhängigkeit von EPA/P.][]]: http://footballissexbaby.de/wp-content/uploads/2013/03/epa_vs_salary.png
+  

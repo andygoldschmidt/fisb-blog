@@ -24,7 +24,7 @@ Spiel den Spitzenplatz von Kiel erobert. Allerdings hauchdünn. Daher
 sage ich anhand der Rankings: *too close to call*!
 
 Mein persönlicher Tipp ist aber Schwäbisch Hall. Das ist zwar eine
-Ferndiagnose, aber [ich mag Unicorns-QB Aaron Boehme][]und ich drücke
+Ferndiagnose, aber [ich mag Unicorns-QB Aaron Boehme][] und ich drücke
 den tendenziellen Underdogs meist die Daumen. Leider kann ich das Spiel
 nicht live sehen, aber zum Glück gibt es ja Fernsehen.
 
@@ -33,8 +33,6 @@ Eurosport**gucken! Das Spiel wird ganz sicher sehenswert!
 
  
 
-  [Gb team]: http://footballissexbaby.de/wp-content/uploads/2011/10/gb_team.png
-    "gb_team.png"
-  [Gb rating]: http://footballissexbaby.de/wp-content/uploads/2011/10/gb_rating.png
-    "gb_rating.png"
-  [ich mag Unicorns-QB Aaron Boehme]: https://footballissexbaby.wordpress.com/2011/06/21/aaron-boehme-ein-geschenk-fur-die-gfl/
+  [Gb team]: |filename|/images/gb_team.png
+  [Gb rating]: |filename|/images/gb_rating.png
+  [ich mag Unicorns-QB Aaron Boehme]: |filename|aaron-boehme-ein-geschenk-fur-die-gfl.md

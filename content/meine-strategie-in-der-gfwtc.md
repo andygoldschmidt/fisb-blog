@@ -1,11 +1,12 @@
 Title: Meine Strategie in der GFWTC
 Date: 2013-06-30 12:08
 Author: footballissexbaby
+Category: GFWTC
 Tags: Clay Matthews, Colin Kaepernick, GFWTC, Hakeem Nicks
 Slug: meine-strategie-in-der-gfwtc
 
-Am Mittwoch ging es endlich mit der [German Football Writers
-Teambuilding Challenge][] (auf Twitter [@GFWTC][]) los. Das ist ein
+Am Mittwoch ging es endlich mit der [German Football Writers Teambuilding Challenge][]
+(auf Twitter [@GFWTC][]) los. Das ist ein
 Projekt von 10 deutschen Football-Bloggern und -Twitter-Usern, bei dem
 es darum geht in einem Draft sein Wunschteam zusammenzubauen. Dabei kann
 man aus allen aktiven NFL-Spielern wählen, die keine Rookies mehr sind.

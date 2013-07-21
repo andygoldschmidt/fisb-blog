@@ -17,11 +17,36 @@ benutzt.
 
 Schauen wir uns ein paar nackte Zahlen zu den Kickoffs an:
 
-               2002-2011   2002-2011 Ø   2011
-  ------------ ----------- ------------- ------
-  Kickoffs     22707       2523          2530
-  Touchbacks   2662        296           1108
-  Touchdowns   156         17            10
+<table class="table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>2002-2011</th>
+            <th>2002-2011 Ø</th>
+            <th>2011</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Kickoffs</td>
+            <td>22707</td>
+            <td>2523</td>
+            <td>2530</td>
+        </tr>
+        <tr>
+            <td>Touchbacks</td>
+            <td>2662</td>
+            <td>296</td>
+            <td>1108</td>
+        </tr>
+        <tr>
+            <td>Touchdowns</td>
+            <td>156</td>
+            <td>17</td>
+            <td>10</td>
+        </tr>
+    </tbody>
+</table>
 
 Während man bei den Touchdowns etwas vorsichtig sein muss, da die
 Datenmenge da sehr überschaubar ist, kann man feststellen, dass die
@@ -36,7 +61,8 @@ zuschreiben kann.
 Schauen wir uns nun an, wie sich die Feldposition für die Offense nach
 einem Kickoff geändert hat (Klick aufs Bild für bessere Auflösung):
 
-[gallery link="file" columns="2"]
+<a href="|filename|/images/2002-2010_with_tb.png"><img src="|filename|/images/2002-2010_with_tb_thumb.png" alt=""></a>
+<a href="|filename|/images/2011_with_tb.png"><img src="|filename|/images/2011_with_tb_thumb.png" alt=""></a>
 
 Man sieht, dass vor der Regeländerung viele Drives nach Kickoffs
 zwischen der eigenen 20 und der eigenen 30-Yard-Linie begonnen haben.

@@ -42,18 +42,14 @@ alle Ergebnisse über 60 Yards in einem Abschnitt zusammengefasst.
 Vergleicht man den Durchschnitt der Jahre 2002-2011 mit den Daten von
 2012 ergibt sich folgendes Bild:
 
-[caption id="attachment\_1763" align="aligncenter"
-width="300"][![][1]][] Vergleich des Durchschnitts von 2002-2011 mit der
-aktuellen Saison.[/caption]
+[![](|filename|/images/fg-durchschschnitt-300x212.png)](|filename|/images/fg-durchschschnitt.png)
 
 Es ist wenig überraschend, dass die Saison 2012 deutlich über dem
 Durchschnitt liegt, denn die Tatsache, dass Kicker in den letzten 10
 Jahren immer besser wurden, ist wohl unumstritten. Es ist also ganz
 sinnvoll, sich die letzten drei Jahre gesondert anzusehen:
 
-[caption id="attachment\_1764" align="aligncenter"
-width="300"][![][2]][] Field Goal Effizienz der Jahre 2010 bis
-2012.[/caption]
+[![](|filename|/images/fg-3yrs-300x212.png)](|filename|/images/fg-3yrs.png)
 
 Man kann ganz gut erkennen, dass in dieser Saison die Treffsicherheit
 bei Field Goals auf einem Rekordhoch ist, vor allem sehr lange Field
@@ -63,9 +59,7 @@ früheren Jahren.
 Ein Blick auf die Entwicklung von 45+ Yard Field Goals zeigt eine
 interessante Entwicklung:
 
-[caption id="attachment\_1767" align="aligncenter"
-width="300"][![][3]][] 45+ Yards Field Goal Effizienz von 2002 bis
-2012.[/caption]
+[![](|filename|/images/fg_45-55-300x213.png)](|filename|/images/fg_45-55.png)
 
 Bei Field Goals zwischen 50-55 Yards hat sich kaum etwas getan, die
 Trefferwahrscheinlichkeit stieg um etwa 5%, bei 45-50 Yards ist die
@@ -75,7 +69,7 @@ wahrscheinlicher geworden sind.
 
 Sieht man sich das im Detail an, sieht das wie folgt aus:
 
-[![][4]][]
+[![](|filename|/images/fg_55-60-300x213.png)](|filename|/images/fg_55-60.png)
 
 Die Wahrscheinlichkeit von 55+ Yards zu treffen lag 2002 noch bei
 lediglich 20%, mittlerweile liegt sie bei fast 60%. Das ist eine
@@ -110,18 +104,4 @@ liegen lässt. Es könnte also durchaus sein, dass Kicker in den nächsten
 Jahren etwas aus dem Schattendasein treten und eine wichtigere Rolle
 spielen werden.
 
-  []: http://footballissexbaby.de/wp-content/uploads/2012/12/greg_zuerlein-300x200.jpg
-    "greg_zuerlein"
   [Play-by-Play Daten]: http://www.advancednflstats.com/2010/04/play-by-play-data.html
-  [1]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg-durchschschnitt-300x212.png
-    "fg-durchschschnitt"
-  [![][1]]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg-durchschschnitt.png
-  [2]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg-3yrs-300x212.png
-    "fg-3yrs"
-  [![][2]]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg-3yrs.png
-  [3]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg_45-55-300x213.png
-    "fg_45-55"
-  [![][3]]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg_45-55.png
-  [4]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg_55-60-300x213.png
-    "fg_55-60"
-  [![][4]]: http://footballissexbaby.de/wp-content/uploads/2012/12/fg_55-60.png

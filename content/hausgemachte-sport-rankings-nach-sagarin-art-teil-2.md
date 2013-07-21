@@ -33,8 +33,9 @@ davon aus, dass jedes Team pro Spieltag einmal spielt. Nach zwei
 Spieltagen wären dann also 14 Spiele absolviert; das ergibt mathematisch
 gesehen, ein lineares Gleichungssystem von 14 Gleichung mit 15
 Unbekannten (14 Teams + Heimvorteil). Dieses Problem kann man iterativ
-lösen, wie bereits in Teil 1 kurz umrissen. Dabei geht man wie folgt
-vor:
+lösen, wie bereits in Teil 1 kurz umrissen. 
+
+Dabei geht man wie folgt vor:
 
 1.  Festlegen eines Anfangsratings und eines Heimvorteils
 2.  Vergleichen der echten Punktedifferenz mit der Differenz der
@@ -52,7 +53,7 @@ Hilfe eines herkömmlichen Computers kann man selbst große
 Gleichungssysteme schnell und einfach lösen.
 
 (Die Idee und viele Hilfen bei der Implementierung habe ich übrigens auf
-der hervorragenden Seite <http://codeandfootball.wordpress.com>
+der hervorragenden Seite [Code and Football](http://codeandfootball.wordpress.com)
 gefunden!)
 
 Das Problem ist hierbei, dass sich die Art des Gleichungssystems ändert.
@@ -118,22 +119,23 @@ sind, man kann die letzte Gleichung einfach umformen und erhält:
 **x = U\_t \* S' \* V y**
 
 **S'** erhält man, in dem man die n Singulärwerte aus
-**S<span style="font-weight:normal;"> invertiert, bzw. Null setzt, falls
+**S** invertiert, bzw. Null setzt, falls
 sie kleiner als ein gewisser Schwellwert sind (abhängig von der
-numerischen Genauigkeit des Computers).</span>**
+numerischen Genauigkeit des Computers).
 
-Nun hat man also den Vektor **x<span style="font-weight:normal;">
-berechnet, der alle gewünschten Teamratings beinhatet. *Voila*!</span>**
+Nun hat man also den Vektor **x** berechnet, der alle gewünschten Teamratings
+beinhatet. *Voila*!
 
 Oder etwa doch nicht? Hab ich nicht vorher noch geschrieben, dass ein
 überbestimmtes Gleichungssystem eben nicht eindeutig lösbar ist und
 oftmals gar nicht? Ja, das stimmt. Allerdings liefert diese Matrix immer
 eine Lösung (zumindest habe ich noch nie etwas anderes festgestellt).
 Ich bin mir nicht sicher, ob das allein schon deswegen zustande kommt,
-dass die lineare Unabhängigkeit erfüllt ist. Zum anderen Punkt, der
-Eindeutigkeit: Die SVD liefert nur eine Näherungslösung, das Problem
-||**Ax = y||\^2<span style="font-weight:normal;"> wird hierbei
-minimiert.</span>**
+dass die lineare Unabhängigkeit erfüllt ist. 
+
+Zum anderen Punkt, der Eindeutigkeit: Die SVD liefert nur eine Näherungslösung, 
+das Problem **||Ax = y||^2** wird hierbei
+minimiert.
 
 Man erhält also unterm Strich die gleiche Lösung, die man auch mit dem
 iterativen Verfahren erhalten hätte, allerdings mathematisch eleganter
@@ -146,4 +148,4 @@ Es war jedenfalls ganz hilfreich, dass ganze mal ordentlich
 aufzuschreiben, da man schnell vergisst, was hinter der Berechnung
 steckt, wenn man sie nur anwendet.
 
-  [hier]: https://footballissexbaby.wordpress.com/2011/05/31/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
+  [hier]: |filename|hausgemachte-sport-rankings-nach-sagarin-art-teil-1.md

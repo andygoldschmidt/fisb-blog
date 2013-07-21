@@ -9,16 +9,14 @@ und [hier][1]. Jedoch war das Rating eines Teams bisher bloß eine
 abstrakte Zahl. Hat ein Team ein Rating von Null, so heißt das, es ist
 ein durchschnittliches Team und je höher ein Rating umso besser.
 
-<div>
-[caption id="attachment\_1096" align="alignright" width="250"]![][]
-Arpad Elo, der Erfinder der Elo-Zahl. Copyright:
-[chessbase.com][][/caption]
+![][]
 
-</div>
+Arpad Elo, der Erfinder der Elo-Zahl. Copyright: [chessbase.com][]
+
 Trifft nun Heimteam A auf Gastteam B, so berechnet sich die Vorhersage
 für den Sieger recht leicht:
 
-[latex]W(A, B) = R(A) - R(B) + H[/latex]
+$W(A, B) = R(A) - R(B) + H$
 
 Hierbei sind R(A) und R(B) die Ratings des jeweiligen Teams und H ist
 der Heimvorteil.
@@ -27,7 +25,7 @@ Nehmen wir also an, dass Team A ein Rating von 9.8 hat, Team B ein
 Rating von 1.4 und der Heimvorteil 3 Punkte beträgt, so würde man
 erwarten:
 
-[latex]W(A, B) = 9.8 - 1.4 + 3.0 = 11.4[/latex]
+$W(A, B) = 9.8 - 1.4 + 3.0 = 11.4$
 
 Team A würde in diesem Szenario also laut Ranking-System als Sieger den
 heimischen Platz verlassen, da die Differenz der Ratings positiv ist.
@@ -55,11 +53,11 @@ hoch die Siegwahrscheinlichkeit ist).
 
 Dieser Erwartungswert ergibt sich für Spieler A wie folgt:
 
-[latex size="2"]E(A) = \\frac{1}{1 + 10\^{(R(A) - R(B))/400}}[/latex]
+$E(A) = \frac{1}{1 + 10^{(R(A) - R(B))/400}}$
 
 Und analog für Spieler B:
 
-[latex size="2"]E(B) = \\frac{1}{1 + 10\^{(R(B) - R(A))/400}}[/latex]
+$E(B) = \frac{1}{1 + 10^{(R(B) - R(A))/400}}$
 
 Nun ist es aber so, dass Schach und Football nicht viel miteinander zu
 tun haben, auch wenn man letzteres gern mal als Rasenschach bezeichnet.
@@ -71,7 +69,7 @@ Schauen wir uns das Ganze mal etwas genauer an:
 Der Erwartungswert des Elo-Ratings ist mathematisch gesehen eine
 sogenannte [logistische Funktion][]. Diese hat folgende generelle Form:
 
-[latex size="2"]P(t) = \\frac{1}{1 + e\^{-t}}[/latex]
+$P(t) = \frac{1}{1 + e^{-t}}$
 
 Die logisitische Funktion ist in Natur, Physik, Sozialwissenschaften und
 eben Logistik gleichermaßen wichtig. Sie beschreibt beispielsweise das
@@ -82,9 +80,9 @@ Veränderung der Sprache.
 Darüber hinaus besitzt sie einige für Ranking-Systeme sehr interessante
 Eigenschaften:
 
--   für x \>\> 0 nähert sie sich 1
--   für x \<\< 0 nähert sie sich 0
--   für x = 0 ist sie 0.5
+-   für $x >> 0$ nähert sie sich 1
+-   für $x << 0$ nähert sie sich 0
+-   für $x = 0$ ist sie 0.5
 
 Das heißt also besonders hohe Ratingdifferenzen führen zu einem fast
 sicheren Sieg (positive x), bzw. einer fast sicheren Niederlage
@@ -102,10 +100,10 @@ jeweils für die ganzzahlig gerundeten Ratingdifferenz die
 Siegwahrscheinlichkeit berechnet. Anschließend habe ich die Daten mit
 einer logistischen Funktion gefittet. Schauen wir uns das Ergebnis an:
 
-[caption id="attachment\_1125" align="aligncenter"
-width="300"][![][2]][] Wie im Elo-Rating folgt auch die auf
-Ranking-Systemen basierende Siegwahrscheinlichkeit einer logistischen
-Funktion.[/caption]
+[![](|filename|/images/rating_wins_elo-300x225.png)](|filename|/images/rating_wins_elo.png) 
+
+Wie im Elo-Rating folgt auch die auf Ranking-Systemen basierende 
+Siegwahrscheinlichkeit einer logistischen Funktion.
 
 Die Siegwahrscheinlichkeit, die sich aus der Ratingdifferenz ergibt,
 folgt also nicht nur im Schach, sondern auch im Football einer
@@ -117,13 +115,11 @@ statischen Heimvorteil von 3 Punkten.
 Der Zusammenhang zwischen Ranking und Siegen ergibt sich im Football
 also wie folgt:
 
-[latex size="2"]W(A) = \\frac{1}{1 + e\^{(R(A) - R(B) + 3) /
-6.012}}[/latex]
+$W(A) = \frac{1}{1 + e^{(R(A) - R(B) + 3) / 6.012}}$
 
 Beziehungsweise für das Auswärtsteam:
 
-[latex size="2"]W(B) = \\frac{1}{1 + e\^{(R(B) - R(A) - 3) /
-6.012}}[/latex]
+$W(B) = \frac{1}{1 + e^{(R(B) - R(A) - 3) / 6.012}}$
 
 Greifen wir also auf unser erfundenes Beispiel von vorhin zurück, so
 würde Team A eine Siegchance von etwa 87% haben, Team B hingegen nur
@@ -133,23 +129,27 @@ Mit Hilfe dieses "modifizierten" Elo-Erwartungswert ist es nun also
 leicht möglich, für beliebige Begegnungen die Siegwahrscheinlichkeit zu
 berechnen.
 
- 
+***Dank gebürt an dieser Stelle meinem Leser [JohnJohn][], der mich auf 
+die Elo-Ratings aufmerksam gemacht hat! Vielen Dank nochmal an dieser Stelle!***
 
-***Dank gebürt an dieser Stelle meinem Leser [JohnJohn][], der mich in
-einem [Kommentar][] auf die Elo-Ratings aufmerksam gemacht hat! Vielen
-Dank nochmal an dieser Stelle!***
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 
-  [hier]: http://footballissexbaby.de/2011/05/hausgemachte-sport-rankings-nach-sagarin-art-teil-1/
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+    }
+  });
+</script>
+
+  [hier]: |filename|hausgemachte-sport-rankings-nach-sagarin-art-teil-1.md
     "Hausgemachte Sport-Rankings nach Sagarin-Art, Teil 1"
-  [1]: http://footballissexbaby.de/2011/06/hausgemachte-sport-rankings-nach-sagarin-art-teil-2/
+  [1]: |filename|hausgemachte-sport-rankings-nach-sagarin-art-teil-2.md
     "Hausgemachte Sport-Rankings nach Sagarin-Art, Teil 2"
-  []: http://footballissexbaby.de/wp-content/uploads/2012/08/elo09.jpg
+  []: |filename|/images/elo09.jpg
     "elo09"
   [chessbase.com]: http://www.chessbase.com/newsprint.asp?newsid=4326
   [Elo-Systems]: http://de.wikipedia.org/wiki/Elo-Zahl
   [logistische Funktion]: http://de.wikipedia.org/wiki/Logistische_Funktion
-  [2]: http://footballissexbaby.de/wp-content/uploads/2012/08/rating_wins_elo-300x225.png
-    "rating_wins_elo"
-  [![][2]]: http://footballissexbaby.de/wp-content/uploads/2012/08/rating_wins_elo.png
   [JohnJohn]: http://twitter.com/JohnyChamp
-  [Kommentar]: http://footballissexbaby.de/2012/08/gfl-ratings-4-8-5-8-2012/#comment-164

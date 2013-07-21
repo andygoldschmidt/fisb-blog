@@ -14,10 +14,30 @@ weitem kein Außenseiter waren.
 Nun ist es höchste Zeit die Prognosen zu aktualisieren und zu schauen,
 wem nach der ersten Playoffrunde die Favoritenrolle zufällt.
 
-  Heimteam                   Auswärtsteam       Sieg-Wkt. Heim   Sieg-Wkt. Gast
-  -------------------------- ------------------ ---------------- ----------------
-  Schwäbisch Hall Unicorns   Berlin Adler       54.6%            45.4%
-  Kiel Baltic Hurricanes     Dresden Monarchs   61.4%            38.6
+<table class="table">
+  <thead>
+    <tr>
+      <th>Heimteam</th>
+      <th>Auswärtsteam</th>
+      <th>Sieg-Wkt. Heim</th>
+      <th>Sieg-Wkt. Gast</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Schwäbisch Hall Unicorns</td>
+      <td>Berlin Adler</td>
+      <td>54.6%</td>
+      <td>45.4%</td>
+    </tr>
+    <tr>
+      <td>Kiel Baltic Hurricanes</td>
+      <td>Dresden Monarchs</td>
+      <td>61.4%</td>
+      <td>38.6%</td>
+    </tr>
+  </tbody>
+</table>
 
 Egal wer gewinnt, es wäre zwar unter Umständen eine kleine Überraschung,
 aber eine große Sensation wird es nicht. Dafür haben sich alle vier
@@ -28,12 +48,32 @@ wider.
 Schauen wir uns an, wie groß die Wahrscheinlichkeit für jedes Team ist,
 nicht nur nach Berlin fahren, sondern dort auch jubeln zu dürfen:
 
-  Team                       GB-Sieg-Wkt.
-  -------------------------- --------------
-  Berlin Adler               16.9%
-  Dresden Monarchs           20.6%
-  Kiel Baltic Hurricanes     41.3%
-  Schwäbisch Hall Unicorns   22.8%
+<table class="table">
+  <thead>
+    <tr>
+      <th>Team</th>
+      <th>GB-Sieg-Wkt.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Berlin Adler</td>
+      <td>16.9%</td>
+    </tr>
+    <tr>
+      <td>Dresden Monarchs</td>
+      <td>20.6%</td>
+    </tr>
+    <tr>
+      <td>Kiel Baltic Hurricanes</td>
+      <td>41.3%</td>
+    </tr>
+    <tr>
+      <td>Schwäbisch Hall Unicorns</td>
+      <td>22.8%</td>
+    </tr>
+  </tbody>
+</table>
 
 Hurricanes, Unicorns und Adler haben noch fast die gleiche Chance auf
 den German Bowl wie vor dem Viertelfinale, nur die Dresden Monarchs
@@ -44,5 +84,4 @@ Ich bin am Sonntag übrigens in Kiel und werde dort "meine" Monarchs
 anfeuern. Wenn einer von euch auch vor Ort sein sollte, kann er ja einen
 kurzen Kommentar hinterlassen!
 
-  [auf das Playoff-Szenario vor dem Viertelfinale]: http://footballissexbaby.de/2012/09/gfl-playoffs-wer-wird-am-ende-in-berlin-jubeln/
-    "GFL-Playoffs: Wer wird am Ende in Berlin jubeln?"
+  [auf das Playoff-Szenario vor dem Viertelfinale]: |filename|gfl-playoffs-wer-wird-am-ende-in-berlin-jubeln.md

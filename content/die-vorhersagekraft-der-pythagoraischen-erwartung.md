@@ -20,9 +20,7 @@ nur bis 2010, und die Gewinnverhältnisse erst ab 1971.).
 
 Das ergibt insgesamt 1181 Paare, die man gegeneinander auftragen kann.
 
-[caption id="attachment\_758" align="aligncenter" width="300"][![][]][]
-Pythagoräische Erwartung als Funktion des Sieg-Niederlagen-Verhältnisses
-der folgenden Saison. Rot eingezeichnet die Regressiongerade.[/caption]
+[![](|filename|/images/pythexp_vs_wlp_next_season-300x225.png)](|filename|/images/pythexp_vs_wlp_next_season.png)
 
 Der Korrelationskoeffizient ergibt sich zu r = 0.439 (p = 8e-57).
 
@@ -56,6 +54,3 @@ die Reise gehen könnte.
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 2"
   [diskutiert]: |filename|die-vielen-gesichter-der-pythagoraischen-erwartung-teil-3.md
     "Die vielen Gesichter der pythagoräischen Erwartung. Teil 3"
-  []: http://footballissexbaby.de/wp-content/uploads/2012/07/pythexp_vs_wlp_next_season-300x225.png
-    "pythexp_vs_wlp_next_season"
-  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/07/pythexp_vs_wlp_next_season.png

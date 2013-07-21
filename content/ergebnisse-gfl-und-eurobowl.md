@@ -23,4 +23,4 @@ gewechselt war.
 
 In dem Sinne, Glückwunsch an die Swarco Raiders und besonders an Shuan!
 
-  [Wie zu erwarten]: https://footballissexbaby.wordpress.com/2011/06/15/prognose-fur-das-gfl-wochenende-18-19-juni/
+  [Wie zu erwarten]: |filename|prognose-fur-das-gfl-wochenende-18-19-juni.md

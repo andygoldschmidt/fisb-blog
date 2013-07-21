@@ -105,16 +105,10 @@ Die Saison ist nun schon deutlich fortgeschritten, Zeit um auf den
 Verlauf des Exponenten der pythagoräischen Erwartung und des
 Heimvorteils zu schauen:
 
-<div style="text-align:center">
-<div style="display:inline-block; margin-right:5px">
-[![][]][]
+[![]([|filename|/images/verlauf_pyth-300x225.png])](|filename|/images/verlauf_pyth.png)
 
-</div>
-<div style="display:inline-block">
-[![][1]][]
+[![](|filename|/images/verlauf_hfa-300x225.png)](|filename|/images/verlauf_hfa.png)
 
-</div>
-</div>
 Die pythagoräische Erwartung ist nach einem Tief in der Mitte der Saison
 wieder auf einem "normalen" Wert. Üblicherweise liegt der Wert des
 Exponenten bei 2.6 - 2.7, also genau da, wo wir momentan auch sind.
@@ -123,10 +117,3 @@ Der Heimvorteil hingegen ist in dieser Saison ungewöhnlich.
 Typischerweise beträgt er etwa 3 Punkte, diese Saison wird er stetig
 kleiner, zuletzt war er sogar weniger als ein Punkt. Ich bin gespannt,
 wie sich das in den nächsten Wochen noch entwickelt.
-
-  []: http://footballissexbaby.de/wp-content/uploads/2012/11/verlauf_pyth-300x225.png
-    "verlauf_pyth"
-  [![][]]: http://footballissexbaby.de/wp-content/uploads/2012/11/verlauf_pyth.png
-  [1]: http://footballissexbaby.de/wp-content/uploads/2012/11/verlauf_hfa-300x225.png
-    "verlauf_hfa"
-  [![][1]]: http://footballissexbaby.de/wp-content/uploads/2012/11/verlauf_hfa.png

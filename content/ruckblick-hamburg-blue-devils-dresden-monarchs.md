@@ -4,10 +4,6 @@ Author: footballissexbaby
 Tags: Dresden Monarchs, Football, GFL, Hamburg Blue Devils, Jeff Welsh, Marvin Stüdemann, Trevar Deed
 Slug: ruckblick-hamburg-blue-devils-dresden-monarchs
 
-[caption id="attachment\_2213" align="alignright" width="350"]![Trevar
-Deed besucht bei bestem Wetter die Endzone (Copyright: Mike Lehn)][]
-Trevar Deed besucht bei bestem Wetter die Endzone (Copyright: Mike
-Lehn)[/caption]
 
 Am Samstag hatte ich endlich die Chance zu meinem ersten GFL-Spiel
 dieser Saison zu gehen. Wie passend, dass die Hamburg Blue Devils da
@@ -81,6 +77,3 @@ Top-Teams wie Kiel wird das eine ganz andere Kiste werden. Da müssen die
 Monarchs erst noch zeigen, dass sie auch die Allerbesten in der Liga
 schlagen können. Insofern war es für Dresden ein Pflichtsieg, die echten
 Aufgaben warten erst noch.
-
-  [Trevar Deed besucht bei bestem Wetter die Endzone (Copyright: Mike
-  Lehn)]: http://footballissexbaby.de/wp-content/uploads/2013/05/trevar_deed.jpg

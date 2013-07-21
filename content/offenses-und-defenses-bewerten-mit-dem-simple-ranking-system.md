@@ -5,7 +5,7 @@ Tags: Doug Drinen, DSRS, Football, NFL, OSRS, Pro-Football-Reference, Simple Ran
 Slug: offenses-und-defenses-bewerten-mit-dem-simple-ranking-system
 
 Das [Simple Ranking System][] wird in diesem Blog regelmäßig im
-Zusammenhang mit der [Review auf den letzten NFL-Spieltag][] benutzt.
+Zusammenhang mit der Review auf den letzten NFL-Spieltag benutzt.
 
 Populär wurde es in dieser Form und unter diesem Namen hauptsächlich
 durch Doug Drinen, der es im [Pro-Football-Reference Blog][] vorgestellt
@@ -27,23 +27,23 @@ Stärke der Defense zu finden.
 
 Das normale SRS berechnet sich wie folgt:
 
-[latex]\\text{SRS(X)} = \\text{MoV(X)} + \\frac{1}{\\text{N}}\\left(
-\\text{SRS(A)} + \\text{SRS(B)} + ...\\right)[/latex]
+$\text{SRS(X)} = \text{MoV(X)} + \frac{1}{\text{N}}\left(
+\text{SRS(A)} + \text{SRS(B)} + ...\right)$
 
 Dabei ist MoV die durchschnittliche Punktdifferenz, N die Anzahl
 bisheriger Spiele und SRS(A), SRS(B), ... die Rankings der Gegner.  
 Das Offense SRS (OSRS) bekommt man nun indem man die Formel leicht
 anpasst:
 
-[latex]\\text{OSRS(X)} = \\text{PF(X)} + \\frac{1}{\\text{N}}\\left(
-\\text{PA(A)} + \\text{PA(B)} + ...\\right)[/latex]
+$\text{OSRS(X)} = \text{PF(X)} + \frac{1}{\text{N}}\left(
+\text{PA(A)} + \text{PA(B)} + ...\right)$
 
 Hier sind PF die erzielten Punkte und PA die zugelassenen Punkte. Das
 DSRS bekommt man, indem man PF und PA in der Formel einfach vertauscht.
 
 Diese Ratings haben eine nette Eigenschaft, denn es gilt:
 
-[latex]\\text{SRS} = \\text{OSRS} + \\text{DSRS}[/latex]
+$\text{SRS} = \text{OSRS} + \text{DSRS}$
 
 Es handelt sich also lediglich in eine Zerlegung des SRS in zwei
 Summanden.
@@ -61,40 +61,45 @@ anderen.
 Im folgenden sind die alle Simple Ranking System-Größen (SRS, MoV, SOS,
 OSRS und DSRS) für die NFL-Saison 2012 nach Woche 10 aufgelistet:
 
-  Team                   SRS     OSRS   DSRS
-  ---------------------- ------- ------ -------
-  Arizona Cardinals      -1.5    -8.6   7.2
-  Atlanta Falcons        5.5     6.1    -0.6
-  Baltimore Ravens       4.0     5.3    -1.3
-  Buffalo Bills          -7.2    0.5    -7.7
-  Carolina Panthers      -1.3    -0.9   -0.4
-  Chicago Bears          11.4    1.6    9.9
-  Cincinnati Bengals     -2.4    1.7    -4.1
-  Cleveland Browns       -6.0    -3.1   -2.8
-  Dallas Cowboys         1.8     -0.1   2.0
-  Denver Broncos         10.2    10.5   -0.3
-  Detroit Lions          -0.5    -2.3   1.8
-  Green Bay Packers      7.9     0.9    7.0
-  Houston Texans         11.7    4.5    7.3
-  Indianapolis Colts     -4.6    -6.1   1.6
-  Jacksonville Jaguars   -12.3   -9.8   -2.5
-  Kansas City Chiefs     -13.3   -3.3   -10.0
-  Miami Dolphins         -4.2    -6.6   2.4
-  Minnesota Vikings      0.8     -1.7   2.5
-  New England Patriots   9.9     9.3    0.6
-  New Orleans Saints     -0.5    7.2    -7.6
-  New York Giants        5.0     4.0    1.1
-  New York Jets          -4.0    -4.7   0.8
-  Oakland Raiders        -11.3   -0.4   -10.9
-  Philadelphia Eagles    -6.4    -4.6   -1.7
-  Pittsburgh Steelers    -0.1    0.7    -0.8
-  San Diego Chargers     -1.7    2.5    -4.1
-  San Francisco 49ers    10.1    -1.8   12.0
-  Seattle Seahawks       5.9     -4.8   10.7
-  St. Louis Rams         -1.3    -6.0   4.8
-  Tampa Bay Buccaneers   3.2     7.2    -3.9
-  Tennessee Titans       -7.7    -0.8   -6.8
-  Washington Redskins    -1.5    4.1    -5.6
+<table class="table table-striped">
+<thead>
+<tr><th>Team</th><th>SRS</th><th>OSRS</th><th>DSRS</th></tr>
+</thead>
+<tbody>
+<tr><td>Arizona Cardinals</td><td>-1.5</td><td>-8.6</td><td>7.2</td></tr>
+<tr><td>Atlanta Falcons</td><td>5.5</td><td>6.1</td><td>-0.6</td></tr>
+<tr><td>Baltimore Ravens</td><td>4.0</td><td>5.3</td><td>-1.3</td></tr>
+<tr><td>Buffalo Bills</td><td>-7.2</td><td>0.5</td><td>-7.7</td></tr>
+<tr><td>Carolina Panthers</td><td>-1.3</td><td>-0.9</td><td>-0.4</td></tr>
+<tr><td>Chicago Bears</td><td>11.4</td><td>1.6</td><td>9.9</td></tr>
+<tr><td>Cincinnati Bengals</td><td>-2.4</td><td>1.7</td><td>-4.1</td></tr>
+<tr><td>Cleveland Browns</td><td>-6.0</td><td>-3.1</td><td>-2.8</td></tr>
+<tr><td>Dallas Cowboys</td><td>1.8</td><td>-0.1</td><td>2.0</td></tr>
+<tr><td>Denver Broncos</td><td>10.2</td><td>10.5</td><td>-0.3</td></tr>
+<tr><td>Detroit Lions</td><td>-0.5</td><td>-2.3</td><td>1.8</td></tr>
+<tr><td>Green Bay Packers</td><td>7.9</td><td>0.9</td><td>7.0</td></tr>
+<tr><td>Houston Texans</td><td>11.7</td><td>4.5</td><td>7.3</td></tr>
+<tr><td>Indianapolis Colts</td><td>-4.6</td><td>-6.1</td><td>1.6</td></tr>
+<tr><td>Jacksonville Jaguars</td><td>-12.3</td><td>-9.8</td><td>-2.5</td></tr>
+<tr><td>Kansas City Chiefs</td><td>-13.3</td><td>-3.3</td><td>-10.0</td></tr>
+<tr><td>Miami Dolphins</td><td>-4.2</td><td>-6.6</td><td>2.4</td></tr>
+<tr><td>Minnesota Vikings</td><td>0.8</td><td>-1.7</td><td>2.5</td></tr>
+<tr><td>New England Patriots</td><td>9.9</td><td>9.3</td><td>0.6</td></tr>
+<tr><td>New Orleans Saints</td><td>-0.5</td><td>7.2</td><td>-7.6</td></tr>
+<tr><td>New York Giants</td><td>5.0</td><td>4.0</td><td>1.1</td></tr>
+<tr><td>New York Jets</td><td>-4.0</td><td>-4.7</td><td>0.8</td></tr>
+<tr><td>Oakland Raiders</td><td>-11.3</td><td>-0.4</td><td>-10.9</td></tr>
+<tr><td>Philadelphia Eagles</td><td>-6.4</td><td>-4.6</td><td>-1.7</td></tr>
+<tr><td>Pittsburgh Steelers</td><td>-0.1</td><td>0.7</td><td>-0.8</td></tr>
+<tr><td>San Diego Chargers</td><td>-1.7</td><td>2.5</td><td>-4.1</td></tr>
+<tr><td>San Francisco 49ers</td><td>10.1</td><td>-1.8</td><td>12.0</td></tr>
+<tr><td>Seattle Seahawks</td><td>5.9</td><td>-4.8</td><td>10.7</td></tr>
+<tr><td>St. Louis Rams</td><td>-1.3</td><td>-6.0</td><td>4.8</td></tr>
+<tr><td>Tampa Bay Buccaneers</td><td>3.2</td><td>7.2</td><td>-3.9</td></tr>
+<tr><td>Tennessee Titans</td><td>-7.7</td><td>-0.8</td><td>-6.8</td></tr>
+<tr><td>Washington Redskins</td><td>-1.5</td><td>4.1</td><td>-5.6</td></tr>
+</tbody>
+</table>
 
 Vergleicht man die Werte mit denen von Pro-Football-Reference, so
 erkennt man teilweise gravierende Unterschiede. Das kommt daher, dass
@@ -114,9 +119,19 @@ zu haben. Denn [der Testdatensatz, den PFR im Blog zeigt][], passt
 ziemlich gut mit meiner Implementierung überein. Aktuelle Werte hingegen
 zeigen die beschriebenen teils dramatischen Abweichungen.
 
-  [Simple Ranking System]: http://footballissexbaby.de/2012/09/simple-ranking-system-einfach-aber-gut/
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+    }
+  });
+</script>
+
+  [Simple Ranking System]: |filename|simple-ranking-system-einfach-aber-gut.md
     "Simple Ranking System – einfach aber gut"
-  [Review auf den letzten NFL-Spieltag]: http://footballissexbaby.de/category/preview-review/
   [Pro-Football-Reference Blog]: http://www.pro-football-reference.com/blog/?p=37
   [Brian Burkes]: http://www.advancednflstats.com
   [Football Outsiders]: http://www.footballoutsiders.com

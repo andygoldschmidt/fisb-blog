@@ -23,12 +23,42 @@ Lange Rede kurzer Sinn, im Folgenden gibt es die 3 PPA-Werte aus den
 beiden Conference Championship-Finals normiert auf den Mittelwert der
 regulären Saison 2012:
 
-  Team                   PPA    PassPPA   RushPPA
-  ---------------------- ------ --------- ---------
-  Atlanta Falcons        12.1   12.3      -0.2
-  New England Patriots   -1.1   -1.9      0.8
-  Baltimore Ravens       2.9    0.6       2.3
-  San Francisco 49ers    17.4   15.9      1.6
+<table class="table">
+  <thead>
+    <tr>
+      <th>Team</th>
+      <th>PPA</th>
+      <th>PassPPA</th>
+      <th>RushPPA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Atlanta Falcons</td>
+      <td>12.1</td>
+      <td>12.3</td>
+      <td>-0.2</td>
+    </tr>
+    <tr>
+      <td>New England Patriots</td>
+      <td>-1.1</td>
+      <td>-1.9</td>
+      <td>0.8</td>
+    </tr>
+    <tr>
+      <td>Baltimore Ravens</td>
+      <td>2.9</td>
+      <td>0.6</td>
+      <td>2.3</td>
+    </tr>
+    <tr>
+      <td>San Francisco 49ers</td>
+      <td>17.4</td>
+      <td>15.9</td>
+      <td>1.6</td>
+    </tr>
+  </tbody>
+</table>
 
 Man sieht schnell, dass das NFC-Finale zwischen den Falcons und den
 49ers offensichtlich das offensivstärkere war. Dagegen waren die New
@@ -51,7 +81,5 @@ Während PPA bei weitem kein perfektes Maß ist, so bekommt man doch einen
 groben Überblick darüber, wie gut eine Offense in einem bestimmten Spiel
 oder in mehreren Spielen war.
 
-  [vorgestellt habe]: http://footballissexbaby.de/2013/01/ppa-wie-gut-ist-eine-offense/
-    "PPA: Wie gut ist eine Offense?"
-  [reine Pass- und Laufstatistik]: http://footballissexbaby.de/2013/01/ppa-die-effizienz-des-lauf-und-des-passspiels/
-    "PPA: Die Effizienz des Pass- und Laufspiels"
+  [vorgestellt habe]: |filename|ppa-wie-gut-ist-eine-offense.md
+  [reine Pass- und Laufstatistik]: |filename|ppa-die-effizienz-des-lauf-und-des-passspiels.md
