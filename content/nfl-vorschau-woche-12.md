@@ -11,10 +11,9 @@ sondern ganze drei.
 Darum gibt es die Vorschau diese Woche auch schon am Donnerstag und
 nicht wie sonst erst am Freitag.
 
-<div id="accordion">
-### [Houston Texans @ Detroit Lions:][]
 
-<div>
+### Houston Texans @ Detroit Lions:
+
 Die Texans haben es gegen die Jaguars unglaublich spannend gemacht, am
 Ende aber doch abgezockter gespielt und gewonnen. Die Detroit Lions
 hingegen haben gegen die Packers mit 20:24 verloren. Wieder einmal hat
@@ -28,10 +27,8 @@ die Texans-Defense ist nach wie vor eine der besten der Liga. Die Texans
 sind das ausgeglichenere Team und daher der klare Favorit.  
 **Siegwahrscheinlichkeit:** 88.5% : 11.5%
 
-</div>
-### [Washington Redskins @ Dallas Cowboys:][Houston Texans @ Detroit Lions:]
+### Washington Redskins @ Dallas Cowboys:
 
-<div>
 Seien wir ehrlich: die Dallas Cowboys sind diese Saison einfach nicht
 besonders gut. Ihre Defense spielt teilweise auf einem hohen Niveau,
 aber die Offense hat kaum ein zufriedenstellendes Spiel. Gegen die
@@ -47,10 +44,8 @@ Meriweather, nach einem beeindruckenden, wenn auch kurzen, Auftritt
 hilft den Redskins allerdings nicht wirklich.  
 **Siegwahrscheinlichkeit:** 37.0% : 63.0%
 
-</div>
-### [New England Patriots @ New York Jets:][Houston Texans @ Detroit Lions:]
+### New England Patriots @ New York Jets:
 
-<div>
 Rex Ryan ist ja sonst für starke Worte bekannt, diese Woche jedoch lobte
 er seinen Gegner, vor allem Patriots-QB Tom Brady. Angesichts der
 Dominanz ist das sicher auch eine gute Idee, denn vor allem die Offense
@@ -68,10 +63,8 @@ Patriots-Offense sollte den Ausschlag geben und New England einen
 Schritt näher an die Playoffs bringen.  
 **Siegwahrscheinlichkeit:** 72.4% : 27.6%
 
-</div>
-### [Minnesota Vikings @ Chicago Bears:][Houston Texans @ Detroit Lions:]
+### Minnesota Vikings @ Chicago Bears:
 
-<div>
 Die Chicago Bears haben zuletzt zwei Spiele gegen starke Gegner
 verloren. Eine Hauptursache dafür war sicher der Ausfall von Quarterback
 Jay Cutler. Durch die zwei Niederlagen ist jetzt allerdings der
@@ -88,10 +81,8 @@ die Bears als Favoriten ins Rennen. Muss hingegen nochmal Jason Campbell
 ran, dann favorisiere ich Minnesota.  
 **Siegwahrscheinlichkeit:** 36.2% : 63.8%
 
-</div>
-### [Oakland Raiders @ Cincinnati Bengals:][Houston Texans @ Detroit Lions:]
+### Oakland Raiders @ Cincinnati Bengals:
 
-<div>
 Die Raiders haben diese Saison gegen die Steelers, Jaguars und Chiefs
 gewonnen. Und die letzten beiden sind wohl auch fast die einzigen, die
 sie regelmäßig besiegen könnten. Die Raiders sind weder in der Offense
@@ -105,10 +96,8 @@ Raiders sollten die Bengals, genau wie letzte Woche gegen die Chiefs,
 nicht allzu große Probleme haben einen Sieg einzufahren.  
 **Siegwahrscheinlichkeit:** 36.5% : 63.5%
 
-</div>
-### [Pittsburgh Steelers @ Cleveland Browns:][Houston Texans @ Detroit Lions:]
+### Pittsburgh Steelers @ Cleveland Browns:
 
-<div>
 Die Steelers müssen weiterhin ohne QB Ben Roethlisberger auskommen.
 Gegen die Ravens hat die Defense es geschafft, die Steelers bis zum Ende
 im Spiel zu halten, aber eine Offense muss dann eben auch in der Lage
@@ -122,10 +111,8 @@ Gegen die Roethlisberger-losen Steelers bietet sich die Chance für einen
 wichtigen Sieg innerhalb der Division.  
 **Siegwahrscheinlichkeit:** 79.0% : 21.0%
 
-</div>
-### [Buffalo Bills @ Indianapolis Colts:][Houston Texans @ Detroit Lions:]
+### Buffalo Bills @ Indianapolis Colts:
 
-<div>
 Wer denkt, die krachende Niederlage gegen die Patriots war eine Ausnahme
 für die Colts, der irrt. Die Colts sind längst nicht so gut, wie ihr 6-4
 Record das vermuten lässt. Auf beiden Seiten des Balls fehlt es an
@@ -139,10 +126,8 @@ schwächeren, so dass sie einige Probleme mit C.J. Spiller und Fred
 Jackson bekommen könnten.  
 **Siegwahrscheinlichkeit:** 35.6% : 64.4%
 
-</div>
-### [Tennessee Titans @ Jacksonville Jaguars:][Houston Texans @ Detroit Lions:]
+### Tennessee Titans @ Jacksonville Jaguars:
 
-<div>
 Noch letzte Woche hätte ich absolut keine Lust gehabt, etwas zu diesem
 Spiel zu schreiben. Doch die Jaguars haben am Wochenende genug Grund
 gegeben, das doch zu tun. Die Offense wirkte wiederbelebt, sobald Chad
@@ -158,10 +143,8 @@ einzufahren, wenn sie es schaffen ihren Schwung aus dem Texans-Spiel
 mitzunehmen.  
 **Siegwahrscheinlichkeit:** 77.3% : 22.7%
 
-</div>
-### [Denver Broncos @ Kansas City Chiefs:][Houston Texans @ Detroit Lions:]
+### Denver Broncos @ Kansas City Chiefs:
 
-<div>
 Durch ihren Sieg gegen die Chargers hat Denver den Sieg der AFC West
 fast schon unter Dach und Fach gebracht. Drei Spiele Vorsprung bei noch
 sechs verbleibenden Spielen sind mehr als komfortabel. Dazu kommt diese
@@ -177,10 +160,8 @@ der Lage sein, den Verlust abzufangen. In jedem Fall ist ein Sieg gegen
 die Chiefs Pflicht.  
 **Siegwahrscheinlichkeit:** 93.0% : 7.0%
 
-</div>
-### [Seattle Seahawks @ Miami Dolphins:][Houston Texans @ Detroit Lions:]
+### Seattle Seahawks @ Miami Dolphins:
 
-<div>
 Seit ich vor einigen Wochen die Dolphins zu einem Überraschungsteam
 erklärt habe, enttäuschen sie regelmäßig. Erst eine krachende Niederlage
 gegen die Titans, dann ein schwacher Auftritt gegen die Bills. Vor allem
@@ -195,10 +176,8 @@ aber fast schon Pflicht, um im Rennen zu bleiben. Die Chancen dafür
 stehen gut.  
 **Siegwahrscheinlichkeit:** 70.7% : 29.3%
 
-</div>
-### [Atlanta Falcons @ Tampa Bay Buccaneers:][Houston Texans @ Detroit Lions:]
+### Atlanta Falcons @ Tampa Bay Buccaneers:
 
-<div>
 Auch wenn ihre Siegbilanz anderes vermuten lässt: die Atlanta Falcons
 sind kein Top-Team. In allen Rankings, die sich in den Weiten des
 Internets finden (und nicht von "Experten" zusammengestellt worden),
@@ -214,10 +193,8 @@ wird daher wohl ein spannendes Spiel werden, das wichtige Implikationen
 für die NFC-Playoffs haben könnte.  
 **Siegwahrscheinlichkeit:** 80.0% : 20.0%
 
-</div>
-### [Baltimore Ravens @ San Diego Chargers:][Houston Texans @ Detroit Lions:]
+### Baltimore Ravens @ San Diego Chargers:
 
-<div>
 Die Chargers zeigen Woche um Woche, dass sie höchstens durchschnittlich
 sind. Die Offense ist fehleranfällig und die Defense hat außer Safety
 Eric Weddle kaum etwas zu bieten. Dagegen sind die Ravens endgültig aus
@@ -229,10 +206,8 @@ Gegen die Chargers sollten sie keine allzu großen Probleme haben und
 einen weiteren wichtigen Schritt in Richtung Playoffs machen.  
 **Siegwahrscheinlichkeit:** 84.0% : 16.0%
 
-</div>
-### [St. Louis Rams @ Arizona Cardinals:][Houston Texans @ Detroit Lions:]
+### St. Louis Rams @ Arizona Cardinals:
 
-<div>
 Kaum zu glauben, aber die Cardinals sind wirklich mit 4 Siegen in die
 Saison gestartet. Schaut man sich die Cardinals jetzt an, fragt man
 sich, wie sie es in 4 Spielen schaffen konnten überhaupt Punkte aufs
@@ -248,10 +223,8 @@ also ein Spiel von zwei ordentlichen Defenses gegen zwei fragwürdige
 Offenses. Da ist doch Nervenkitzel garantiert oder?  
 **Siegwahrscheinlichkeit:** 40.5% : 59.5%
 
-</div>
-### [San Francisco 49ers @ New Orleans Saints:][Houston Texans @ Detroit Lions:]
+### San Francisco 49ers @ New Orleans Saints:
 
-<div>
 Die 49ers haben diese Woche erstmals den Spitzenplatz in meinen Rankings
 übernommen, nach dem klaren Sieg gegen die bisherigen Spitzenreiter
 Chicago ist das auch kein Wunder. Darüber hinaus hat HC Jim Harbaugh
@@ -269,10 +242,8 @@ Saints viel Selbstbewusstsein und werden ein echter Prüfstein für die
 49ers sein.  
 **Siegwahrscheinlichkeit:** 73.2% : 26.8%
 
-</div>
-### [Green Bay Packers @ New York Giants:][Houston Texans @ Detroit Lions:]
+### Green Bay Packers @ New York Giants:
 
-<div>
 Giants gegen Packers ist mittlerweile ja schon ein vertrautes Top-Spiel.
 Letztes Jahr haben die Giants in der Regular Season nach einer knappen
 Niederlage gegen die Packers richtig Fahrt aufgenommen, den sie nutzen
@@ -288,10 +259,8 @@ zurückfinden und mal wieder einen Touchdown-Pass werfen, um seine Giants
 im Spiel zu halten.  
 **Siegwahrscheinlichkeit:** 67.4% : 32.6%
 
-</div>
-### [Carolina Panthers @ Philadelphia Eagles:][Houston Texans @ Detroit Lions:]
+### Carolina Panthers @ Philadelphia Eagles:
 
-<div>
 Man kann es kaum noch glauben, aber zu der Zeit als der Spielplan für
 die Saison 2012 veröffentlicht wurde, sah das nach einem
 *must-watch*-Spiel aus. Mit Cam Newton und Michael Vick hatte man zwei
@@ -307,9 +276,5 @@ Cam Newton & Co. ihren dritten Sieg einfahren können. Echter Grund zum
 Jubeln wäre das aber wohl nicht.  
 **Siegwahrscheinlichkeit:** 44.9% : 55.1%
 
-</div>
-</div>
 
-  [Houston Texans @ Detroit Lions:]: #
-  [wie an anderer Stelle schon geschrieben]: http://footballissexbaby.de/2012/11/smith-oder-kaepernick-welcher-qb-ist-besser-fur-die-49ers/
-    "Smith oder Kaepernick: Welcher QB ist besser für die 49ers?"
+  [wie an anderer Stelle schon geschrieben]: |filename|smith-oder-kaepernick-welcher-qb-ist-besser-fur-die-49ers.md

@@ -41,10 +41,8 @@ Miami.
 Einige Playoff-weisende Spiele wird es auch an diesem Wochenende geben,
 werfen wir einen kurzen Blick auf alle weiteren Spiele.
 
-<div id="accordion">
-### [Arizona Cardinals @ Atlanta Falcons:][]
+### Arizona Cardinals @ Atlanta Falcons:
 
-<div>
 Die Falcons haben zwar gegen die Saints verloren, haben aber dabei
 gezeigt, dass ihre Offense sehr schlagkräftig ist. Die Defense der
 Cardinals ist zwar deutlich besser als die der Saints, aber in den
@@ -57,10 +55,8 @@ sollte und dazu eine Offense, die sowohl über den Lauf als auch über den
 Pass gegen die Cardinals-Defense Erfolg haben sollte.  
 **Siegwahrscheinlichkeit:** 21.4% : 78.6%
 
-</div>
-### [Tampa Bay Buccaneers @ Carolina Panthers:][Arizona Cardinals @ Atlanta Falcons:]
+### Tampa Bay Buccaneers @ Carolina Panthers:
 
-<div>
 Die Buccaneers überraschen mich in dieser Saison. Ihre Defense spielt
 ordentlich und vor allem ist ihre Offense sehr schlagkräftig. Auch wenn
 der "*muscle hamster*" Doug Martin gegen die Chargers nicht allzu
@@ -74,10 +70,8 @@ dass die Offense sehr inkonsistent ist. Gegen Tampa Bay braucht Carolina
 schon ein gutes Spiel seiner Offense, um gewinnen zu können.  
 **Siegwahrscheinlichkeit:** 65.6% : 34.4%
 
-</div>
-### [Cleveland Browns @ Dallas Cowboys:][Arizona Cardinals @ Atlanta Falcons:]
+### Cleveland Browns @ Dallas Cowboys:
 
-<div>
 Die Browns kommen aus ihrer Bye-Week zurück und werden versuchen den
 Schwung, den sie in den letzten Wochen bekommen haben, mitzunehmen. Die
 Defense spielt schon die ganze Saison auf einem guten Niveau und langsam
@@ -93,10 +87,8 @@ richtig begeisternd waren sie allerdings zuletzt selten. Es könnte ein
 enges, aber auch unattraktives Spiel werden.  
 **Siegwahrscheinlichkeit:** 25.5% : 74.5%
 
-</div>
-### [Green Bay Packers @ Detroit Lions:][Arizona Cardinals @ Atlanta Falcons:]
+### Green Bay Packers @ Detroit Lions:
 
-<div>
 Die Packers haben in der Offense in den Wochen vor ihrer Bye-Week zu
 alter Form zurückgefunden. Die Defense spielt auf einem guten Niveau.
 Das sind die Zutaten die man braucht, um am Saisonende Erfolg zu haben.
@@ -111,10 +103,8 @@ die Punktausbeute. Schaffen sie es nicht, das zu ändern, wird es ein
 langer Tag für die Lions-Fans werden.  
 **Siegwahrscheinlichkeit:** 72.7% : 27.3%
 
-</div>
-### [Jacksonville Jaguars @ Houston Texans:][Arizona Cardinals @ Atlanta Falcons:]
+### Jacksonville Jaguars @ Houston Texans:
 
-<div>
 Die Texans haben gegen die Bears endgültig gezeigt, dass sie ein
 Top-Team sind, vielleicht sogar das derzeit beste in der NFL. Sie haben
 dem widrigen Wetter getrotzt, haben Turnover forciert und konnten sich
@@ -124,10 +114,8 @@ verharrt seit Wochen in einem komatösen Zustand. Die Texans müssen schon
 extrem unkonzentriert agieren, um dieses Spiel zu verlieren.  
 **Siegwahrscheinlichkeit:** 4.7% : 95.3%
 
-</div>
-### [Cincinnati Bengals @ Kansas City Chiefs:][Arizona Cardinals @ Atlanta Falcons:]
+### Cincinnati Bengals @ Kansas City Chiefs:
 
-<div>
 Die Bengals haben letzte Woche die stärkste Leistung der gesamten Saison
 gezeigt. Die Defense um Geno Atkins hat es geschafft Eli Manning ständig
 unter Druck zu setzen und die Offense um QB Andy Dalton wirkte sehr
@@ -138,10 +126,8 @@ enttäuschend, Spieler wie Tamba Hali bleiben schon die ganze Saison
 blass. Ich tippe ganz klar auf die Bengals.  
 **Siegwahrscheinlichkeit:** 77.8% : 22.2%
 
-</div>
-### [Indianapolis Colts @ New England Patriots:][Arizona Cardinals @ Atlanta Falcons:]
+### Indianapolis Colts @ New England Patriots:
 
-<div>
 Die Indianapolis Colts haben in den letzten Wochen viele überrascht,
 wahrscheinlich auch sich selbst. Von einem 6-3 Start haben wohl nur die
 treuesten Fans geträumt. Doch die Zahl der Siege ist trügerisch, die
@@ -152,10 +138,8 @@ gut ausgleichen. Ich glaube nicht, dass die Colts-Defense Tom Brady und
 seiner Offense standhalten kann.  
 **Siegwahrscheinlichkeit:** 46.8% : 53.2%
 
-</div>
-### [New York Jets @ St. Louis Rams:][Arizona Cardinals @ Atlanta Falcons:]
+### New York Jets @ St. Louis Rams:
 
-<div>
 Im Moment schlägt ja jeder auf die Jets ein - bei dem
 mannschaftsschädlichen Geschwätz auch zurecht - und in der Tat geben die
 Jets wenig Grund für Optimismus. Auch nach mehr als einer halben Saison
@@ -169,10 +153,8 @@ im Vorteil, ihre Defense sollte die Jets vom Punkten abhalten können und
 die eigene Offense kann sich mühsame Punkte erarbeiten.  
 **Siegwahrscheinlichkeit:** 50.7% : 49.3%
 
-</div>
-### [Philadelphia Eagles @ Washington Redskins:][Arizona Cardinals @ Atlanta Falcons:]
+### Philadelphia Eagles @ Washington Redskins:
 
-<div>
 Das nächste wichtige Division-Duell für die Eagles. Nach der Niederlage
 gegen die Cowboys sind die Playoff-Chancen der Eagles sowieso gering,
 nun müssen sie auch noch ohne ihren Starting-QB auskommen und sehen sich
@@ -186,10 +168,8 @@ sie auch noch RB LeSean McCoy haben, könnte die Offense durchaus punkten
 und die Redskins besiegen.  
 **Siegwahrscheinlichkeit:** 52.3% : 47.7%
 
-</div>
-### [New Orleans Saints @ Oakland Raiders:][Arizona Cardinals @ Atlanta Falcons:]
+### New Orleans Saints @ Oakland Raiders:
 
-<div>
 Die Saints haben derzeit einen Höhenflug. Nach zuletzt zwei Siegen in
 Folge, vor allem aber dem gegen die Falcons, zeigt die Formkurve stark
 nach oben. Die Defense scheint langsam zu sich zu finden und die Offense
@@ -201,10 +181,8 @@ Die Raiders haben derzeit nicht die Qualität, um die Saints in Gefahr zu
 bringen.  
 **Siegwahrscheinlichkeit:** 58.9% : 41.1%
 
-</div>
-### [San Diego Chargers @ Denver Broncos:][Arizona Cardinals @ Atlanta Falcons:]
+### San Diego Chargers @ Denver Broncos:
 
-<div>
 Für die Denver Broncos ist das ein sehr wichtiges Spiel: gewinnen sie,
 haben sie 3 Siege Vorsprung in der schwachen AFC West bei dann nur noch
 6 verbleibenden Spielen. Im Hinspiel haben sich die Broncos lange schwer
@@ -217,10 +195,8 @@ früherer Tage und auch die Defense ist allenfalls Mittelmaß. Für die
 Broncos ist das Spiel zu wichtig als die sie hier stolpern würden.  
 **Siegwahrscheinlichkeit:** 22.2% : 77.8%
 
-</div>
-### [Baltimore Ravens @ Pittsburgh Steelers:][Arizona Cardinals @ Atlanta Falcons:]
+### Baltimore Ravens @ Pittsburgh Steelers:
 
-<div>
 Das Traditionsduell Ravens gegen Steelers wird durch die Verletzung von
 Steelers-QB Ben Roethlisberger überschattet. Ein Einsatz von Big Ben am
 Sonntag ist ausgeschlossen. Damit fehlt der Steelers-Offense der Motor,
@@ -232,10 +208,8 @@ die Verletzung von Roethlisberger sehe ich Baltimore jedoch als klaren
 Favoriten.  
 **Siegwahrscheinlichkeit:** 63.3% : 36.7%
 
-</div>
-### [Chicago Bears @ San Francisco 49ers:][Arizona Cardinals @ Atlanta Falcons:]
+### Chicago Bears @ San Francisco 49ers:
 
-<div>
 Für die Chicago Bears sind das entscheidende Wochen. Letzte Woche die
 Niederlage auf heimischen Feld gegen die Houston Texans und jetzt wartet
 mit den San Francisco 49ers das nächste Top-Team. Die Bears haben auch
@@ -248,8 +222,3 @@ beiden Seiten die Backups zum Zuge kommen, sehe ich die 49ers im
 Vorteil, da Colin Kaepernick durch seine Option-Offense bessere Chancen
 gegen eine Top-Defense hat, als Bears-Backup Jason Campbell.  
 **Siegwahrscheinlichkeit:** 62.7% : 37.3%
-
-</div>
-</div>
-
-  [Arizona Cardinals @ Atlanta Falcons:]: #

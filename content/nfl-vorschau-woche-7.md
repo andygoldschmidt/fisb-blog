@@ -27,10 +27,8 @@ wohl nur die wenigsten so vorhergesehen hätten.
 Wenn wir schon bei Vorhersagen sind: schauen wir uns doch die restlichen
 Spiele des Wochenendes an:
 
-<div id="accordion">
-### [Tennessee Titans @ Buffalo Bills:][]
+### Tennessee Titans @ Buffalo Bills:
 
-<div>
 Die Tennessee Titans sind derzeit eines der schlechtesten Teams in der
 NFL. Starting-QB Jake Locker ist weiterhin verletzt, RB Chris Johnson
 ist auch nach 6 Wochen ein Schatten seiner selbst und die Defense freut
@@ -42,10 +40,8 @@ Fitzpatrick immer eine Wundertüte ist, wäre es schon eine kleine
 Überraschung, wenn die Titans das Feld als Sieger verlassen würden.  
 **Siegwahrscheinlichkeit:** 40.7% : 59.3%
 
-</div>
-### [Dallas Cowboys @ Carolina Panthers:][Tennessee Titans @ Buffalo Bills:]
+### Dallas Cowboys @ Carolina Panthers:
 
-<div>
 Die Panthers-Defense leidet noch unter den gleichen Probleme, wie im
 letzten Jahr und kann kaum einen Gegner stoppen; Saints, Giants und
 Falcons schafften allesamt über 400 Gesamtyards. Hinzukommt, dass
@@ -58,10 +54,8 @@ Rande einer Niederlage hatte. Es muss bei Dallas schon einiges
 schieflaufen, damit sie dieses Spiel verlieren.  
 **Siegwahrscheinlichkeit:** 72.3% : 27.7%
 
-</div>
-### [Cleveland Browns @ Indianapolis Colts:][Tennessee Titans @ Buffalo Bills:]
+### Cleveland Browns @ Indianapolis Colts:
 
-<div>
 Die Cleveland Browns haben es letzte Woche gegen Cincinnati endlich
 geschafft ihren ersten Sieg einzufahren. Die Defense forcierte dabei
 satte vier Turnover, ließ aber dennoch 24 Punkte und 438 Gesamtyards zu.
@@ -78,10 +72,8 @@ Browns auf ihre Stärken, können sie die Colts besiegen, aber es wird
 schwer.  
 **Siegwahrscheinlichkeit:** 29.3% : 70.7%
 
-</div>
-### [Baltimore Ravens @ Houston Texans:][Tennessee Titans @ Buffalo Bills:]
+### Baltimore Ravens @ Houston Texans:
 
-<div>
 Vielleicht das Topspiel der Woche. Die Ravens haben die Cowboys zwar nur
 mit viel Glück besiegen können, aber dieses Glück muss man eben in der
 NFL haben, wenn man einen 5-1 Record hat. Doch der Sieg gegen Dallas ist
@@ -96,10 +88,8 @@ Ausfall zu kompensieren. Die Ravens werden von Anfang an hellwach sein
 müssen, wenn sie nicht früh einem Vorsprung hinterherhinken wollen.  
 **Siegwahrscheinlichkeit:** 45.6% : 54.4%
 
-</div>
-### [Arizona Cardinals @ Minnesota Vikings:][Tennessee Titans @ Buffalo Bills:]
+### Arizona Cardinals @ Minnesota Vikings:
 
-<div>
 Es ist mitunter grausam die Cardinals-Offense bei der Arbeit zu
 beobachten. Jedoch liegt das weniger an QB Kevin Kolb als an einer
 unterirdisch spielenden Offensive-Line. Das Kolb nun wegen einer
@@ -115,10 +105,8 @@ favorisiere ich die Vikings. Die stark aufspielende Defense dürfte
 zuviel für die Cardinals sein.  
 **Siegwahrscheinlichkeit:** 55.9% : 44.1%
 
-</div>
-### [Washington Redskins @ New York Giants:][Tennessee Titans @ Buffalo Bills:]
+### Washington Redskins @ New York Giants:
 
-<div>
 Nach 6 Spielen haben die Redskins bereits 3 Siege, dass sind nur 2
 weniger als in der gesamten letzten Saison. [Der Hauptgrund, Quarterback
 Robert Griffin III][], hatte auch letzte Woche gegen Minnesota wieder
@@ -132,10 +120,8 @@ bisher überraschend gut ausgleichen, aber der Pass- und Laufangriff der
 Giants wird wohl zuviel für die Redskins sein.  
 **Siegwahrscheinlichkeit:** 42.7% : 57.3%
 
-</div>
-### [Green Bay Packers @ St. Louis Rams:][Tennessee Titans @ Buffalo Bills:]
+### Green Bay Packers @ St. Louis Rams:
 
-<div>
 Die Packers - und allen voran QB Aaron Rodgers - haben mit einem
 eindrucksvollen Sieg gegen die Houston Texans bewiesen, dass sie es auch
 in diesem Jahr mit den besten Teams aufnehmen können. Rodgers spielte
@@ -149,10 +135,8 @@ solide Pass-Coverage hat, wird es gegen Aaron Rodgers und seine Offense
 schwer, sie so zu bremsen, dass die eigene Offense Schritt halten kann.  
 **Siegwahrscheinlichkeit:** 49.3% : 50.7%
 
-</div>
-### [New Orleans Saints @ Tampa Bay Buccaneers:][Tennessee Titans @ Buffalo Bills:]
+### New Orleans Saints @ Tampa Bay Buccaneers:
 
-<div>
 Die Saints haben diese Saison zwar bereits vier Spiele verloren, aber
 nie mit mehr als 8 Punkten, noch dazu haben sie immer mindestens 24
 Punkte aufs Scoreboard gebracht. Wenn denn nur die Defense besser
@@ -166,10 +150,8 @@ die Defense zusammenfindet und die Saints den zweiten Sieg in Folge
 einfahren können.  
 **Siegwahrscheinlichkeit:** 32.7% : 67.3%
 
-</div>
-### [New York Jets @ New England Patriots:][Tennessee Titans @ Buffalo Bills:]
+### New York Jets @ New England Patriots:
 
-<div>
 Es war diese Saison oftmals grausam die Jets anzuschauen, vor allem in
 der Offense, dennoch haben sie es irgendwie geschafft drei Siege, und
 damit genauso viele wie die Patriots, einzufahren. Weder die Texans noch
@@ -186,10 +168,8 @@ hinauswächst und die Patriots ärgern kann. Das Spiel könnte zu einem der
 spannenderen an diesem Wochenende gehören.  
 **Siegwahrscheinlichkeit:** 48.0% : 52.0%
 
-</div>
-### [Jacksonville Jaguars @ Oakland Raiders:][Tennessee Titans @ Buffalo Bills:]
+### Jacksonville Jaguars @ Oakland Raiders:
 
-<div>
 Wenn man Game Previews schreibt, freut man sich auf einige Spiele, da
 man gar nicht weiß, was man alles in den paar Sätzen schreiben soll. Und
 bei manchen Spielen weiß man gar nicht, was man schreiben, weil einem
@@ -206,10 +186,8 @@ Geht das Spiel in Oakland verloren, könnte die Ära Gabbert ganz schnell
 zu Ende sein.  
 **Siegwahrscheinlichkeit:** 53.9% : 46.1%
 
-</div>
-### [Pittsburgh Steelers @ Cincinnati Bengals:][Tennessee Titans @ Buffalo Bills:]
+### Pittsburgh Steelers @ Cincinnati Bengals:
 
-<div>
 Eines dieser typischen Division-Duelle, in denen alles möglich ist. Die
 Bengals haben letzte Woche - etwas überraschend - gegen die Cleveland
 Browns verloren, die Steelers hatten einen ähnlichen Aussetzer in Woche
@@ -225,10 +203,8 @@ ein munteres Spielchen werden, dass bis zur letzten Sekunde spannend
 sein könnte.  
 **Siegwahrscheinlichkeit:** 44.7% : 55.3%
 
-</div>
-### [Detroit Lions @ Chicago Bears:][Tennessee Titans @ Buffalo Bills:]
+### Detroit Lions @ Chicago Bears:
 
-<div>
 Und gleich noch ein Division-Duell. Die Bears sind überraschenderweise
 in fast allen Ranking-Systemen das Topteam. Die Defense spielt auf einem
 unglaublichen Niveau, sie ist jederzeit in der Lage auch eine
@@ -246,9 +222,5 @@ dem Spiel steht, glaube ich nicht, dass sie es schaffen werden die Bears
 auf heimischen Feld zu besiegen.  
 **Siegwahrscheinlichkeit:** 25.9% : 74.1%
 
-</div>
-</div>
 
-  [Tennessee Titans @ Buffalo Bills:]: #
-  [Der Hauptgrund, Quarterback Robert Griffin III]: http://footballissexbaby.de/2012/10/rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison/
-    "RG3 oder Cam Newton: Wer hat die bessere Rookie-Saison?"
+  [Der Hauptgrund, Quarterback Robert Griffin III]: |filename|rg3-gegen-cam-newton-wer-hat-die-bessere-rookie-saison.md

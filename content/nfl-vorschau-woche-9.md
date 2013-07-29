@@ -24,10 +24,9 @@ müssen. Am Saisonende gibt es sicher große Veränderungen in Kansas City.
 Doch kommen wir zu dem Erfreulichen, der Vorschau auf die restlichen
 Spiele des Wochenendes:
 
-<div id="accordion">
-### [Denver Broncos @ Cincinnati Bengals:][]
 
-<div>
+### Denver Broncos @ Cincinnati Bengals:
+
 Die Broncos werden von Woche zu Woche stärker, in den Rankings nähern
 sie sich stetig den Top 5. Die Cincinnati Bengals hingegen erleben eine
 etwas enttäuschende Saison, gerade die Defense und Quarterback Andy
@@ -38,10 +37,7 @@ besten Colts-Zeiten kennt. Die starke Broncos-Offense und die solide
 Defense dürften zuviel für das durchschnittliche Bengals-Team sein.  
 **Siegwahrscheinlichkeit:** 71.5% : 28.5%
 
-</div>
-### [Baltimore Ravens @ Cleveland Browns:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Baltimore Ravens @ Cleveland Browns:
 Die Browns haben es letzte Woche geschafft mit 7 erzielten Punkten zu
 gewinnen. Leider sagt das weniger über die gute Defense als die
 durchwachsene Offense aus. Quarterback Brandon Weeden kommt langsam
@@ -53,10 +49,7 @@ deutlich weniger Probleme mit Trent Richardson haben als die Browns mit
 Ray Rice.  
 **Siegwahrscheinlichkeit:** 82.7% : 17.3%
 
-</div>
-### [Miami Dolphins @ Indianapolis Colts:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Miami Dolphins @ Indianapolis Colts:
 Die Miami Dolphins sind für mich eines der Überraschungsteams der
 Saison. Das die Defense solide ist, war klar. Das jedoch die Offense um
 Reggie Bush und vor allen um Rookie-QB Ryan Tannehill so gut
@@ -70,10 +63,7 @@ mehr Leute gute Leistungen zeigen als nur Andrew Luck und Reggie Wayne.
 Gerade die Defense muss Wege finden, um Reggie Bush & Co. zu stoppen.  
 **Siegwahrscheinlichkeit:** 50.9% : 49.1%
 
-</div>
-### [Arizona Cardinals @ Green Bay Packers:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Arizona Cardinals @ Green Bay Packers:
 Die Cardinals sind derzeit im freien Fall. Nach 4 Siegen folgten zuletzt
 4 Niederlagen. Nicht mal die Defense sieht noch so dominant aus, wie zu
 Saisonbeginn. Von der Offense ganz zu schweigen. Die Packers dagegen
@@ -83,10 +73,7 @@ Prüfstein darstellen und ähnlich schnell unter die Räder kommen wie
 gegen die 49ers.  
 **Siegwahrscheinlichkeit:** 38.7% : 61.3%
 
-</div>
-### [Buffalo Bills @ Houston Texans:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Buffalo Bills @ Houston Texans:
 Ich mag die Buffalo Bills und auch ihren unkonventionellen QB Ryan
 Fitzpatrick. An guten Tagen stiehlt der Junge sogar Aaron Rodgers die
 Show, nur um im nächsten Spiel wie ein zukünftiger Bankdrücker
@@ -98,10 +85,7 @@ bisher. Kurzum: es muss viel zusammenkommen, damit die Texans sich den
 Sieg nehmen lassen.  
 **Siegwahrscheinlichkeit:** 15.0% : 85.0%
 
-</div>
-### [Detroit Lions @ Jacksonville Jaguars:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Detroit Lions @ Jacksonville Jaguars:
 Die Seattle Seahawks und die Chicago Bears haben es hervorragend
 geschafft, Lions-WR Calvin Johnson aus dem Spiel zu nehmen. Gegen die
 Seahawks konnte jedoch WR Titus Young für Matt Stafford die Kohlen aus
@@ -115,10 +99,7 @@ immer noch nicht. Die angeschlagegen Lions werden sich diesen Sieg nicht
 nehmen lassen.  
 **Siegwahrscheinlichkeit:** 73.4% : 26.6%
 
-</div>
-### [Chicago Bears @ Tennessee Titans:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Chicago Bears @ Tennessee Titans:
 Die Chicago Bears haben es gegen Carolina unerwartetet spannend gemacht.
 Allerdings ist die Defense weiterhin die beste der Liga und die Offense
 würde von einem besseren Playcalling sicher auch profitieren. Gegen
@@ -129,10 +110,7 @@ auftrumpfen. Wenn die Defense weiter auf ihren bisherigen Niveau spielt,
 sollten die Bears am Sonntag kein Problem mit ihrem Gegner haben.  
 **Siegwahrscheinlichkeit:** 80.5% : 19.5%
 
-</div>
-### [Carolina Panthers @ Washington Redskins:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Carolina Panthers @ Washington Redskins:
 Die Redskins sind dieses Jahr, was die Panthers letztes Jahr waren. Sie
 haben das schillerndste *new kid in town*, dessen Erfolg durch eine
 schlechte Defense getrübt wird. Dieses Jahr ist Carolina auf der
@@ -144,10 +122,7 @@ und ich wette, Cam brennt darauf es seinem "Nachfolger" im direkten
 Duell zu zeigen.  
 **Siegwahrscheinlichkeit:** 31.2% : 68.8%
 
-</div>
-### [Tampa Bay Buccaneers @ Oakland Raiders:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Tampa Bay Buccaneers @ Oakland Raiders:
 Die Buccaneers haben letzte Woche gegen die Vikings endlich gesehen, was
 für ein Talent sie mit RB Doug Martin gedraftet haben. Nach einigen
 unscheinbaren Auftritten konnte er endlich zeigen, dass er auch auf
@@ -163,10 +138,7 @@ Vorteil verschafft, beide Mannschaften sind zu inkonsistent, um einen
 klaren Favoriten zu sehen.  
 **Siegwahrscheinlichkeit:** 42.9% : 57.1%
 
-</div>
-### [Minnesota Vikings @ Seattle Seahawks:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Minnesota Vikings @ Seattle Seahawks:
 Die Minnesota Vikings haben gegen die Bucs ordentlich einstecken müssen.
 Die zurecht gelobte Defense wirkte überfordert mit RB Doug Martin und in
 der Offense hatte QB Christian Ponder wiederholt Probleme. Der
@@ -180,10 +152,7 @@ Defense und der überraschend starken Offense um Rookie-QB Russell
 Wilson.  
 **Siegwahrscheinlichkeit:** 56.2% : 43.8%
 
-</div>
-### [Pittsburgh Steelers @ New York Giants:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Pittsburgh Steelers @ New York Giants:
 Das Duell der zwei Traditionsclubs. Vier der letzten sieben Super Bowls
 gingen an die beiden Teams. Beide Quarterbacks waren Erstrundenpicks im
 starken Draft 2004. Auch diese Saison sind beide Teams ähnlich, beide
@@ -198,10 +167,7 @@ New York, so dass sie erst Sonntag anreisen und direkt nach dem Spiel
 wieder abreisen. Keine guten Vorzeichen für einen Sieg der Steelers.  
 **Siegwahrscheinlichkeit:** 35.9% : 64.1%
 
-</div>
-### [Dallas Cowboys @ Atlanta Falcons:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Dallas Cowboys @ Atlanta Falcons:
 Die Cowboys waren gegen die Giants drauf und dran eine
 Riesenüberraschung zu schaffen, in dem sie einen 23:0-Rückstand noch
 aufholen konnten. Doch auf sowas kann man sich nicht jede Woche
@@ -218,10 +184,7 @@ spielt Romo schon im ersten Quarter fehlerfrei, dann kann das ein
 spannendes Spiel werden.  
 **Siegwahrscheinlichkeit:** 13.6% : 86.4%
 
-</div>
-### [Philadelphia Eagles @ New Orleans Saints:][Denver Broncos @ Cincinnati Bengals:]
-
-<div>
+### Philadelphia Eagles @ New Orleans Saints:
 Beide Teams enttäuschen diese Saison. Doch kein anderes Team ist so im
 Selbstzerstörungsmodus wie die Philadelphia Eagles. Jede Woche zweifelt
 jeder an jedem und das Team selbst tut nichts, um zu zeigen, dass es
@@ -235,8 +198,3 @@ Saints viele Punkte einschenken. Spielen sie aber so desolat wie gegen
 die Falcons, hat die Saints-Defense das erste Erfolgserlebnis seit
 langem.  
 **Siegwahrscheinlichkeit:** 75.4% : 24.6%
-
-</div>
-</div>
-
-  [Denver Broncos @ Cincinnati Bengals:]: #

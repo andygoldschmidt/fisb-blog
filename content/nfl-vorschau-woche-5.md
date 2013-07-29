@@ -7,20 +7,8 @@ Slug: nfl-vorschau-woche-5
 Diese Woche habe ich es tatsächlich geschafft die Vorschau zu schreiben,
 bevor das erste Spiel angepfiffen wurde.
 
-Noch dazu habe ich am Design der Preview etwas geschraubt, um es
-übersichtlicher zu gestalten als es bisher war. Die Akkordion-Anordnung
-erscheint mir deutlich besser lesbar als der lange Fließtext bisher,
-gerade wenn man sich einen Überblick über bestimmte Spiele verschaffen
-will.
+### Arizona Cardinals @ St. Louis Rams:
 
-*UPDATE: Da hatte sich der Fehlerteufel eingeschlichen, so dass die
-Akkordion-Ansicht nicht funktioniert hat. Der Fehler sollte jetzt
-behoben sein.*
-
-<div id="accordion">
-### [Arizona Cardinals @ St. Louis Rams:][]
-
-<div>
 Die Defense der Cardinals gehört derzeit zu den besseren in der Liga.
 Daher denke ich, dass es für die Rams schwer wird, Punkte aufs
 Scoreboard zu bringen, ähnlich wie es schon in Woche 3 gegen die Chicago
@@ -31,10 +19,8 @@ besser über das Feld bewegen wird und am Ende in einem
 defensiv-dominierten Spiel die Nase vorn hat.  
 **Siegwahrscheinlichkeit:** 86.4% : 13.6%
 
-</div>
-### [Miami Dolphins @ Cincinnati Bengals:][Arizona Cardinals @ St. Louis Rams:]
+### Miami Dolphins @ Cincinnati Bengals:
 
-<div>
 Ryan Tannehill hat gegen die starke Cardinals-Defense sicher etwas
 geschafft, dass ihm kaum jemand zugetraut hat: 431 Yards standen am Ende
 für ihn zu Buche. Jedoch darf man sich nicht täuschen lassen: er hat
@@ -49,10 +35,8 @@ werden, dass deutlich knapper werden könnte, als es die
 Siegwahrscheinlichkeit suggeriert.  
 **Siegwahrscheinlichkeit:** 27.0% : 73.0%
 
-</div>
-### [Green Bay Packers @ Indianapolis Colts:][Arizona Cardinals @ St. Louis Rams:]
+### Green Bay Packers @ Indianapolis Colts:
 
-<div>
 Die Colts kommen von ihrer frühen Bye-Week zurück. Jedoch vorerst ohne
 ihren Head Coach Chuck Pagano, bei dem unter der Woche eine Form von
 Leukämie festgestellt wurde. Offense Coordinator Bruce Arians übernimmt
@@ -68,10 +52,8 @@ sicher zu dem ein oder anderen Fehler zwingen. Ich denke die Packers
 gewinnen klarer als es die Wahrscheinlichkeit vermuten lässt.  
 **Siegwahrscheinlichkeit:** 55.8% : 44.2%
 
-</div>
-### [Baltimore Ravens @ Kansas City Chiefs:][Arizona Cardinals @ St. Louis Rams:]
+### Baltimore Ravens @ Kansas City Chiefs:
 
-<div>
 Die Ravens sind auf beiden Seiten des Balls sehr stark. Auch wenn Joe
 Flacco gegen die Browns nicht immer ganz souverän aussah, so sieht man
 bei ihm doch eine positive Entwicklung im Vergleich zu letzter Saison.
@@ -86,10 +68,8 @@ ihren eigenen Ansprüchen meilenweit hinterherrennt. Es wäre eine
 faustdicke Überraschung, wenn die Chiefs die Ravens ärgern können.  
 **Siegwahrscheinlichkeit:** 84.9% : 15.1%
 
-</div>
-### [Tennessee Titans @ Minnesota Vikings:][Arizona Cardinals @ St. Louis Rams:]
+### Tennessee Titans @ Minnesota Vikings:
 
-<div>
 Wie in [meinem Rückblick schon geschrieben][], sind die Vikings sicher
 eine der größten Überraschungen der Saison. Ihre Defense hat sich von
 Spiel zu Spiel gesteigert und spielte zuletzt auf einem sehr hohen
@@ -108,10 +88,8 @@ die Defense aushelfen und weniger als die bisherigen 38 Punkte (!!!) im
 Durchschnitt zulassen.  
 **Siegwahrscheinlichkeit:** 25.0% : 75.0%
 
-</div>
-### [Cleveland Browns @ New York Giants:][Arizona Cardinals @ St. Louis Rams:]
+### Cleveland Browns @ New York Giants:
 
-<div>
 Als Giants-Fan muss man derzeit ein dickes Fell haben, jede Woche fallen
 ein oder zwei Starter einer Verletzung zum Opfer, vor allem das
 Defensive Backfield ist ein einziges Lazarett. Jetzt reiht sich auch
@@ -131,10 +109,8 @@ Sonntag darauf besinnen, werden die Browns auch im fünften Spiel keinen
 Sieg davon tragen.  
 **Siegwahrscheinlichkeit:** 24.4% : 75.6%
 
-</div>
-### [Philadelphia Eagles @ Pittsburgh Steelers:][Arizona Cardinals @ St. Louis Rams:]
+### Philadelphia Eagles @ Pittsburgh Steelers:
 
-<div>
 Zum ersten Mal in dieser Saison haben es die Eagles letzte Woche
 geschafft, den Ball nicht durch einen Fehler abzugeben. Das Ergebnis war
 eine solide Leistung der Offense und eine beeindruckende Demonstration
@@ -148,10 +124,8 @@ stoppen und QB Michael Vick unter Druck zu setzen, haben sie gute
 Chancen, mit ihrer Offense das Spiel für sich zu entscheiden.  
 **Siegwahrscheinlichkeit:** 82.4% : 17.6%
 
-</div>
-### [Atlanta Falcons @ Washington Redskins:][Arizona Cardinals @ St. Louis Rams:]
+### Atlanta Falcons @ Washington Redskins:
 
-<div>
 Die Falcons haben es überraschend spannend gemacht gegen die Panthers,
 haben aber am Ende gezeigt, wie gefährlich und abgezockt sie spielen
 können. Die Defense ist in der Lauf- aber vor allem der Passverteidigung
@@ -166,10 +140,8 @@ Robert Griffin III bemüht sich zwar redlich, aber ohne Defensive ist
 alle Mühe vergebens.  
 **Siegwahrscheinlichkeit:** 87.2% : 12.8%
 
-</div>
-### [Seattle Seahawks @ Carolina Panthers:][Arizona Cardinals @ St. Louis Rams:]
+### Seattle Seahawks @ Carolina Panthers:
 
-<div>
 Die Wundertüte der Woche. In diesem Spiel kann alles passieren. Die
 Seahawks haben eine herausragende Defense, die Panthers eine sehr gute
 Offense. Die Panthers haben eine schwache Defense, die Seahawks haben
@@ -182,10 +154,8 @@ jedoch an ihre starken Leistungen an, könnte Cam Newtons
 Sideline-Verhalten auch nächste Woche wieder ein Thema sein.  
 **Siegwahrscheinlichkeit:** 80.4% : 19.6%
 
-</div>
-### [Chicago Bears @ Jacksonville Jaguars:][Arizona Cardinals @ St. Louis Rams:]
+### Chicago Bears @ Jacksonville Jaguars:
 
-<div>
 Die Bears haben eine sehr starke Defense. Diese Aussage überrascht
 sicher niemanden. Das ihre Offense aber auch so gefährlich sein kann,
 wie gegen die Dallas Cowboys war schon etwas überraschend. Grund dafür
@@ -200,10 +170,8 @@ das aber nicht reichen. Der Score dieses Spiels könnte sich am
 Jets-49ers Game von letzter Woche orientieren.  
 **Siegwahrscheinlichkeit:** 73.0% : 27.0%
 
-</div>
-### [Denver Broncos @ New England Patriots:][Arizona Cardinals @ St. Louis Rams:]
+### Denver Broncos @ New England Patriots:
 
-<div>
 Tom Brady gegen Peyton Manning. Mal wieder. In der Vergangenheit war bei
 Duellen zwischen den beiden Quarterbacks immer für Spannung bis zur
 letzten Sekunde gesorgt, unvergessen die Playoff-Begegnungen von
@@ -221,10 +189,8 @@ mit seinem Team das Feld als Sieger verlassen will. Sicher eines der
 Top-Spiele der Woche.  
 **Siegwahrscheinlichkeit:** 49.5% : 50.5%
 
-</div>
-### [Buffalo Bills @ San Francisco 49ers:][Arizona Cardinals @ St. Louis Rams:]
+### Buffalo Bills @ San Francisco 49ers:
 
-<div>
 Die Bills haben letzte Woche einen ganz schwarzen Tag gegen die Patriots
 erlebt, nachdem sie trotz zweier Interceptions von QB Ryan Fitzpatrick
 in Führung gegangen sind, wurden sie in der zweiten Halbzeit förmlich
@@ -246,10 +212,8 @@ Bills, das Laufspiel, sind die 49ers besonders gut. Die AFC West kann
 sich auch weiterhin als gutes Pflaster für San Francisco erweisen.  
 **Siegwahrscheinlichkeit:** 26.3% : 73.7%
 
-</div>
-### [San Diego Chargers @ New Orleans Saints:][Arizona Cardinals @ St. Louis Rams:]
+### San Diego Chargers @ New Orleans Saints:
 
-<div>
 Die Chargers sind 3-1 und die Saints 0-4. Klare Sache also? Mitnichten!
 Die drei Siege der Chargers waren allesamt gegen Gegner, die sich in
 allen Rankings ausnahmslos in den negativen Top 5 wiederfinden. Das
@@ -265,10 +229,8 @@ Niederlagen. Die Siegwahrscheinlichkeit leidet in diesem Spiel klar
 darunter, nur auf Siegen zu beruhen.  
 **Siegwahrscheinlichkeit:** 94.0% : 6.0%
 
-</div>
-### [Houston Texans @ New York Jets:][Arizona Cardinals @ St. Louis Rams:]
+### Houston Texans @ New York Jets:
 
-<div>
 Das derzeit beste Team der Liga gegen das vielleicht schlechteste.
 Zumindest in der Offense trifft das auf die New York Jets sicher zu.
 Sahen sie in den letzten Wochen schon lethargisch aus, so dürfte sich
@@ -282,8 +244,6 @@ dem die Texans auch nur ansatzweise Probleme haben werden dieses Spiel
 zu gewinnen.  
 **Siegwahrscheinlichkeit:** 82.6% : 17.4%
 
-</div>
-</div>
 Letzte Woche hatte ich übrigens 10 von 14 Tipps richtig, eine Quote von
 71.2%. Das ist durchaus ok. Insgesamt hat mein Algorithmus nach zwei
 Vorhersagen 18 von 29 Spielen korrekt vorhergesagt, also 62% der Spiele.
@@ -292,6 +252,4 @@ Nach diesem Spieltag werde ich die Siegvorhersagen des bisher
 verwendeten Maximum-Likelihood Ranking-Systems mit meinem Point
 Spread-System vergleichen und gegebenenfalls einen Wechsel vornehmen.
 
-  [Arizona Cardinals @ St. Louis Rams:]: #
-  [meinem Rückblick schon geschrieben]: http://footballissexbaby.de/2012/10/die-nfl-in-zahlen-woche-4/
-    "Die NFL in Zahlen: Woche 4"
+  [meinem Rückblick schon geschrieben]: |filename|die-nfl-in-zahlen-woche-4.md

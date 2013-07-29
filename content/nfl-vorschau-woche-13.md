@@ -3,13 +3,13 @@ Date: 2012-12-01 20:00
 Author: footballissexbaby
 Slug: nfl-vorschau-woche-13
 
-<em>Bevor es mit Football losgeht, sollen die traurigen Nachrichten aus
+*Bevor es mit Football losgeht, sollen die traurigen Nachrichten aus
 Kansas City nicht unerwähnt bleiben. Am Samstagnachmittag unserer Zeit
 hat Chiefs-LB Jovan Belcher zuerst seine Freundin und anschließend auf
 dem Chiefs-Teamgelände sich selbst erschossen.
 
 Meine Gedanken sind bei den Hinterbliebenen und der kleinen Tochter
-Belchers, die nach dieser Tragödie als Waise aufwachsen muss.</em>
+Belchers, die nach dieser Tragödie als Waise aufwachsen muss.*
 
 Bereits am Donnerstag haben die Atlanta Falcons eindrucksvoll ihre
 Vormachtstellung in der NFC South mit einem Sieg gegen die New Orleans
@@ -24,10 +24,8 @@ zum Erliegen zu bringen.
 In dieser Form gibt es nur wenige Teams, die die Falcons schlagen
 können.
 
-<div id="accordion">
-### [Jacksonville Jaguars @ Buffalo Bills:][]
+### Jacksonville Jaguars @ Buffalo Bills:
 
-<div>
 Die Jaguars haben seit dem QB-Wechsel auf Chad Henne ein völlig neues
 Selbstvertrauen, vor allem in der Offense. Spieler wie Justin Blackmon
 und Marcedes Lewis profitieren sichtlich davon. In der Defense konnten
@@ -44,10 +42,8 @@ feuchte Wetter nicht gerade für das Team aus dem sonnigen Florida
 spricht.  
 **Siegwahrscheinlichkeit:** 36.6% : 63.4%
 
-</div>
-### [Seattle Seahawks @ Chicago Bears:][Jacksonville Jaguars @ Buffalo Bills:]
+### Seattle Seahawks @ Chicago Bears:
 
-<div>
 Die Bears haben in den letzten Wochen einige Federn lassen müssen,
 konnten gegen Minnesota aber wenigstens wieder einen Sieg feiern. Durch
 den Patzer der Packers haben sie auch weiterhin einen Sieg Vorsprung im
@@ -63,10 +59,8 @@ mit Jay Cutler schaffen können, gegen eine starke Defense zu bestehen.
 Die Bears-Defense sollte ihnen den Rücken recht gut freihalten können.  
 **Siegwahrscheinlichkeit:** 31.3% : 68.7%
 
-</div>
-### [Indianapolis Colts @ Detroit Lions:][Jacksonville Jaguars @ Buffalo Bills:]
+### Indianapolis Colts @ Detroit Lions:
 
-<div>
 Mit sieben Siegen sind die Colts ganz nah dran an den Playoffs, derzeit
 führen sie das Wildcard-Rennen souverän an, aber man darf sich nicht
 täuschen lassen. Nur einmal haben sie mit mehr als sieben Punkten
@@ -82,10 +76,8 @@ Angriff der Colts. Ich tippe gegen die Siegwahrscheinlichkeit auf die
 Lions.  
 **Siegwahrscheinlichkeit:** 68.2% : 31.8%
 
-</div>
-### [Minnesota Vikings @ Green Bay Packers:][Jacksonville Jaguars @ Buffalo Bills:]
+### Minnesota Vikings @ Green Bay Packers:
 
-<div>
 Die Packers haben von den Giants ordentlich auf die Nase bekommen. Die
 Offense hat kaum was auf die Beine gestellt und der Defense waren die
 zahlreichen Ausfälle deutlich anzumerken. Ohne Clay Matthews war der
@@ -100,10 +92,8 @@ das vermochten. Daher rechne ich damit, dass die Packers-Offense
 deutlich besser ist und Minnesota am Ende besiegen wird.  
 **Siegwahrscheinlichkeit:** 36.5% : 63.5%
 
-</div>
-### [Carolina Panthers @ Kansas City Chiefs:][Jacksonville Jaguars @ Buffalo Bills:]
+### Carolina Panthers @ Kansas City Chiefs:
 
-<div>
 Die Chiefs haben es in den letzten zwei Wochen geschafft, Spiele eng zu
 gestalten. Das heißt aber nicht, dass sie besonders gut sind, sondern
 eher, dass die Gegner wissen, wie ungefährlich die Chiefs sind und daher
@@ -116,10 +106,8 @@ Washington und Philadelphia gute Leistungen gezeigt. Gegen die Chiefs
 dürfte das schon zum Sieg reichen.  
 **Siegwahrscheinlichkeit:** 76.1% : 23.9%
 
-</div>
-### [New England Patriots @ Miami Dolphins:][Jacksonville Jaguars @ Buffalo Bills:]
+### New England Patriots @ Miami Dolphins:
 
-<div>
 Die Patriots schaffen es still und leise in fast allen
 Offense-Kategorien auf den ersten Platz zu klettern. Nach einem etwas
 durchwachsenen Saisonstart feuert die Offense um Tom Brady aus allen
@@ -134,10 +122,8 @@ Offense wird sich durch die Defense der Fins nicht bremsen lassen und
 die Pats-Defense dürfte verhältnismäßig leichtes Spiel haben.  
 **Siegwahrscheinlichkeit:** 75.0% : 25.0%
 
-</div>
-### [Arizona Cardinals @ New York Jets:][Jacksonville Jaguars @ Buffalo Bills:]
+### Arizona Cardinals @ New York Jets:
 
-<div>
 Zwei Teams, die in den letzten Wochen zurecht ordentlich auf den Deckel
 bekommen haben. Die Cardinals haben derzeit keinen Quarterback, der
 NFL-Niveau hat (zumindest solange Kevin Kolb ausfällt). Bei den Jets ist
@@ -148,10 +134,8 @@ zu, dass sie das ein oder andere Mal patzt. Ich erwarte hier kein
 hochwertiges Spiel, sehe aber die Jets im Vorteil.  
 **Siegwahrscheinlichkeit:** 46.8% : 53.2%
 
-</div>
-### [Houston Texans @ Tennessee Titans:][Jacksonville Jaguars @ Buffalo Bills:]
+### Houston Texans @ Tennessee Titans:
 
-<div>
 Die Texans haben mit einem Sieg die AFC South so gut wie gewonnen.
 Allerdings reisen sie mit einigen Verletzten in der Defensive an, so
 fallen unter anderem CB Johnathan Joseph und LB Brooks Reed aus. Die
@@ -163,10 +147,8 @@ geben könnte. Dennoch denke ich nicht, dass die Titans gegen die starken
 Texans eine Chance haben werden.  
 **Siegwahrscheinlichkeit:** 90.6% : 9.4%
 
-</div>
-### [San Francisco 49ers @ St. Louis Rams:][Jacksonville Jaguars @ Buffalo Bills:]
+### San Francisco 49ers @ St. Louis Rams:
 
-<div>
 Das erste Spiel vor ein paar Wochen ging Unentschieden aus, es war das
 Spiel, in dem Alex Smith sich eine Gehirnerschütterung zuzog und seitdem
 er auf der Bank Platz nehmen muss. Ich kann den geäußerten Frust Smiths
@@ -179,10 +161,8 @@ einer Verlängerung kommt. Die 49ers sind das derzeit kompletteste
 NFL-Teams und werden das die Rams spüren lassen.  
 **Siegwahrscheinlichkeit:** 77.3% : 22.7%
 
-</div>
-### [Tampa Bay Buccaneers @ Denver Broncos:][Jacksonville Jaguars @ Buffalo Bills:]
+### Tampa Bay Buccaneers @ Denver Broncos:
 
-<div>
 Es ist ein ganz wichtiges Spiel für die Bucs. Nach dem Patzer der Saints
 am Donnerstag hat sich ein Rivale schon fast aus dem Wildcard-Rennen
 verabschiedet. Mit einem Sieg gegen die Broncos wäre Tampa Bay in einer
@@ -197,19 +177,15 @@ glaube ihnen fehlt, gerade in der Passverteidigung, die Stärke um die
 Broncos zu besiegen.  
 **Siegwahrscheinlichkeit:** 27.9% : 72.1%
 
-</div>
-### [Cleveland Browns @ Oakland Raiders:][Jacksonville Jaguars @ Buffalo Bills:]
+### Cleveland Browns @ Oakland Raiders:
 
-<div>
 Muss ich zu diesem Spiel wirklich was schreiben? Nein, nicht wirklich.
 Ich tippe auf Cleveland, weil sie von zwei schlechten Teams einfach das
 bessere sind.  
 **Siegwahrscheinlichkeit:** 54.5% : 45.5%
 
-</div>
-### [Pittsburgh Steelers @ Baltimore Ravens:][Jacksonville Jaguars @ Buffalo Bills:]
+### Pittsburgh Steelers @ Baltimore Ravens:
 
-<div>
 Die Steelers müssen erneut ohne Ben Roethlisberger auskommen, was das
 bedeutet haben sie in den letzten zwei Wochen schmerzhaft zu spüren
 bekommen. Charlie Batch ist nicht in der Lage die Steelers zu führen,
@@ -223,10 +199,8 @@ dazu auch noch Cincinnati stolpert, wäre der Gewinn der AFC North nur
 eine Frage der Zeit sein.  
 **Siegwahrscheinlichkeit:** 23.8% : 76.2%
 
-</div>
-### [Cincinnati Bengals @ San Diego Chargers:][Jacksonville Jaguars @ Buffalo Bills:]
+### Cincinnati Bengals @ San Diego Chargers:
 
-<div>
 Die Bengals haben in den letzten Wochen ordentlich Aufschwung gehabt,
 die Defense spielt immer besser und in der Offense läuft mittlerweile
 auch mehr als nur die Verbindung zwischen QB Andy Dalton und WR A.J.
@@ -238,10 +212,8 @@ ein Trümmerhaufen, ein gefundenes Fressen für DT Geno Atkins und Co. Ich
 denke, die Bengals werden ein starkes Spiel in Kalifornien zeigen.  
 **Siegwahrscheinlichkeit:** 65.1% : 34.9%
 
-</div>
-### [Philadelphia Eagles @ Dallas Cowboys:][Jacksonville Jaguars @ Buffalo Bills:]
+### Philadelphia Eagles @ Dallas Cowboys:
 
-<div>
 Ein Division-Duell, dem jeglicher Glanz fehlt. Die Eagles sind eine
 einzige Enttäuschung, über die man nichts Positives schreiben kann und
 die Cowboys haben auch schon bessere Zeiten erlebt. Allerdings kommt vor
@@ -255,10 +227,8 @@ Spiel zu gewinnen und sollten diese auch nutzen, wenn sie eine Chance
 auf die NFC-Wildcards haben wollen.  
 **Siegwahrscheinlichkeit:** 30.1% : 69.9%
 
-</div>
-### [New York Giants @ Washington Redskins:][Jacksonville Jaguars @ Buffalo Bills:]
+### New York Giants @ Washington Redskins:
 
-<div>
 Die Giants haben sich eindrucksvoll mit einem Sieg gegen die Packers aus
 ihrer Bye-Week zurückgemeldet. Die Redskins haben zu Thanksgiving
 eindrucksvoll die Cowboys geschlagen. Gegen die Packers sah die
@@ -272,8 +242,3 @@ viel Glück gewonnen. An den Rahmenbedingungen hat sich nicht viel
 geändert, es sollte auch Montagnacht wieder ein spannendes Spiel werden,
 ein Spiel in dem die Giants vielleicht etwas bessere Karten haben.  
 **Siegwahrscheinlichkeit:** 64.7% : 35.3%
-
-</div>
-</div>
-
-  [Jacksonville Jaguars @ Buffalo Bills:]: #

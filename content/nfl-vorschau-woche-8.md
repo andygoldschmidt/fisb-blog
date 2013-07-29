@@ -19,10 +19,9 @@ bei Sideline Reporter][] verwiesen.
 
 Widmen wir uns den restlichen Spielen des Wochenendes:
 
-<div id="accordion">
-### [Carolina Panthers @ Chicago Bears:][]
 
-<div>
+### Carolina Panthers @ Chicago Bears:
+
 Die Carolina Panthers straucheln derzeit heftig. Die ohnehin schon
 schlechte Defense verliert fast wöchentlich Spieler, nach CB Chris
 Gamble und OL Ryan Kalil traf es jetzt auch LB Jon Beason. Gepaart mit
@@ -36,10 +35,8 @@ den Ball zu bewegen, die Defense hat die nötigen Spieler um Cam Newton
 aus dem Spiel zu nehmen und die Partie schnell zu entscheiden.  
 **Siegwahrscheinlichkeit:** 9.8% : 90.2%
 
-</div>
-### [San Diego Chargers @ Cleveland Browns:][Carolina Panthers @ Chicago Bears:]
+### San Diego Chargers @ Cleveland Browns:
 
-<div>
 Sowohl die Browns als auch die Chargers haben bisher recht leichte
 Spielpläne gehabt, die Chargers sogar den leichtesten. Dennoch verlief
 für beide Teams die Saison bisher nicht wie gewünscht. Alle drei
@@ -58,10 +55,8 @@ gehen zwar als Favoriten ins Spiel, aber wenn Philip Rivers einen
 Überraschung erleben.  
 **Siegwahrscheinlichkeit:** 77.2% : 22.8%
 
-</div>
-### [Seattle Seahawks @ Detroit Lions:][Carolina Panthers @ Chicago Bears:]
+### Seattle Seahawks @ Detroit Lions:
 
-<div>
 Die Chicago Bears haben letzte Woche vorgemacht, wie man Detroits
 Offense stoppen kann. Fast im Alleingang konnte CB Charles Tillman
 Calvin "Megatron" Johnson aus dem Spiel nehmen. Schafft man das, dann
@@ -76,10 +71,8 @@ kein gutes Vorzeichen für Matthew Stafford und Calvin Johnson, um wieder
 in den alten Rhythmus zurückzufinden.  
 **Siegwahrscheinlichkeit:** 64.2% : 35.8%
 
-</div>
-### [Jacksonville Jaguars @ Green Bay Packers:][Carolina Panthers @ Chicago Bears:]
+### Jacksonville Jaguars @ Green Bay Packers:
 
-<div>
 Ich habe bereits [in der Review von Woche 7 geschrieben][], dass die
 Packers eines der Teams sind, auf die man im weiteren Saisonverlauf
 achten muss. Nach anfänglichen Problemchen zu Saisonbeginn läuft die
@@ -94,10 +87,8 @@ gezogen. Es gibt keinen Grund zur Annahme, dass die Packers dieses Spiel
 verlieren werden.  
 **Siegwahrscheinlichkeit:** 18.3% : 81.7%
 
-</div>
-### [Miami Dolphins @ New York Jets:][Carolina Panthers @ Chicago Bears:]
+### Miami Dolphins @ New York Jets:
 
-<div>
 Wie letzte Woche gemutmaßt, war das Spiel Jets-Patriots tatsächlich
 spannend. Aber trotz katastrophaler Pass-Defense der Patriots traf QB
 Mark Sanchez kaum mal einen Receiver, ein eigentlich sicherer TD-Pass zu
@@ -114,10 +105,8 @@ werden. Eine weitere Niederlage für New York und Platz 1 in der AFC East
 ist plötzlich in weiter Ferne.  
 **Siegwahrscheinlichkeit:** 51.5% : 48.5%
 
-</div>
-### [Indianapolis Colts @ Tennessee Titans:][Carolina Panthers @ Chicago Bears:]
+### Indianapolis Colts @ Tennessee Titans:
 
-<div>
 Die Titans schaffen es unter QB Matt Hasselbeck zu gewinnen, gerade der
 Sieg in Woche 6 gegen die Steelers kam überraschend. Das große Problem
 der Titans ist die Defense die es einfach nicht schafft gegnerische
@@ -130,10 +119,8 @@ Titans soweit in Schach zu halten, dass am Ende ein Sieg zu Buche
 steht.  
 **Siegwahrscheinlichkeit:** 52.2% : 47.8%
 
-</div>
-### [Atlanta Falcons @ Philadelphia Eagles:][Carolina Panthers @ Chicago Bears:]
+### Atlanta Falcons @ Philadelphia Eagles:
 
-<div>
 Asante Samuel kehrt an alte Wirkungsstätte zurück und Michael Vick
 empfängt sein altes Team. Gleichzeitig trifft eines der bestgeredeten
 Teams auf eines der schlechtgeredeten. Weder sind die Falcons so gut,
@@ -153,10 +140,8 @@ und vernachlässigt man RB LeSean McCoy freuen sich die Falcons über
 einen leichten Sieg.  
 **Siegwahrscheinlichkeit:** 83.9% : 16.1%
 
-</div>
-### [Washington Redskins @ Pittsburgh Steelers:][Carolina Panthers @ Chicago Bears:]
+### Washington Redskins @ Pittsburgh Steelers:
 
-<div>
 Die Redskins schaffen es Woche für Woche überraschend gut ihre Defizite
 in der Defense zu überspielen, ein großes Lob dafür gebürt dem zu
 Unrecht gescholtenen DC Jim Haslett. Einzig bei dem 77-Yard-Pass auf
@@ -173,10 +158,8 @@ zum Atmen zu lassen, ansonsten werden die Redskins dieses Spiel
 gewinnen.  
 **Siegwahrscheinlichkeit:** 46.7% : 53.3%
 
-</div>
-### [New England Patriots @ St. Louis Rams:][Carolina Panthers @ Chicago Bears:]
+### New England Patriots @ St. Louis Rams:
 
-<div>
 Das diesjährige London-Spiel könnte spannender werden als es auf den
 ersten Blick aussieht. Klar ist die Patriots-Offense der aus St. Louis
 überlegen, allerdings sieht es auf der defensiven Seite genau anders
@@ -188,10 +171,8 @@ für New England gewesen sein, wenn sie nochmals so leichtfertig spielen,
 könnten am Ende die Rams im Wembley Stadium jubeln.  
 **Siegwahrscheinlichkeit:** 59.5% : 40.5%
 
-</div>
-### [Oakland Raiders @ Kansas City Chiefs:][Carolina Panthers @ Chicago Bears:]
+### Oakland Raiders @ Kansas City Chiefs:
 
-<div>
 Letzte Woche gegen die Jaguars, diese Woche gegen die Chiefs. Ein
 Spielplan der für jedes NFL-Team nach zwei fast sicheren Siegen riecht.
 Aber leider nicht für die Oakland Raiders. Der Carson Palmer-Trade
@@ -203,10 +184,8 @@ unterbunden, kann es ein enges Spiel werden, aber ich fürchte kein
 unterhaltsames.  
 **Siegwahrscheinlichkeit:** 68.7% : 31.3%
 
-</div>
-### [New York Giants @ Dallas Cowboys:][Carolina Panthers @ Chicago Bears:]
+### New York Giants @ Dallas Cowboys:
 
-<div>
 Nach zwei Niederlagen in den ersten beiden Division-Games haben die
 Giants gegen die Redskins einen wichtigen Sieg eingefahren. Die Cowboys
 dagegen haben sich gegen die Panthers zu einem Sieg gequält. Beide Teams
@@ -226,10 +205,8 @@ Teams wird man sich auf viele Punkte und Spannung bis zum Schluss freuen
 dürfen.  
 **Siegwahrscheinlichkeit:** 59.7% : 40.3%
 
-</div>
-### [New Orleans Saints @ Denver Broncos:][Carolina Panthers @ Chicago Bears:]
+### New Orleans Saints @ Denver Broncos:
 
-<div>
 Peyton Manning hat der Broncos-Offense viel Schwung gegeben, mit jeder
 Woche merkt man, dass er besser mit seinen Receivern klarkommt und
 langsam wieder der Alte wird. Dazu noch eine hervorragende Defense und
@@ -241,10 +218,8 @@ dieser ausgeglichenen Teams, die einen Gegner gnadenlos besiegen, wenn
 der nicht ebenfalls auf beiden Seiten des Balls gut spielt.  
 **Siegwahrscheinlichkeit:** 22.2% : 77.8%
 
-</div>
-### [San Francisco 49ers @ Arizona Cardinals:][Carolina Panthers @ Chicago Bears:]
+### San Francisco 49ers @ Arizona Cardinals:
 
-<div>
 Nachdem die Cardinals mit vier Siegen in die Saison gestartet sind,
 folgten drei schmerzhafte Niederlagen. Ersatz-QB John Skelton wirkte
 letzte Woche gegen die Minnesota Vikings nicht wie ein NFL-Quarterback.
@@ -258,10 +233,6 @@ Cardinals wird von der Offense ohnehin nicht viel verlangt werden. Ein
 solides Spiel sollte zum Erfolg schon genügen.  
 **Siegwahrscheinlichkeit:** 62.9% : 37.1%
 
-</div>
-</div>
 
   [den Recap von korsakoff bei Sideline Reporter]: http://sidelinereporter.wordpress.com/2012/10/26/recap-vikings-vs-buccaneers/
-  [Carolina Panthers @ Chicago Bears:]: #
-  [in der Review von Woche 7 geschrieben]: http://footballissexbaby.de/2012/10/die-nfl-in-zahlen-woche-7/
-    "Die NFL in Zahlen: Woche 7"
+  [in der Review von Woche 7 geschrieben]: |filename|die-nfl-in-zahlen-woche-7.md

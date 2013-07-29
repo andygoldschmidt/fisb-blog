@@ -4,10 +4,8 @@ Author: footballissexbaby
 Tags: Football, NFL, Preview
 Slug: nfl-vorschau-woche-14
 
-<div id="accordion">
-### [St. Louis Rams @ Buffalo Bills:][]
+### St. Louis Rams @ Buffalo Bills:
 
-<div>
 Die Bills kehren von einem überzeugenden Sieg gegen Jacksonville ins
 heimische Stadion zurück. Die Offense weiß überwiegend durch das
 Laufspiel zu überzeugen, gerade RB C.J. Spiller hat eine
@@ -25,10 +23,8 @@ spannend sein zu sehen, wie beide Teams miteinander klar kommen. Das
 könnte ein sehr interessantes Spiel werden.  
 **Siegwahrscheinlichkeit:** 54.4% : 45.6%
 
-</div>
-### [Atlanta Falcons @ Carolina Panthers:][St. Louis Rams @ Buffalo Bills:]
+### Atlanta Falcons @ Carolina Panthers:
 
-<div>
 Seit zwei Jahren haben die Panthers nun einen Head Coach, der viel
 Ahnung von Defenses in der NFL hat. Dennoch hat es Ron Rivera in der
 Zeit nicht geschafft, aus der Defense wenigstens eine durchschnittliche
@@ -45,10 +41,8 @@ besser wird. Gegen Carolina sollte das Team von HC Mike Smith keine
 Probleme haben.  
 **Siegwahrscheinlichkeit:** 92.2% : 7.8%
 
-</div>
-### [Dallas Cowboys @ Cincinnati Bengals:][St. Louis Rams @ Buffalo Bills:]
+### Dallas Cowboys @ Cincinnati Bengals:
 
-<div>
 Das ist so ein typisches Münzwurfspiel. Beide Teams sind Durchschnitt,
 beide Teams können aber an guten Tagen auch ein Top-Team schlagen.
 Kurzum, beide sind ziemlich unvorhersehbar. In den letzten Wochen ist
@@ -66,10 +60,8 @@ ganz klar auf die Tagesform ankommen, doch ich würde leichte Vorteile
 bei den Cowboys sehen.  
 **Siegwahrscheinlichkeit:** 48.8% : 51.2%
 
-</div>
-### [Kansas City Chiefs @ Cleveland Browns:][St. Louis Rams @ Buffalo Bills:]
+### Kansas City Chiefs @ Cleveland Browns:
 
-<div>
 Ein Riesenkompliment an die Chiefs, dass sie so kurz nach der Tragödie
 um LB Jevon Belcher aufs Feld gegangen sind und ihr bisher bestes
 Footballspiel der Saison gezeigt haben. Das ist nicht selbstverständlich
@@ -84,10 +76,8 @@ unter Umständen um nichts mehr geht, da könnten einige Personen
 vielleicht eine Bewerbung für nächste Saison abgeben.  
 **Siegwahrscheinlichkeit:** 29.8% : 70.2%
 
-</div>
-### [Tennessee Titans @ Indianapolis Colts:][St. Louis Rams @ Buffalo Bills:]
+### Tennessee Titans @ Indianapolis Colts:
 
-<div>
 Die Colts haben dieses Jahr viel Glück knappe Spiele zu gewinnen,
 wodurch sie nah dran sind an einem Wildcard-Playoffplatz. Die Titans
 dagegen befinden sich im Niemandsland der Tabelle, sie haben weder eine
@@ -102,10 +92,8 @@ sollte QB Andrew Luck leichtes Spiel haben, wodurch keine echte Spannung
 in diesem für Indianapolis wichtigen Spiel aufkommen sollte.  
 **Siegwahrscheinlichkeit:** 27.5% : 72.5%
 
-</div>
-### [New York Jets @ Jacksonville Jaguars:][St. Louis Rams @ Buffalo Bills:]
+### New York Jets @ Jacksonville Jaguars:
 
-<div>
 Letzte Woche haben die Jets (endlich) Mark Sanchez nach einer
 katastrophalen Leistung auf die Bank gesetzt und Greg McElroy aufs Feld
 gelassen. McElroy war sicher nicht überragend, aber hat der Offense
@@ -122,10 +110,8 @@ die Titans anschließen kann, werden sogar die Sanchez-geführten Jets
 gegen die Jaguars gewinnen.  
 **Siegwahrscheinlichkeit:** 76.4% : 23.6%
 
-</div>
-### [Chicago Bears @ Minnesota Vikings:][St. Louis Rams @ Buffalo Bills:]
+### Chicago Bears @ Minnesota Vikings:
 
-<div>
 Die Bears befinden sich derzeit in einem Tief, drei der letzten vier
 Spiele wurden verloren. Die Defense ist bei weitem nicht mehr so
 dominant, wie in der ersten Saisonhälfte. Der einzige Sieg in dieser
@@ -144,10 +130,8 @@ in der Lage sein den Schaden durch Peterson zu begrenzen und das Spiel
 zu gewinnen.  
 **Siegwahrscheinlichkeit:** 67.5% : 32.5%
 
-</div>
-### [San Diego Chargers @ Pittsburgh Steelers:][St. Louis Rams @ Buffalo Bills:]
+### San Diego Chargers @ Pittsburgh Steelers:
 
-<div>
 Die Chargers haben eine allenfalls durchschnittliche Offense und eine
 genauso durchschnittliche Defense. Dieses Team wird große Probleme mit
 der wiedererstarkten Steelers-Defense haben. Die Rückkehr von Safety
@@ -161,10 +145,8 @@ gegen die Baltimore Ravens war ein willkommeren Schub. Gegen die
 Chargers steht einem weiteren Sieg kaum was im Weg.  
 **Siegwahrscheinlichkeit:** 26.8% : 73.2%
 
-</div>
-### [Philadelphia Eagles @ Tampa Bay Buccaneers:][St. Louis Rams @ Buffalo Bills:]
+### Philadelphia Eagles @ Tampa Bay Buccaneers:
 
-<div>
 Die Buccaneers spielen eine überraschend starke Saison. Die Defense ist
 deutlich stabiler als in vergangenen Jahren und die Offense spielt dank
 Offensive Coordinator Mike Sullivan auf einem sehr hohen Niveau. Nicht
@@ -179,10 +161,8 @@ Eagles ohne weiteren Sieg die Saison beenden werden, gegen Tampa Bay
 kann ich es mir jedenfalls nicht vorstellen, dass die Eagles gewinnen.  
 **Siegwahrscheinlichkeit:** 31.6% : 68.4%
 
-</div>
-### [Baltimore Ravens @ Washington Redskins:][St. Louis Rams @ Buffalo Bills:]
+### Baltimore Ravens @ Washington Redskins:
 
-<div>
 Die Washington Redskins sind spätestens seit dem Sieg gegen die New York
 Giants eines der Lieblingsteams der Medien, allen voran ihr
 charismatischer Quarterback Robert Griffin III. Und in der Tat spielen
@@ -205,10 +185,8 @@ eigene Defense allein können sich die Ravens in diesem Spiel nicht
 verlassen.  
 **Siegwahrscheinlichkeit:** 71.3% : 28.7%
 
-</div>
-### [Miami Dolphins @ San Francisco 49ers:][St. Louis Rams @ Buffalo Bills:]
+### Miami Dolphins @ San Francisco 49ers:
 
-<div>
 Den Dolphins fehlt ganz klar ein Nummer-1 Receiver. Egal wie stark Brian
 Hartline spielt, er ist einfach kein Top-WR und das merkt man immer
 mehr. Dadurch ist es für QB Ryan Tannehill auch schwer Erfolg im
@@ -225,10 +203,8 @@ wirken sollte als zuletzt gegen die Rams. Es wäre eine faustdicke
 Überraschung, wenn die 49ers dieses Spiel nicht gewinnen sollten.  
 **Siegwahrscheinlichkeit:** 29.8% : 70.2%
 
-</div>
-### [New Orleans Saints @ New York Giants:][St. Louis Rams @ Buffalo Bills:]
+### New Orleans Saints @ New York Giants:
 
-<div>
 Die New Orleans Saints sind der absolute Angstgegner der New York
 Giants. Bei den zahlreichen Aufeinandertreffen der beiden Teams in den
 letzten Jahren gingen die Saints immer als klarer Sieger vom Platz. Die
@@ -248,10 +224,8 @@ durch RB Ahmad Bradshaw. Die Giants sind insgesamt das ausgewogenere
 Team, weshalb ich sie im Vorteil sehen würde.  
 **Siegwahrscheinlichkeit:** 35.6% : 64.4%
 
-</div>
-### [Arizona Cardinals @ Seattle Seahawks:][St. Louis Rams @ Buffalo Bills:]
+### Arizona Cardinals @ Seattle Seahawks:
 
-<div>
 Letzte Woche waren die Cardinals nah dran am Sieg, auch wenn es wieder
 mal eine erschreckende Leistung der Offense war. Aber immerhin haben sie
 zwei Field Goals geschossen, was gegen die New York Jets beinahe
@@ -263,10 +237,8 @@ schwache Cardinals-Defense die Zähne ausbeißen dürfte. Der klare Favorit
 in diesem Match heißt Seattle.  
 **Siegwahrscheinlichkeit:** 30.4% : 69.6%
 
-</div>
-### [Detroit Lions @ Green Bay Packers:][St. Louis Rams @ Buffalo Bills:]
+### Detroit Lions @ Green Bay Packers:
 
-<div>
 Die Lions haben eine ziemlich enttäuschende Saison. Nach dem letzten
 Jahr waren die Erwartungen sehr hoch, doch die Erwartungen konnten nicht
 erfüllt werden. Stattdessen hat man eine gute Offense und eine schwache
@@ -284,10 +256,8 @@ Lions-Defense wird nicht in der Lage sein Randall Cobb, Greg Jennings
 und Jordy Nelson zu bremsen.  
 **Siegwahrscheinlichkeit:** 22.0% : 78.0%
 
-</div>
-### [Houston Texans @ New England Patriots:][St. Louis Rams @ Buffalo Bills:]
+### Houston Texans @ New England Patriots:
 
-<div>
 Das ist ein Monday Night-Spiel, dass es in sich hat: zwei der besten
 Mannschaften treffen zur besten (amerikanischen) Sendezeit aufeinander.
 Die bärenstarke Patriots-Offense trifft auf eine hervorragende
@@ -297,8 +267,3 @@ denn dieses Spiel ist von den Voraussetzungen her eines der besten des
 ganzen Jahres. Ich tue mich schwer, in dem Spiel einen Favoriten
 auszumachen, aber eines weiß ich: Anschauen ist Pflicht!  
 **Siegwahrscheinlichkeit:** 69.9% : 30.1%
-
-</div>
-</div>
-
-  [St. Louis Rams @ Buffalo Bills:]: #

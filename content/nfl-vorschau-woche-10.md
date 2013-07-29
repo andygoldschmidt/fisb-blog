@@ -21,10 +21,8 @@ Chiefs einen harten Kampf um den First Overall Pick liefert.
 Doch schauen wir nach vorn und werfen einen Blick auf die Sonntags- und
 das Montagsspiel.
 
-<div id="accordion">
-### [Denver Broncos @ Carolina Panthers:][]
+### Denver Broncos @ Carolina Panthers:
 
-<div>
 Die Denver Broncos gehören sicher zu den besten Teams der Liga. Einige
 Ranking-Systeme, wie das von Brian Burke, sehen Denver sogar als bestes
 Team. Ein Grund dafür ist, dass sie auf beiden Seiten sehr guten und
@@ -37,10 +35,8 @@ wie der der Broncos weiterhin große Probleme haben. Kombiniert mit
 Denvers Offense scheint das ein sicherer Sieg für die Broncos zu sein.  
 **Siegwahrscheinlichkeit:** 79.7% : 20.3%
 
-</div>
-### [New York Giants @ Cincinnati Bengals:][Denver Broncos @ Carolina Panthers:]
+### New York Giants @ Cincinnati Bengals:
 
-<div>
 Die Bengals sind eines dieser Teams, die merken, was "*regression to the
 mean*" bedeutet: ein Team, dass in einer Saison besser als erwartet ist,
 wird in der nächsten Saison die Erwartungen nicht erfüllen (vereinfacht
@@ -60,10 +56,8 @@ Möglichkeit die Giants zu besiegen, wenn die ihre Offense-Probleme nicht
 schnell in Griff bekommen.  
 **Siegwahrscheinlichkeit:** 74.9% : 25.1%
 
-</div>
-### [Tennessee Titans @ Miami Dolphins:][Denver Broncos @ Carolina Panthers:]
+### Tennessee Titans @ Miami Dolphins:
 
-<div>
 Die Dolphins haben gegen die Colts wieder mal ein Spiel nur knapp
 verloren. Für mich sind sie auch weiterhin eines der Überraschungsteams
 der Saison. Im Playoff-Rennen haben sie nur einen Sieg Rückstand auf die
@@ -77,10 +71,8 @@ Mittelmaß. Mit diesem Team wird es sehr schwer die Dolphins zu
 schlagen.  
 **Siegwahrscheinlichkeit:** 42.3% : 57.7%
 
-</div>
-### [Detroit Lions @ Minnesota Vikings:][Denver Broncos @ Carolina Panthers:]
+### Detroit Lions @ Minnesota Vikings:
 
-<div>
 Zwei völlig entgegengesetzte Teams. Die Vikings haben sehr stark
 begonnen und haben jetzt mächtig Probleme, vor allem QB Christian Ponder
 wirkt total verunsichert. Die Lions dagegen kommen langsam richtig in
@@ -93,10 +85,8 @@ Die Lions könnten eines der Teams werden, die durch ein starkes
 Saison-Finish doch noch im Playoff-Rennen mitmischen könnten.  
 **Siegwahrscheinlichkeit:** 48.6% : 51.4%
 
-</div>
-### [Atlanta Falcons @ New Orleans Saints:][Denver Broncos @ Carolina Panthers:]
+### Atlanta Falcons @ New Orleans Saints:
 
-<div>
 Vor ein paar Wochen noch hätte man in diesem Duell die Saints als
 aussichtslos eingeschätzt, da ja die sieglosen Saints gegen die
 ungeschlagenen Falcons antreten. Jedoch ist dieses Duell immer
@@ -113,10 +103,8 @@ dass das ein punktreiches und enges Spiel werden könnte, bei dem die
 Falcons noch lange nicht als sicherer Sieger feststehen.  
 **Siegwahrscheinlichkeit:** 93.1% : 6.9%
 
-</div>
-### [Buffalo Bills @ New England Patriots:][Denver Broncos @ Carolina Panthers:]
+### Buffalo Bills @ New England Patriots:
 
-<div>
 Das Spiel ist so eines dieser Division-Duelle, in denen immer alles
 passieren kann. Im ersten Aufeinandertreffen sind die Bills ordentlich
 unter die Räder gekommen, 28-52 hieß es damals am Ende. Leider haben die
@@ -131,10 +119,8 @@ Bills-QB Ryan Fitzpatrick an, ob die Bills das Spiel spannend gestalten
 können oder nicht.  
 **Siegwahrscheinlichkeit:** 28.0% : 72.0%
 
-</div>
-### [Oakland Raiders @ Baltimore Ravens:][Denver Broncos @ Carolina Panthers:]
+### Oakland Raiders @ Baltimore Ravens:
 
-<div>
 Die Raiders wurden letzte Woche das jüngste Opfer von Bucs-RB Doug
 Martin. Fast im Alleingang hat dieser sein Team mit 4 Touchdowns zum
 Sieg geführt. Diese Woche wartet wieder ein Team mit einem verdammt
@@ -150,10 +136,8 @@ Bowler aus. Die Ravens sollten es ohne allzu viel Mühe schaffen, einen
 Sieg einzufahren.  
 **Siegwahrscheinlichkeit:** 22.5% : 77.5%
 
-</div>
-### [San Diego Chargers @ Tampa Bay Buccaneers:][Denver Broncos @ Carolina Panthers:]
+### San Diego Chargers @ Tampa Bay Buccaneers:
 
-<div>
 Beide Teams sind sich recht ähnlich. Beide 4 Siege, beide ein ähnliches
 Verhältnis von erzielten zu erlaubten Punkten, was zu einer
 pythagoräischen Erwartung von 9.6 (Chargers) bzw. 9.9 Siegen (Bucs)
@@ -167,10 +151,8 @@ Schaffen sie es diesen Schwung mit in das Chargers-Spiel zu nehmen,
 könnten sie plötzlich ein echter Kandidat im NFC-Wildcard-Rennen sein.  
 **Siegwahrscheinlichkeit:** 50.0% : 50.0%
 
-</div>
-### [New York Jets @ Seattle Seahawks:][Denver Broncos @ Carolina Panthers:]
+### New York Jets @ Seattle Seahawks:
 
-<div>
 Zwei gute Defenses, aber nur eine gute Offense. Auch wenn die Seahawks
 sicher nicht den explosivsten Angriff haben, so schaffen sie es mit
 einem klasse Laufspiel und einem soliden Passspiel mehr Spiele zu
@@ -184,10 +166,8 @@ gegen die Seahawks wieder auf ihre Defense angewiesen sein. Für mich
 sind die Seahawks der klare Favorit in diesem Spiel.  
 **Siegwahrscheinlichkeit:** 39.0% : 61.0%
 
-</div>
-### [Dallas Cowboys @ Philadelphia Eagles:][Denver Broncos @ Carolina Panthers:]
+### Dallas Cowboys @ Philadelphia Eagles:
 
-<div>
 Sowohl die Cowboys als auch die Eagles sehen sich viel Kritik
 ausgesetzt. Jedoch muss man den Cowboys zugute halten, dass sie eine
 gute Defense haben und eine Offense, die oft schlechter geredet wird als
@@ -206,10 +186,8 @@ wie sie aber bisher spielen, könnte das ein sehr unattraktives Spiel
 werden.  
 **Siegwahrscheinlichkeit:** 56.1% : 43.9%
 
-</div>
-### [St. Louis Rams @ San Francisco 49ers:][Denver Broncos @ Carolina Panthers:]
+### St. Louis Rams @ San Francisco 49ers:
 
-<div>
 Die 49ers spielen wieder eine verdammt starke Saison. Die Defense knüpft
 an die starken Leistung der letzten Saison an, auf der offensiven Seite
 spielt RB Frank Gore eine fantastische Saison und die zahlreichen Free
@@ -223,10 +201,8 @@ Die 49ers sollten ihrerseits gegen die gute Rams-Defense genug punkten,
 um einen sicheren Heimsieg zu feiern.  
 **Siegwahrscheinlichkeit:** 23.5% : 76.5%
 
-</div>
-### [Houston Texans @ Chicago Bears:][Denver Broncos @ Carolina Panthers:]
+### Houston Texans @ Chicago Bears:
 
-<div>
 Das ist sicher ohne Zweifel das Spiel der Woche. Die Bears sind sowohl
 in Punktdifferenz-basierten Rankings als auch in der pythagoräischen
 Erwartung Spitzenreiter, allerdings dicht gefolgt von den Texans. Die
@@ -242,10 +218,8 @@ aufeinandertreffen. Bei einer Wahl würde man das Spiel "*too close to
 call*" nennen. Definitiv ein Spiel, für das sich das Wachbleiben lohnt.  
 **Siegwahrscheinlichkeit:** 53.4% : 46.6%
 
-</div>
-### [Kansas City Chiefs @ Pittsburgh Steelers:][Denver Broncos @ Carolina Panthers:]
+### Kansas City Chiefs @ Pittsburgh Steelers:
 
-<div>
 Die Chiefs sind ein Team, dem man absolut nichts zutrauen kann. Der eine
 Sieg bisher könnte sehr gut ihr einziger bleiben. Die Steelers hingegen
 haben nach dem starken Auftritt gegen die Giants viel Selbstvertrauen.
@@ -257,8 +231,3 @@ Roethlisberger und Mike Wallace, das deutlich souveräner wirkt als in
 vergangenen Jahren. Alles andere als ein Sieg der Steelers wäre eine
 Sensation.  
 **Siegwahrscheinlichkeit:** 14.1% : 85.9%
-
-</div>
-</div>
-
-  [Denver Broncos @ Carolina Panthers:]: #

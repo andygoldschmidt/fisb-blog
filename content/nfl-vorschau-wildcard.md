@@ -4,10 +4,9 @@ Author: footballissexbaby
 Tags: Football, NFL, Playoffs, Preview, Wildcard
 Slug: nfl-vorschau-wildcard
 
-<div id="accordion">
-### [Cincinnati Bengals @ Houston Texans:][]
 
-<div>
+### Cincinnati Bengals @ Houston Texans:
+
 Die Texans waren lange Zeit Spitzenreiter in meinen Rankings, haben
 allerdings durch Niederlagen gegen die Vikings und die Colts kräftig an
 Boden verloren. Ich würde das jedoch eher der Tatsache schulden, dass
@@ -35,13 +34,10 @@ der Lage sein es mit A.J. Green aufzunehmen. Wenn das gelingt, verliert
 die Bengals-Offense ihr Herzstück und die Texans können ihren zweiten
 Playoff-Sieg feiern.
 
-<p>
 **Siegwahrscheinlichkeit:** 29.4% : 70.6%
 
-</div>
-### [Minnesota Vikings @ Green Bay Packers:][Cincinnati Bengals @ Houston Texans:]
+### Minnesota Vikings @ Green Bay Packers:
 
-<div>
 Das Spiel letzte Woche hat sicher zu den besseren der Saison gehört und
 stand voll und ganz unter dem Stern "Bricht Adrian Peterson den
 Dickerson-Rekord?". Hat er nicht, aber er hat durch seine Leistung dazu
@@ -67,13 +63,10 @@ Peterson zu achten und so Räume für das Passing Game öffnen. Gelingt das
 alles, dann haben die Vikings eine Chance, aber realistischerweise sehe
 ich die Packers dank Rodgers im Vorteil.
 
-<p>
 **Siegwahrscheinlichkeit:** 44.4% : 55.6%
 
-</div>
-### [Indianapolis Colts @ Baltimore Ravens:][Cincinnati Bengals @ Houston Texans:]
+### Indianapolis Colts @ Baltimore Ravens:
 
-<div>
 Man kann sich darauf verlassen, dass die Ravens sehr motiviert sind. Sie
 werden alles geben, um Ray Lewis' Abschied möglichst bis zum 3. Februar
 hinauszuschieben. Auf der anderen Seite haben auch die Colts diese
@@ -109,13 +102,10 @@ machen. Das könnte gegen die Colts-Offense aber ein echtes Problem
 werden. Die Ravens werden wohl große Probleme mit Wayne haben, wodurch
 das Spiel lange spannend bleiben könnte.
 
-<p>
 **Siegwahrscheinlichkeit:** 55.7% : 44.3%
 
-</div>
-### [Seattle Seahawks @ Washington Redskins:][Cincinnati Bengals @ Houston Texans:]
+### Seattle Seahawks @ Washington Redskins:
 
-<div>
 Dieses Spiel ist für mich das interessanteste des ganzen
 Wildcard-Wochenendes. Die Redskins haben durch Robert Griffin III und
 Alfred Morris die wohl aufregendste Offense der Liga. Die Seahawks haben
@@ -134,7 +124,6 @@ Verteidiger der ganzen Liga, dazu kommen die beiden Cornerbacks Richard
 Sherman und Brandon Browner. Wenn eine Defense in der Lage ist die
 Redskins zu stoppen, dann diese Jungs.
 
-<p>
 Schaffen die Seahawks es RGIII und Alfred Morris zu bremsen, haben sie
 mit ihrer eigenen Offense gute Chancen. Die Offensive Line der Seahawks
 spielt auf einem hohen Niveau, allen voran C Max Unger und T Russell
@@ -146,8 +135,3 @@ ihnen ist der Unterschied zwischen Offense und Defense zwar deutlich,
 aber beide Einheiten spielen klar über dem Durchschnitt, was bei den
 Redskins nur der Offense gelingt.  
 **Siegwahrscheinlichkeit:** 59.4% : 40.6%
-
-</div>
-</div>
-
-  [Cincinnati Bengals @ Houston Texans:]: #
