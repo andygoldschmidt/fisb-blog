@@ -17,7 +17,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Sideline Reporter', 'http://sidelinereporter.wordpress.com/'),
+LINKS = (('GFWTC', 'http://gfwtc.de'),
+         ('Sideline Reporter', 'http://sidelinereporter.wordpress.com/'),
          ('Hard Count', 'http://hardcount.wordpress.com/'),
          ('Der andere Football Blog', 'http://deranderefootballblog.wordpress.com/'),)
 
@@ -37,4 +38,4 @@ ARTICLE_SAVE_AS = u'{date:%Y}/{date:%m}/{slug}.html'
 PLUGIN_PATH = 'plugins'
 
 THEME = 'themes/tuxlite_tbs'
-STATIC_PATHS = ["images", ]
+STATIC_PATHS = ["images", "themes/static"]
