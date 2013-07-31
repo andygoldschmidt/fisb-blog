@@ -1,10 +1,10 @@
 {{ article.locale_date }}
 
 {% if article.author %}
-by <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
+von <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
 {% endif %} 
 
-{# Filed under <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a> #}
+{# Gepostet unter <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a> #}
 
 {# 
 {% if article.tags %} 

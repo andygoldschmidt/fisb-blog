@@ -19,6 +19,8 @@
     <link href="{{ SITEURL }}/theme/local.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/pygments.css" rel="stylesheet">
 
+    <link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
+    <link href="{{ SITEURL }}/theme/custom.css" rel="stylesheet">
 </head>
 
 <body>
@@ -96,10 +98,10 @@
             <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
             <ul class="nav nav-list">
                 <li class="nav-header"> 
-                Site
+                Seite
                 </li>
             
-                <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL }}">Archives</a>
+                <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL }}">Archiv</a>
                 <li><a href="{{ SITEURL }}/tags.html">Tags</a>
                 <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" rel="alternate">Atom feed</a></li>
                 {% if FEED_RSS %}
@@ -113,7 +115,7 @@
             <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
             <ul class="nav nav-list">
                 <li class="nav-header"> 
-                Categories
+                Kategorien
                 </li>
                 
                 {% for cat, null in categories %}
