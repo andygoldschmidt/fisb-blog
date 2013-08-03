@@ -9,8 +9,6 @@ Die heiße Phase der Free Agency ist vorbei, viele Spieler haben neue
 Teams gefunden, einige blieben bei ihrem alten Team. Dabei wurde viel
 Geld verteilt und einiges an Kopfschütteln ausgelöst.
 
-![Mike Wallace: Der Hauptpreis der diesjährigen Free Agency.](|filename|/images/mike-wallace-300x239.jpg)
-
 Nachdem ich in zwei vorigen Artikeln schon die Verträge von Quarterbacks
 anhand der Vertragssituation von Joe Flacco analysiert habe ([**Wieviel
 sollte Joe Flacco den Ravens wert sein?**][] und [**Ein genauerer Blick
