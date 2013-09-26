@@ -16,6 +16,7 @@ RELATIVE_URLS = True
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
+OUTPUT_PATH = os.environ['FISB_OUTPUT_PATH']
 DELETE_OUTPUT_DIRECTORY = True
 
 # Custom settings
@@ -23,5 +24,5 @@ PLUGINS = ['gzip_cache', ]
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = "footballissexbaby"
-#GOOGLE_ANALYTICS = ""
+DISQUS_SITENAME = os.environ['FISB_DISQUS']
+#GOOGLE_ANALYTICS = os.environ['FISB_GOOGLE_ANALYTICS']
