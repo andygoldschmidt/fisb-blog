@@ -25,4 +25,4 @@ PLUGINS = ['gzip_cache', ]
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = os.environ['FISB_DISQUS']
-#GOOGLE_ANALYTICS = os.environ['FISB_GOOGLE_ANALYTICS']
+GOOGLE_ANALYTICS = os.environ['FISB_GOOGLE_ANALYTICS']

@@ -37,5 +37,5 @@ ARTICLE_SAVE_AS = u'{date:%Y}/{date:%m}/{slug}.html'
 
 PLUGIN_PATH = 'plugins'
 
-THEME = 'themes/tuxlite_tbs'
+THEME = 'themes/pelican-bootstrap3'
 STATIC_PATHS = ["images", "themes/static"]
