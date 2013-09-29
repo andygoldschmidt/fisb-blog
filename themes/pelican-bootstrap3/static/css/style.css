@@ -68,6 +68,6 @@ a, a:hover {
     margin-left: 0;
 }
 
-h2 {
+h2.index-title {
     color: #428bca;
 }
