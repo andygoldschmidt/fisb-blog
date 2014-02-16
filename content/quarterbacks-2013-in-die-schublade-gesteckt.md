@@ -9,7 +9,7 @@ Slug: quarterbacks-2013-in-die-schublade-gesteckt
 *Es ist bereits eine Weile her, seitdem ich über die [Time of Possession](|filename|time-of-possession-irrelevant-oder-nuetzlich.md) geschrieben habe. Seitdem war es bis auf einen [Gastbeitrag für Sideline Reporter](http://sidelinereporter.wordpress.com/2013/12/01/nfl-sonntagsvorschauer-2013-week-13/) mal wieder ziemlich ruhig. Doch jedes Warten hat irgendwann eine Ende und so gibt es jetzt endlich mal wieder einen neuen Beitrag.*
 
 
-Die reguläre Saison ist vorbei (und die Playoffs haben begonnen). Zeit also, um das allseits beliebte Spiel **"Welcher Quarterback ist Elite?"** zu spielen. Doch auf diesem Blog verlasse ich mich nicht gern auf *Pundits* oder subjektive Einschätzungen, sondern vielmehr auf statistische und mathematische Modelle und da ist die Kategorisierung von Quarterbacks keine Ausnahme.
+Der Super Bowl ist vorbei. Bis zur Free Agency und zum Draft vergeht noch etwas Zeit. Was also in der Zwischenzeit machen? Wie wäre es mit einer Runde des allseits beliebten: *Welcher Quarterback ist Elite und wer ist einfach nur doof*. Doch in diesem Blog verlasse ich mich wie immer nicht auf *Pundits*, sondern vielmehr auf statistische und mathematische Methoden und Modelle.
 
 Wer die folgende mathematische (aber einfach nachzuvollziehende) Ausführung überspringen will, [kommt hier direkt zu den Ergebnissen](#results).
 
