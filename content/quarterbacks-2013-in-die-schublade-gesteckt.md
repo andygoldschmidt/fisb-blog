@@ -359,3 +359,8 @@ Football ist ein sehr komplexer Sport und es ist nie leicht oder vollkommen rich
 K-Means-Clustering neigt darüber hinaus zur Nichtinterpretierbarkeit. Doch wenn man nur wenige Datenpunkte in wenige Kategorien einsortiert (wie in diesem Fall) ist das ein umgehbares Problem; auch wenn Gruppe 3 gewisse Tücken in der Interpretation aufweist.
 
 Insgesamt finde ich, dass diese Einteilung der Quarterbacks durchaus die subjektiv wahrgenommenen Leistungen widerspiegelt, jedoch ohne Wert auf vergangene Erfolge zu legen, was bei Experten eigentlich immer ein Problem ist.
+
+
+### P.S.
+
+Wer sich die Auswertung genauer ansehen möchte, [findet die Analyse hier](https://prod-vz-22.wakari.io:9008/notebook_relative/football/QB_2013_clustering.ipynb).
