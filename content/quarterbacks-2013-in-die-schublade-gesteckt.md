@@ -1,5 +1,5 @@
 Title: Quarterbacks 2013 - In die Schublade gesteckt
-Date: 2014-01-06 18:00
+Date: 2014-02-16 18:00
 Author: footballissexbaby
 Category: Analyse
 Tags: Quarterbacks, Clustering
