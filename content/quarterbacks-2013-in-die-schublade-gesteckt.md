@@ -363,4 +363,8 @@ Insgesamt finde ich, dass diese Einteilung der Quarterbacks durchaus die subjekt
 
 ### P.S.
 
-Wer sich die Auswertung genauer ansehen möchte, [findet die Analyse hier](https://prod-vz-22.wakari.io:9008/notebook_relative/football/QB_2013_clustering.ipynb).
+Wer sich die Auswertung genauer ansehen möchte, [findet die Analyse hier](https://www.wakari.io/sharing/bundle/footballissex/QB_2013_clustering).
+
+*(In der roten Einblendung ganz oben sollte man auf den "here"-Text klicken, um die Tabellen richtig dargestellt zu sehen.)*
+
+**Update**: Link zur Auswertung korrigiert.
