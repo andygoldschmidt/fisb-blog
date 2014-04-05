@@ -1,6 +1,7 @@
 Title: Ein wahrlich durchschnittliches Big Board
 Date: 2013-02-12 13:59
 Author: footballissexbaby
+Category: Draft
 Tags: Big Board, Draft, Football, Luke Joeckel, Matt Miller, Mel Kiper, NFL
 Slug: ein-wahrlich-durchschnittliches-big-board
 
@@ -50,7 +51,7 @@ Um nun einen geeigneten Durchschnitt zu bilden, habe ich das Kriterium
 angelegt, dass ein Spieler mindestens 3 Mal in den Top 25 zu finden sein
 muss, um sich zu qualifizieren.
 
-Wendet man dieses Kriterium an, bleiben 26 Spieler im Rennen.  
+Wendet man dieses Kriterium an, bleiben 26 Spieler im Rennen.
 Die folgende Tabelle zeigt das gemittelte Draft Board:
 
 <table class="table">
