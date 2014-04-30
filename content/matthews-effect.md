@@ -18,7 +18,7 @@ Nehmen wir an, die Deadline sei am 1. Januar 2014 gewesen und die Auswahl entsch
 
 Aber hier kommt genau das Problem zum Tragen. Niklas ist am 1. Januar nur 2 Wochen von seinem 10. Geburtstag entfernt, während der 9. Geburtstag von Jonas nur knapp 2 Monate zurückliegt. Niklas ist Jonas in seiner körperlichen Entwicklung also ganze 10 Monate (oder fast ein Jahr) voraus. Und es ist offensichtlich, was 10 Monate in der Entwicklung eines Kindes ausmachen. Jonas muss sich also gegen Mitspieler durchsetzen, die einen erheblichen Wachstumsvorsprung ihm gegenüber haben. Denn Scouts werden nicht fragen, wann die Kinder geboren sind, sondern rein nach Talent und körperlicher Statur gehen.
 
-Gladwell erklärt den *Matthews effect* anhand kanadischer Eishockey-Ligen. Stellt sich also die Frage, wie es für andere Sportligen, die NFL und die Fussball-Bundesliga, aussieht.
+Gladwell erklärt den *Matthews effect* anhand kanadischer Eishockey-Ligen. Stellt sich also die Frage, wie es für andere Sportligen, in dem Fall dieses Blogposts die NFL und die Fussball-Bundesliga, aussieht.
 
 Die Datenbeschaffung für die NFL dürfte regelmäßigen Lesern bekannt vorkommen: [Pro-Football-Reference](http://pro-football-reference.com) ist die 1. Anlaufstelle, wenn es um solche Sachen geht. Für die Bundesliga ist das schon etwas schwieriger, ich habe die Daten schließlich von [weltfussball.de](http://weltfussball.de) bezogen.
 
